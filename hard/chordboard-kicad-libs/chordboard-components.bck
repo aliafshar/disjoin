@@ -1,0 +1,158 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V3_1
+D power-flag symbol +3.3V
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3V3_2
+D power-flag symbol +3.3V
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3 State out
+K HCMOS BUS 3State
+$ENDCMP
+#
+$CMP 74LS245_aa
+D Octal BUS Transceivers, 3 State out
+K TTL BUS 3State
+$ENDCMP
+#
+$CMP BQ2000
+D Programmable Multi-Chemistry Fast-Charge Management IC
+K Charger
+F http://www.ti.com/lit/ds/symlink/bq2000.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Conn_ARM_JTAG_SWD_10_SAMD
+D Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface
+K Cortex Debug Connector ARM SWD JTAG
+F http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf
+$ENDCMP
+#
+$CMP FTDI
+D PIC ICSP
+K connector
+F ~
+$ENDCMP
+#
+$CMP FTDI_MCU
+D PIC ICSP
+K connector
+F ~
+$ENDCMP
+#
+$CMP GROVE_I2C
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP GROVE_UART
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP Jumper
+D Jumper, normally open
+K jumper link bridge
+$ENDCMP
+#
+$CMP KSW
+D Keyboard SPST switch, e.g. Cherry.
+$ENDCMP
+#
+$CMP MCP23017
+D 16-Bit I/O Expander with I²C Interface (PDIP/SOIC/SSOP)
+K IO Expander I²C IIC I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
+$ENDCMP
+#
+$CMP MCP73831-2-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-3-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-4-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.40V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-5-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.50V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-2-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-3-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-4-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.40V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-5-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.50V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP PCA9685
+D 64K Flash, 3.5K RAM, 1K EEPROM PIC18 Microcontroller ADC PWM CAN SPI I2C USART in SSOP28 package
+K microchip microcontroller PIC18 flash ECAN XLP nanoWatt
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf
+$ENDCMP
+#
+$CMP PIC_ICSP
+D PIC ICSP
+K connector
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor, small symbol
+K r resistor
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED with integrated controller
+K RGB LED NeoPixel
+F http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
+$ENDCMP
+#
+#End Doc Library

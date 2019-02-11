@@ -1,0 +1,11316 @@
+EESchema Schematic File Version 4
+LIBS:chordboard-cache
+EELAYER 26 0
+EELAYER END
+$Descr A0 46811 33110
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C744FD4
+P 17650 -18350
+F 0 "SW?" H 17450 -18300 50  0000 C CNN
+F 1 "SW_Push" H 17950 -18300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -18150 50  0001 C CNN
+F 3 "" H 17650 -18150 50  0001 C CNN
+	1    17650 -18350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C437509
+P 17650 -18250
+F 0 "SW?" H 17450 -18200 50  0000 C CNN
+F 1 "SW_Push" H 17950 -18200 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -18050 50  0001 C CNN
+F 3 "" H 17650 -18050 50  0001 C CNN
+	1    17650 -18250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C437551
+P 17650 -18150
+F 0 "SW?" H 17450 -18100 50  0000 C CNN
+F 1 "SW_Push" H 17950 -18100 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17950 50  0001 C CNN
+F 3 "" H 17650 -17950 50  0001 C CNN
+	1    17650 -18150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C437593
+P 17650 -18050
+F 0 "SW?" H 17450 -18000 50  0000 C CNN
+F 1 "SW_Push" H 17950 -18000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17850 50  0001 C CNN
+F 3 "" H 17650 -17850 50  0001 C CNN
+	1    17650 -18050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C4375D7
+P 17650 -17950
+F 0 "SW?" H 17450 -17900 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17900 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17750 50  0001 C CNN
+F 3 "" H 17650 -17750 50  0001 C CNN
+	1    17650 -17950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C437619
+P 17650 -17850
+F 0 "SW?" H 17450 -17800 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17650 50  0001 C CNN
+F 3 "" H 17650 -17650 50  0001 C CNN
+	1    17650 -17850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C43765D
+P 17650 -17750
+F 0 "SW?" H 17450 -17700 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17700 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17550 50  0001 C CNN
+F 3 "" H 17650 -17550 50  0001 C CNN
+	1    17650 -17750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C4376A7
+P 17650 -17650
+F 0 "SW?" H 17450 -17600 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17600 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17450 50  0001 C CNN
+F 3 "" H 17650 -17450 50  0001 C CNN
+	1    17650 -17650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB27171
+P 17650 -17450
+F 0 "SW?" H 17450 -17400 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17400 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17250 50  0001 C CNN
+F 3 "" H 17650 -17250 50  0001 C CNN
+	1    17650 -17450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C43773D
+P 17650 -17350
+F 0 "SW?" H 17450 -17300 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17150 50  0001 C CNN
+F 3 "" H 17650 -17150 50  0001 C CNN
+	1    17650 -17350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB27173
+P 17650 -17250
+F 0 "SW?" H 17450 -17200 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17200 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -17050 50  0001 C CNN
+F 3 "" H 17650 -17050 50  0001 C CNN
+	1    17650 -17250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB27174
+P 17650 -17150
+F 0 "SW?" H 17450 -17100 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17100 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -16950 50  0001 C CNN
+F 3 "" H 17650 -16950 50  0001 C CNN
+	1    17650 -17150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C43782B
+P 17650 -17050
+F 0 "SW?" H 17450 -17000 50  0000 C CNN
+F 1 "SW_Push" H 17950 -17000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -16850 50  0001 C CNN
+F 3 "" H 17650 -16850 50  0001 C CNN
+	1    17650 -17050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C43787F
+P 17650 -16950
+F 0 "SW?" H 17450 -16900 50  0000 C CNN
+F 1 "SW_Push" H 17950 -16900 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -16750 50  0001 C CNN
+F 3 "" H 17650 -16750 50  0001 C CNN
+	1    17650 -16950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C4378D7
+P 17650 -16850
+F 0 "SW?" H 17450 -16800 50  0000 C CNN
+F 1 "SW_Push" H 17950 -16800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -16650 50  0001 C CNN
+F 3 "" H 17650 -16650 50  0001 C CNN
+	1    17650 -16850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB27178
+P 17650 -16750
+F 0 "SW?" H 17450 -16700 50  0000 C CNN
+F 1 "SW_Push" H 17950 -16700 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 17650 -16550 50  0001 C CNN
+F 3 "" H 17650 -16550 50  0001 C CNN
+	1    17650 -16750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17250 -18350 17450 -18350
+Wire Wire Line
+	17450 -18250 17250 -18250
+Wire Wire Line
+	17250 -18150 17450 -18150
+Wire Wire Line
+	17450 -18050 17250 -18050
+Wire Wire Line
+	17250 -17950 17450 -17950
+Wire Wire Line
+	17250 -17850 17450 -17850
+Wire Wire Line
+	17450 -17750 17250 -17750
+Wire Wire Line
+	17250 -17650 17450 -17650
+Wire Wire Line
+	17450 -17450 17250 -17450
+Wire Wire Line
+	17250 -17350 17450 -17350
+Wire Wire Line
+	17250 -17250 17450 -17250
+Wire Wire Line
+	17250 -17150 17450 -17150
+Wire Wire Line
+	17250 -17050 17450 -17050
+Wire Wire Line
+	17250 -16950 17450 -16950
+Wire Wire Line
+	17450 -16850 17250 -16850
+Wire Wire Line
+	17250 -16750 17450 -16750
+Wire Wire Line
+	17850 -18350 18250 -18350
+Wire Wire Line
+	17850 -18250 18250 -18250
+Wire Wire Line
+	17850 -18150 18250 -18150
+Wire Wire Line
+	17850 -18050 18250 -18050
+Wire Wire Line
+	17850 -17950 18250 -17950
+Wire Wire Line
+	17850 -17850 18250 -17850
+Wire Wire Line
+	17850 -17750 18250 -17750
+Wire Wire Line
+	17850 -17650 18250 -17650
+Wire Wire Line
+	17850 -17450 18250 -17450
+Wire Wire Line
+	17850 -17350 18250 -17350
+Wire Wire Line
+	17850 -17250 18250 -17250
+Wire Wire Line
+	17850 -17150 18250 -17150
+Wire Wire Line
+	17850 -17050 18250 -17050
+Wire Wire Line
+	17850 -16950 18250 -16950
+Wire Wire Line
+	17850 -16850 18250 -16850
+Wire Wire Line
+	17850 -16750 18250 -16750
+Wire Wire Line
+	18250 -18350 18250 -18250
+Connection ~ 18250 -18250
+Wire Wire Line
+	18250 -18250 18250 -18150
+Connection ~ 18250 -18150
+Wire Wire Line
+	18250 -18150 18250 -18050
+Connection ~ 18250 -18050
+Wire Wire Line
+	18250 -18050 18250 -17950
+Connection ~ 18250 -17950
+Wire Wire Line
+	18250 -17950 18250 -17850
+Connection ~ 18250 -17850
+Wire Wire Line
+	18250 -17850 18250 -17750
+Connection ~ 18250 -17750
+Wire Wire Line
+	18250 -17750 18250 -17650
+Connection ~ 18250 -17650
+Wire Wire Line
+	18250 -17650 18250 -17450
+Connection ~ 18250 -17450
+Wire Wire Line
+	18250 -17450 18250 -17350
+Connection ~ 18250 -17350
+Wire Wire Line
+	18250 -17350 18250 -17250
+Connection ~ 18250 -17250
+Wire Wire Line
+	18250 -17250 18250 -17150
+Connection ~ 18250 -17150
+Wire Wire Line
+	18250 -17150 18250 -17050
+Connection ~ 18250 -17050
+Wire Wire Line
+	18250 -17050 18250 -16950
+Connection ~ 18250 -16950
+Wire Wire Line
+	18250 -16950 18250 -16850
+Connection ~ 18250 -16850
+Wire Wire Line
+	18250 -16850 18250 -16750
+Connection ~ 18250 -16750
+Wire Wire Line
+	18250 -16750 18250 -16500
+Text Label 18250 -16500 0    50   ~ 0
+T_GND
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271AD
+P 24400 -18200
+F 0 "SW?" H 24200 -18150 50  0000 C CNN
+F 1 "SW_Push" H 24700 -18150 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -18000 50  0001 C CNN
+F 3 "" H 24400 -18000 50  0001 C CNN
+	1    24400 -18200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271AE
+P 24400 -18100
+F 0 "SW?" H 24200 -18050 50  0000 C CNN
+F 1 "SW_Push" H 24700 -18050 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17900 50  0001 C CNN
+F 3 "" H 24400 -17900 50  0001 C CNN
+	1    24400 -18100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD51
+P 24400 -18000
+F 0 "SW?" H 24200 -17950 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17950 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17800 50  0001 C CNN
+F 3 "" H 24400 -17800 50  0001 C CNN
+	1    24400 -18000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271B0
+P 24400 -17900
+F 0 "SW?" H 24200 -17850 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17850 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17700 50  0001 C CNN
+F 3 "" H 24400 -17700 50  0001 C CNN
+	1    24400 -17900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD5F
+P 24400 -17800
+F 0 "SW?" H 24200 -17750 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17600 50  0001 C CNN
+F 3 "" H 24400 -17600 50  0001 C CNN
+	1    24400 -17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD66
+P 24400 -17700
+F 0 "SW?" H 24200 -17650 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17650 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17500 50  0001 C CNN
+F 3 "" H 24400 -17500 50  0001 C CNN
+	1    24400 -17700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD6D
+P 24400 -17600
+F 0 "SW?" H 24200 -17550 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17400 50  0001 C CNN
+F 3 "" H 24400 -17400 50  0001 C CNN
+	1    24400 -17600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD74
+P 24400 -17500
+F 0 "SW?" H 24200 -17450 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17450 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17300 50  0001 C CNN
+F 3 "" H 24400 -17300 50  0001 C CNN
+	1    24400 -17500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD7B
+P 24400 -17300
+F 0 "SW?" H 24200 -17250 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17250 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17100 50  0001 C CNN
+F 3 "" H 24400 -17100 50  0001 C CNN
+	1    24400 -17300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271B6
+P 24400 -17200
+F 0 "SW?" H 24200 -17150 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17150 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -17000 50  0001 C CNN
+F 3 "" H 24400 -17000 50  0001 C CNN
+	1    24400 -17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD89
+P 24400 -17100
+F 0 "SW?" H 24200 -17050 50  0000 C CNN
+F 1 "SW_Push" H 24700 -17050 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16900 50  0001 C CNN
+F 3 "" H 24400 -16900 50  0001 C CNN
+	1    24400 -17100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD90
+P 24400 -17000
+F 0 "SW?" H 24200 -16950 50  0000 C CNN
+F 1 "SW_Push" H 24700 -16950 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16800 50  0001 C CNN
+F 3 "" H 24400 -16800 50  0001 C CNN
+	1    24400 -17000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C6BFD97
+P 24400 -16900
+F 0 "SW?" H 24200 -16850 50  0000 C CNN
+F 1 "SW_Push" H 24700 -16850 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16700 50  0001 C CNN
+F 3 "" H 24400 -16700 50  0001 C CNN
+	1    24400 -16900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271BA
+P 24400 -16800
+F 0 "SW?" H 24200 -16750 50  0000 C CNN
+F 1 "SW_Push" H 24700 -16750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16600 50  0001 C CNN
+F 3 "" H 24400 -16600 50  0001 C CNN
+	1    24400 -16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271BB
+P 24400 -16700
+F 0 "SW?" H 24200 -16650 50  0000 C CNN
+F 1 "SW_Push" H 24700 -16650 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16500 50  0001 C CNN
+F 3 "" H 24400 -16500 50  0001 C CNN
+	1    24400 -16700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271BC
+P 24400 -16600
+F 0 "SW?" H 24200 -16550 50  0000 C CNN
+F 1 "SW_Push" H 24700 -16550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 24400 -16400 50  0001 C CNN
+F 3 "" H 24400 -16400 50  0001 C CNN
+	1    24400 -16600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24000 -18200 24200 -18200
+Wire Wire Line
+	24200 -18100 24000 -18100
+Wire Wire Line
+	24000 -18000 24200 -18000
+Wire Wire Line
+	24200 -17900 24000 -17900
+Wire Wire Line
+	24000 -17800 24200 -17800
+Wire Wire Line
+	24000 -17700 24200 -17700
+Wire Wire Line
+	24200 -17600 24000 -17600
+Wire Wire Line
+	24000 -17500 24200 -17500
+Wire Wire Line
+	24200 -17300 24000 -17300
+Wire Wire Line
+	24000 -17200 24200 -17200
+Wire Wire Line
+	24000 -17100 24200 -17100
+Wire Wire Line
+	24000 -17000 24200 -17000
+Wire Wire Line
+	24000 -16900 24200 -16900
+Wire Wire Line
+	24000 -16800 24200 -16800
+Wire Wire Line
+	24200 -16700 24000 -16700
+Wire Wire Line
+	24000 -16600 24200 -16600
+Wire Wire Line
+	24600 -18200 25000 -18200
+Wire Wire Line
+	24600 -18100 25000 -18100
+Wire Wire Line
+	24600 -18000 25000 -18000
+Wire Wire Line
+	24600 -17900 25000 -17900
+Wire Wire Line
+	24600 -17800 25000 -17800
+Wire Wire Line
+	24600 -17700 25000 -17700
+Wire Wire Line
+	24600 -17600 25000 -17600
+Wire Wire Line
+	24600 -17500 25000 -17500
+Wire Wire Line
+	24600 -17300 25000 -17300
+Wire Wire Line
+	24600 -17200 25000 -17200
+Wire Wire Line
+	24600 -17100 25000 -17100
+Wire Wire Line
+	24600 -17000 25000 -17000
+Wire Wire Line
+	24600 -16900 25000 -16900
+Wire Wire Line
+	24600 -16800 25000 -16800
+Wire Wire Line
+	24600 -16700 25000 -16700
+Wire Wire Line
+	24600 -16600 25000 -16600
+Wire Wire Line
+	25000 -18200 25000 -18100
+Connection ~ 25000 -18100
+Wire Wire Line
+	25000 -18100 25000 -18000
+Connection ~ 25000 -18000
+Wire Wire Line
+	25000 -18000 25000 -17900
+Connection ~ 25000 -17900
+Wire Wire Line
+	25000 -17900 25000 -17800
+Connection ~ 25000 -17800
+Wire Wire Line
+	25000 -17800 25000 -17700
+Connection ~ 25000 -17700
+Wire Wire Line
+	25000 -17700 25000 -17600
+Connection ~ 25000 -17600
+Wire Wire Line
+	25000 -17600 25000 -17500
+Connection ~ 25000 -17500
+Wire Wire Line
+	25000 -17500 25000 -17300
+Connection ~ 25000 -17300
+Wire Wire Line
+	25000 -17300 25000 -17200
+Connection ~ 25000 -17200
+Wire Wire Line
+	25000 -17200 25000 -17100
+Connection ~ 25000 -17100
+Wire Wire Line
+	25000 -17100 25000 -17000
+Connection ~ 25000 -17000
+Wire Wire Line
+	25000 -17000 25000 -16900
+Connection ~ 25000 -16900
+Wire Wire Line
+	25000 -16900 25000 -16800
+Connection ~ 25000 -16800
+Wire Wire Line
+	25000 -16800 25000 -16700
+Connection ~ 25000 -16700
+Wire Wire Line
+	25000 -16700 25000 -16600
+Connection ~ 25000 -16600
+Wire Wire Line
+	25000 -16600 25000 -16350
+Text Label 25000 -16350 0    50   ~ 0
+T_GND
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C71F7CA
+P 20800 -18300
+F 0 "SW?" H 20600 -18250 50  0000 C CNN
+F 1 "SW_Push" H 21100 -18250 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -18100 50  0001 C CNN
+F 3 "" H 20800 -18100 50  0001 C CNN
+	1    20800 -18300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C71F7D0
+P 20800 -18200
+F 0 "SW?" H 20600 -18150 50  0000 C CNN
+F 1 "SW_Push" H 21100 -18150 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -18000 50  0001 C CNN
+F 3 "" H 20800 -18000 50  0001 C CNN
+	1    20800 -18200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C0
+P 20800 -18100
+F 0 "SW?" H 20600 -18050 50  0000 C CNN
+F 1 "SW_Push" H 21100 -18050 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17900 50  0001 C CNN
+F 3 "" H 20800 -17900 50  0001 C CNN
+	1    20800 -18100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C71F7DC
+P 20800 -18000
+F 0 "SW?" H 20600 -17950 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17950 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17800 50  0001 C CNN
+F 3 "" H 20800 -17800 50  0001 C CNN
+	1    20800 -18000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C2
+P 20800 -17900
+F 0 "SW?" H 20600 -17850 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17850 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17700 50  0001 C CNN
+F 3 "" H 20800 -17700 50  0001 C CNN
+	1    20800 -17900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C3
+P 20800 -17800
+F 0 "SW?" H 20600 -17750 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17600 50  0001 C CNN
+F 3 "" H 20800 -17600 50  0001 C CNN
+	1    20800 -17800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C4
+P 20800 -17700
+F 0 "SW?" H 20600 -17650 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17650 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17500 50  0001 C CNN
+F 3 "" H 20800 -17500 50  0001 C CNN
+	1    20800 -17700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C5
+P 20800 -17600
+F 0 "SW?" H 20600 -17550 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17400 50  0001 C CNN
+F 3 "" H 20800 -17400 50  0001 C CNN
+	1    20800 -17600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C6
+P 20800 -17400
+F 0 "SW?" H 20600 -17350 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17350 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17200 50  0001 C CNN
+F 3 "" H 20800 -17200 50  0001 C CNN
+	1    20800 -17400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C7
+P 20800 -17300
+F 0 "SW?" H 20600 -17250 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17250 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17100 50  0001 C CNN
+F 3 "" H 20800 -17100 50  0001 C CNN
+	1    20800 -17300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271C8
+P 20800 -17200
+F 0 "SW?" H 20600 -17150 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17150 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -17000 50  0001 C CNN
+F 3 "" H 20800 -17000 50  0001 C CNN
+	1    20800 -17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C71F80C
+P 20800 -17100
+F 0 "SW?" H 20600 -17050 50  0000 C CNN
+F 1 "SW_Push" H 21100 -17050 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -16900 50  0001 C CNN
+F 3 "" H 20800 -16900 50  0001 C CNN
+	1    20800 -17100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271CA
+P 20800 -17000
+F 0 "SW?" H 20600 -16950 50  0000 C CNN
+F 1 "SW_Push" H 21100 -16950 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -16800 50  0001 C CNN
+F 3 "" H 20800 -16800 50  0001 C CNN
+	1    20800 -17000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271CB
+P 20800 -16900
+F 0 "SW?" H 20600 -16850 50  0000 C CNN
+F 1 "SW_Push" H 21100 -16850 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -16700 50  0001 C CNN
+F 3 "" H 20800 -16700 50  0001 C CNN
+	1    20800 -16900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CB271CC
+P 20800 -16800
+F 0 "SW?" H 20600 -16750 50  0000 C CNN
+F 1 "SW_Push" H 21100 -16750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -16600 50  0001 C CNN
+F 3 "" H 20800 -16600 50  0001 C CNN
+	1    20800 -16800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C71F824
+P 20800 -16700
+F 0 "SW?" H 20600 -16650 50  0000 C CNN
+F 1 "SW_Push" H 21100 -16650 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 20800 -16500 50  0001 C CNN
+F 3 "" H 20800 -16500 50  0001 C CNN
+	1    20800 -16700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20400 -18300 20600 -18300
+Wire Wire Line
+	20600 -18200 20400 -18200
+Wire Wire Line
+	20400 -18100 20600 -18100
+Wire Wire Line
+	20600 -18000 20400 -18000
+Wire Wire Line
+	20400 -17900 20600 -17900
+Wire Wire Line
+	20400 -17800 20600 -17800
+Wire Wire Line
+	20600 -17700 20400 -17700
+Wire Wire Line
+	20400 -17600 20600 -17600
+Wire Wire Line
+	20600 -17400 20400 -17400
+Wire Wire Line
+	20400 -17300 20600 -17300
+Wire Wire Line
+	20400 -17200 20600 -17200
+Wire Wire Line
+	20400 -17100 20600 -17100
+Wire Wire Line
+	20400 -17000 20600 -17000
+Wire Wire Line
+	20400 -16900 20600 -16900
+Wire Wire Line
+	20600 -16800 20400 -16800
+Wire Wire Line
+	20400 -16700 20600 -16700
+Wire Wire Line
+	21000 -18300 21400 -18300
+Wire Wire Line
+	21000 -18200 21400 -18200
+Wire Wire Line
+	21000 -18100 21400 -18100
+Wire Wire Line
+	21000 -18000 21400 -18000
+Wire Wire Line
+	21000 -17900 21400 -17900
+Wire Wire Line
+	21000 -17800 21400 -17800
+Wire Wire Line
+	21000 -17700 21400 -17700
+Wire Wire Line
+	21000 -17600 21400 -17600
+Wire Wire Line
+	21000 -17400 21400 -17400
+Wire Wire Line
+	21000 -17300 21400 -17300
+Wire Wire Line
+	21000 -17200 21400 -17200
+Wire Wire Line
+	21000 -17100 21400 -17100
+Wire Wire Line
+	21000 -17000 21400 -17000
+Wire Wire Line
+	21000 -16900 21400 -16900
+Wire Wire Line
+	21000 -16800 21400 -16800
+Wire Wire Line
+	21000 -16700 21400 -16700
+Wire Wire Line
+	21400 -18300 21400 -18200
+Connection ~ 21400 -18200
+Wire Wire Line
+	21400 -18200 21400 -18100
+Connection ~ 21400 -18100
+Wire Wire Line
+	21400 -18100 21400 -18000
+Connection ~ 21400 -18000
+Wire Wire Line
+	21400 -18000 21400 -17900
+Connection ~ 21400 -17900
+Wire Wire Line
+	21400 -17900 21400 -17800
+Connection ~ 21400 -17800
+Wire Wire Line
+	21400 -17800 21400 -17700
+Connection ~ 21400 -17700
+Wire Wire Line
+	21400 -17700 21400 -17600
+Connection ~ 21400 -17600
+Wire Wire Line
+	21400 -17600 21400 -17400
+Connection ~ 21400 -17400
+Wire Wire Line
+	21400 -17400 21400 -17300
+Connection ~ 21400 -17300
+Wire Wire Line
+	21400 -17300 21400 -17200
+Connection ~ 21400 -17200
+Wire Wire Line
+	21400 -17200 21400 -17100
+Connection ~ 21400 -17100
+Wire Wire Line
+	21400 -17100 21400 -17000
+Connection ~ 21400 -17000
+Wire Wire Line
+	21400 -17000 21400 -16900
+Connection ~ 21400 -16900
+Wire Wire Line
+	21400 -16900 21400 -16800
+Connection ~ 21400 -16800
+Wire Wire Line
+	21400 -16800 21400 -16700
+Connection ~ 21400 -16700
+Wire Wire Line
+	21400 -16700 21400 -16450
+Text Label 21400 -16450 0    50   ~ 0
+T_GND
+Text Label 2600 -18650 2    50   ~ 0
+T_GND
+Text Label 2600 -18550 2    50   ~ 0
+T_RX1
+Text Label 2600 -18450 2    50   ~ 0
+T_TX1
+NoConn ~ 3600 -17950
+Text Label 2600 -17650 2    50   ~ 0
+AUDIO_BCLK
+Text Label 2600 -17450 2    50   ~ 0
+AUDIO_MCLK
+NoConn ~ 3600 -17750
+Text Label 4800 -17350 0    50   ~ 0
+AUDIO_RXD0
+Text Label 4800 -18250 0    50   ~ 0
+AUDIO_TXD0
+Text Label 4800 -18350 0    50   ~ 0
+AUDIO_LRCLK
+Text Label 4800 -17950 0    50   ~ 0
+T_SCL
+Text Label 4800 -17850 0    50   ~ 0
+T_SDA
+Text Label 4800 -18550 0    50   ~ 0
+T_AGND
+Text Label 4800 -18650 0    50   ~ 0
+T_5V
+Text Label 2600 -18350 2    50   ~ 0
+MEMCARD_CS1
+Text Label 2600 -18250 2    50   ~ 0
+MEMCARD_CS2
+Text Label 2600 -18150 2    50   ~ 0
+MEMCARD_CS3
+Text Label 2600 -16450 2    50   ~ 0
+T_RX4
+Text Label 2600 -16350 2    50   ~ 0
+T_TX4
+Text Label 2600 -16750 2    50   ~ 0
+LED_DAT
+Text Label 2600 -16650 2    50   ~ 0
+LED_CLK
+Text Label 2600 -16550 2    50   ~ 0
+LED_CS
+Wire Wire Line
+	4800 -17950 6150 -17950
+Wire Wire Line
+	4800 -17850 6350 -17850
+$Comp
+L chordboard-components:R R?
+U 1 1 5C5B1932
+P 6150 -18150
+F 0 "R?" V 6200 -18000 50  0000 R CNN
+F 1 "4.7K" V 6200 -18250 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6150 -18150 50  0001 C CNN
+F 3 "" H 6150 -18150 50  0001 C CNN
+	1    6150 -18150
+	-1   0    0    1   
+$EndComp
+$Comp
+L chordboard-components:R R?
+U 1 1 5C5B1BDE
+P 6350 -18150
+F 0 "R?" V 6400 -18000 50  0000 R CNN
+F 1 "4.7K" V 6400 -18250 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6350 -18150 50  0001 C CNN
+F 3 "" H 6350 -18150 50  0001 C CNN
+	1    6350 -18150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6150 -17950 6150 -18050
+Wire Wire Line
+	6350 -17850 6350 -18050
+Wire Wire Line
+	6150 -18250 6150 -18450
+Wire Wire Line
+	6150 -18450 6350 -18450
+Wire Wire Line
+	6350 -18450 6350 -18250
+Text Label 6350 -18500 0    50   ~ 0
+T_3V3
+Wire Wire Line
+	6350 -18500 6350 -18450
+Connection ~ 6350 -18450
+Text Label 2600 -17850 2    50   ~ 0
+MEMCARD_MOSI
+Text Label 2600 -17350 2    50   ~ 0
+MEMCARD_MISO
+Text Label 4800 -17450 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -17600 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -17400 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -17500 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -17500 2    50   ~ 0
+T_3V3
+Text Label 10600 -17600 0    50   ~ 0
+T_3V3
+Text Label 10600 -17700 0    50   ~ 0
+T_3V3
+Text Label 9700 -17400 2    50   ~ 0
+T_GND
+Text Label 9700 -17700 2    50   ~ 0
+MEMCARD_CS1
+Text Label 9700 -17100 2    50   ~ 0
+MEMCARD_CS2
+Text Label 9700 -16500 2    50   ~ 0
+MEMCARD_CS3
+Text Label 9700 -17000 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -16800 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -16900 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -16900 2    50   ~ 0
+T_3V3
+Text Label 10600 -17000 0    50   ~ 0
+T_3V3
+Text Label 10600 -17100 0    50   ~ 0
+T_3V3
+Text Label 9700 -16800 2    50   ~ 0
+T_GND
+Text Label 9700 -16400 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -16200 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -16300 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -16300 2    50   ~ 0
+T_3V3
+Text Label 10600 -16400 0    50   ~ 0
+T_3V3
+Text Label 10600 -16500 0    50   ~ 0
+T_3V3
+Text Label 9700 -16200 2    50   ~ 0
+T_GND
+Text Label 2600 -18050 2    50   ~ 0
+MEMCARD_CS4
+Text Label 9700 -15900 2    50   ~ 0
+MEMCARD_CS4
+Text Label 9700 -15800 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -15600 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -15700 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -15700 2    50   ~ 0
+T_3V3
+Text Label 10600 -15800 0    50   ~ 0
+T_3V3
+Text Label 10600 -15900 0    50   ~ 0
+T_3V3
+Text Label 9700 -15600 2    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -17700 11350 -17700
+$Comp
+L Device:C_Small C?
+U 1 1 626F238A
+P 11350 -17550
+F 0 "C?" H 11442 -17504 50  0000 L CNN
+F 1 "C_Small" H 11442 -17595 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -17550 50  0001 C CNN
+F 3 "~" H 11350 -17550 50  0001 C CNN
+	1    11350 -17550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -17650 11350 -17700
+Wire Wire Line
+	11350 -17450 11350 -17400
+Text Label 11600 -17400 0    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -17100 11350 -17100
+$Comp
+L Device:C_Small C?
+U 1 1 628B970C
+P 11350 -16950
+F 0 "C?" H 11442 -16904 50  0000 L CNN
+F 1 "C_Small" H 11442 -16995 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -16950 50  0001 C CNN
+F 3 "~" H 11350 -16950 50  0001 C CNN
+	1    11350 -16950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -17050 11350 -17100
+Wire Wire Line
+	11350 -16850 11350 -16800
+Text Label 11600 -16800 0    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -16500 11350 -16500
+$Comp
+L Device:C_Small C?
+U 1 1 629A317E
+P 11350 -16350
+F 0 "C?" H 11442 -16304 50  0000 L CNN
+F 1 "C_Small" H 11442 -16395 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -16350 50  0001 C CNN
+F 3 "~" H 11350 -16350 50  0001 C CNN
+	1    11350 -16350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -16450 11350 -16500
+Wire Wire Line
+	11350 -16250 11350 -16200
+Text Label 11600 -16200 0    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -15900 11350 -15900
+$Comp
+L Device:C_Small C?
+U 1 1 5CB271E0
+P 11350 -15750
+F 0 "C?" H 11442 -15704 50  0000 L CNN
+F 1 "C_Small" H 11442 -15795 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -15750 50  0001 C CNN
+F 3 "~" H 11350 -15750 50  0001 C CNN
+	1    11350 -15750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -15850 11350 -15900
+Wire Wire Line
+	11350 -15650 11350 -15600
+Text Label 11600 -15600 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 5CB271EC
+P 10150 -17500
+F 0 "MEM?" H 10300 -17150 50  0000 C CNN
+F 1 "23LC1024" H 9900 -17150 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -17500 50  0001 C CNN
+F 3 "" H 10150 -17500 50  0001 C CNN
+	1    10150 -17500
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 5CB271ED
+P 10150 -16900
+F 0 "MEM?" H 10300 -16550 50  0000 C CNN
+F 1 "23LC1024" H 9900 -16550 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -16900 50  0001 C CNN
+F 3 "" H 10150 -16900 50  0001 C CNN
+	1    10150 -16900
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 64CE8B73
+P 10150 -16300
+F 0 "MEM?" H 10300 -15950 50  0000 C CNN
+F 1 "23LC1024" H 9900 -15950 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -16300 50  0001 C CNN
+F 3 "" H 10150 -16300 50  0001 C CNN
+	1    10150 -16300
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 64CE8D6D
+P 10150 -15700
+F 0 "MEM?" H 10300 -15350 50  0000 C CNN
+F 1 "23LC1024" H 9900 -15350 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -15700 50  0001 C CNN
+F 3 "" H 10150 -15700 50  0001 C CNN
+	1    10150 -15700
+	1    0    0    -1  
+$EndComp
+Text Label 4800 -17550 0    50   ~ 0
+AUDIO_VOL
+$Comp
+L chordboard-components:R R?
+U 1 1 659E2740
+P 5100 -18150
+F 0 "R?" V 5050 -18000 50  0000 C CNN
+F 1 "200" V 5100 -18150 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 5100 -18150 50  0001 C CNN
+F 3 "" H 5100 -18150 50  0001 C CNN
+	1    5100 -18150
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	4800 -18150 5000 -18150
+Wire Wire Line
+	5200 -18150 5300 -18150
+$Comp
+L Device:LED HLED?
+U 1 1 65C37CAB
+P 5450 -18150
+F 0 "HLED?" H 5450 -18200 50  0000 C CNN
+F 1 "T_HEARTBEAT" H 5450 -18050 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 5450 -18150 50  0001 C CNN
+F 3 "~" H 5450 -18150 50  0001 C CNN
+	1    5450 -18150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 -18150 5700 -18150
+Text Label 5700 -18150 0    50   ~ 0
+T_GND
+Text Label 3800 -16050 0    50   ~ 0
+T_PGM
+$Comp
+L Switch:SW_Push RSW?
+U 1 1 5CB271F3
+P 4000 -15700
+F 0 "RSW?" H 3800 -15650 50  0000 C CNN
+F 1 "T_PGM" H 3800 -15750 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" H 4000 -15500 50  0001 C CNN
+F 3 "" H 4000 -15500 50  0001 C CNN
+	1    4000 -15700
+	-1   0    0    -1  
+$EndComp
+Text Label 4350 -15700 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:FTDI_MCU J?
+U 1 1 5CB271F4
+P 1600 -18650
+F 0 "J?" H 1770 -18225 50  0000 C CNN
+F 1 "T_UART0" H 1770 -18316 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 1600 -18650 50  0001 C CNN
+F 3 "~" H 1600 -18650 50  0001 C CNN
+	1    1600 -18650
+	-1   0    0    -1  
+$EndComp
+Text Label 1800 -18850 0    50   ~ 0
+T_GND
+Text Label 1800 -18550 0    50   ~ 0
+T_RX1
+Text Label 1800 -18450 0    50   ~ 0
+T_TX1
+$Comp
+L chordboard-components:GROVE_I2C J?
+U 1 1 66B9ECBA
+P 7000 -17800
+F 0 "J?" H 7327 -17749 50  0000 L CNN
+F 1 "T_I2C0" H 7327 -17840 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 7000 -17800 50  0001 C CNN
+F 3 "" H 7000 -17800 50  0001 C CNN
+	1    7000 -17800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 -17950 6800 -17950
+Connection ~ 6150 -17950
+Wire Wire Line
+	6350 -17850 6800 -17850
+Connection ~ 6350 -17850
+Text Label 6800 -17650 2    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:GROVE_UART J?
+U 1 1 5CB271F5
+P 5850 -16300
+F 0 "J?" H 6177 -16249 50  0000 L CNN
+F 1 "T_UART5" H 6177 -16340 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 5850 -16300 50  0001 C CNN
+F 3 "" H 5850 -16300 50  0001 C CNN
+	1    5850 -16300
+	1    0    0    -1  
+$EndComp
+Text Label 4950 -12100 0    50   ~ 0
+ESP_TX0
+Text Label 4950 -12000 0    50   ~ 0
+ESP_RX0
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CB271F6
+P 3200 -12950
+F 0 "JP?" H 3200 -12755 50  0000 C CNN
+F 1 "Jumper_2_Bridged" H 3200 -12846 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 3200 -12950 50  0001 C CNN
+F 3 "~" H 3200 -12950 50  0001 C CNN
+	1    3200 -12950
+	0    1    1    0   
+$EndComp
+$Comp
+L esp32-wrover:ESP32-WROVER U?
+U 1 1 774925CF
+P 4100 -11750
+F 0 "U?" H 4075 -10413 60  0000 C CNN
+F 1 "ESP32-WROVER" H 4075 -10519 60  0000 C CNN
+F 2 "esp32-wrover:ESP32-WROVER" H 4550 -12050 60  0001 C CNN
+F 3 "" H 4550 -12050 60  0001 C CNN
+	1    4100 -11750
+	1    0    0    -1  
+$EndComp
+Text Label 4950 -11100 0    50   ~ 0
+ESP_D0
+Text Label 3200 -12300 2    50   ~ 0
+ESP_RST
+Text Label 3200 -12400 2    50   ~ 0
+ESP_3V3
+Text Label 3200 -12500 2    50   ~ 0
+ESP_GND
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CB271F8
+P 2450 -12400
+F 0 "JP?" H 2450 -12205 50  0000 C CNN
+F 1 "J_ESP_3V3" H 2450 -12296 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 2450 -12400 50  0001 C CNN
+F 3 "~" H 2450 -12400 50  0001 C CNN
+	1    2450 -12400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 -12400 3200 -12400
+NoConn ~ 3200 -10900
+NoConn ~ 3200 -10800
+NoConn ~ 3200 -10700
+NoConn ~ 4950 -10600
+NoConn ~ 4950 -10700
+NoConn ~ 4950 -10800
+Text Label 4950 -11900 0    50   ~ 0
+ESP_SDA
+Text Label 4950 -12200 0    50   ~ 0
+ESP_SCL
+Text Label 4950 -12400 0    50   ~ 0
+ESP_GND
+NoConn ~ 4950 -12500
+Wire Wire Line
+	2150 -12400 2250 -12400
+Wire Wire Line
+	3200 -12300 1700 -12300
+$Comp
+L Device:R R?
+U 1 1 774925F3
+P 1700 -12550
+F 0 "R?" V 1493 -12550 50  0000 C CNN
+F 1 "10K" V 1584 -12550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 1630 -12550 50  0001 C CNN
+F 3 "~" H 1700 -12550 50  0001 C CNN
+	1    1700 -12550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CB271FA
+P 5600 -11100
+F 0 "R?" V 5393 -11100 50  0000 C CNN
+F 1 "10K" V 5484 -11100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5530 -11100 50  0001 C CNN
+F 3 "~" H 5600 -11100 50  0001 C CNN
+	1    5600 -11100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4950 -11100 5450 -11100
+Text Label 1700 -12700 2    50   ~ 0
+ESP_3V3
+Text Label 5850 -11100 0    50   ~ 0
+ESP_3V3
+Wire Wire Line
+	1700 -12400 1700 -12300
+$Comp
+L Device:R R?
+U 1 1 5CB271FB
+P 5400 -11900
+F 0 "R?" V 5350 -11750 50  0000 C CNN
+F 1 "4.7K" V 5350 -12150 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5330 -11900 50  0001 C CNN
+F 3 "~" H 5400 -11900 50  0001 C CNN
+	1    5400 -11900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4950 -11900 5250 -11900
+Wire Wire Line
+	5550 -11900 5600 -11900
+Text Label 5600 -11900 0    50   ~ 0
+ESP_3V3
+$Comp
+L Device:R R?
+U 1 1 5CB271FC
+P 5400 -12200
+F 0 "R?" V 5350 -12050 50  0000 C CNN
+F 1 "4.7K" V 5350 -12450 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5330 -12200 50  0001 C CNN
+F 3 "~" H 5400 -12200 50  0001 C CNN
+	1    5400 -12200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4950 -12200 5250 -12200
+Text Label 5550 -12200 0    50   ~ 0
+ESP_3V3
+Text Label 3200 -11100 2    50   ~ 0
+ESP_GND
+Text Label 3200 -11200 2    50   ~ 0
+ESP_RX2
+Text Label 3200 -11000 2    50   ~ 0
+ESP_TX2
+$Comp
+L Device:C C?
+U 1 1 5CB271FE
+P 2800 -12650
+F 0 "C?" H 2915 -12604 50  0000 L CNN
+F 1 "C" H 2915 -12695 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 2838 -12800 50  0001 C CNN
+F 3 "~" H 2800 -12650 50  0001 C CNN
+	1    2800 -12650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 -12500 2800 -12500
+Text Label 2800 -12800 0    50   ~ 0
+ESP_3V3
+$Comp
+L chordboard-components:FTDI_MCU J?
+U 1 1 5CB271FF
+P 4650 -14550
+F 0 "J?" H 5000 -14650 50  0000 L CNN
+F 1 "E_UART0" H 5000 -14550 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 4650 -14550 50  0001 C CNN
+F 3 "~" H 4650 -14550 50  0001 C CNN
+	1    4650 -14550
+	1    0    0    -1  
+$EndComp
+Text Label 4450 -14750 2    50   ~ 0
+ESP_GND
+Text Label 4450 -14350 2    50   ~ 0
+ESP_TX0
+Text Label 4450 -14450 2    50   ~ 0
+ESP_RX0
+$Comp
+L Device:C C?
+U 1 1 5CB27201
+P 2600 -12650
+F 0 "C?" H 2715 -12604 50  0000 L CNN
+F 1 "C" H 2715 -12695 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 2638 -12800 50  0001 C CNN
+F 3 "~" H 2600 -12650 50  0001 C CNN
+	1    2600 -12650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 -12500 2600 -12500
+Connection ~ 2800 -12500
+Wire Wire Line
+	2600 -12800 2800 -12800
+Text Label 4950 -12300 0    50   ~ 0
+ESP_MOSI
+Text Label 4950 -11500 0    50   ~ 0
+ESP_CS
+Text Label 4950 -11600 0    50   ~ 0
+ESP_SCK
+Text Label 4950 -11700 0    50   ~ 0
+ESP_MISO
+Text Label 2150 -12400 2    50   ~ 0
+T_3V3
+Text Label 3200 -13150 2    50   ~ 0
+T_GND
+Wire Wire Line
+	2600 -17150 2350 -17150
+Text Label 6550 -13950 2    50   ~ 0
+ESP_RST
+Text Label 6550 -13850 2    50   ~ 0
+ESP_D0
+Text Label 850  -11200 2    50   ~ 0
+T_TX4
+Text Label 850  -11000 2    50   ~ 0
+T_RX4
+Text Label 7150 -13950 0    50   ~ 0
+ESP_GND
+Text Label 7150 -13850 0    50   ~ 0
+ESP_GND
+Wire Wire Line
+	3200 -12750 3200 -12500
+Connection ~ 3200 -12500
+$Comp
+L chordboard-components:R R?
+U 1 1 774926C8
+P 3000 -11300
+F 0 "R?" V 2804 -11300 50  0000 C CNN
+F 1 "200" V 2895 -11300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3000 -11300 50  0001 C CNN
+F 3 "" H 3000 -11300 50  0001 C CNN
+	1    3000 -11300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2900 -11300 2400 -11300
+$Comp
+L Device:LED HLED?
+U 1 1 774926D0
+P 2250 -11300
+F 0 "HLED?" H 2450 -11350 50  0000 C CNN
+F 1 "E_HEARTBEAT" H 2400 -11250 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 2250 -11300 50  0001 C CNN
+F 3 "~" H 2250 -11300 50  0001 C CNN
+	1    2250 -11300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 -11300 2000 -11300
+Wire Wire Line
+	3100 -11300 3200 -11300
+Text Label 2000 -11300 2    50   ~ 0
+ESP_GND
+$Comp
+L Switch:SW_Push RSW?
+U 1 1 5CB2720E
+P 2150 -17150
+F 0 "RSW?" H 1950 -17100 50  0000 C CNN
+F 1 "E_PGM" H 2450 -17100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" H 2150 -16950 50  0001 C CNN
+F 3 "" H 2150 -16950 50  0001 C CNN
+	1    2150 -17150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 68454DB9
+P 12350 -17100
+F 0 "H?" H 12450 -17054 50  0000 L CNN
+F 1 "MountingHole" H 12450 -17145 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -17100 50  0001 C CNN
+F 3 "~" H 12350 -17100 50  0001 C CNN
+	1    12350 -17100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 68454DBF
+P 12350 -16900
+F 0 "H?" H 12450 -16854 50  0000 L CNN
+F 1 "MountingHole" H 12450 -16945 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -16900 50  0001 C CNN
+F 3 "~" H 12350 -16900 50  0001 C CNN
+	1    12350 -16900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 68454DC5
+P 12350 -16700
+F 0 "H?" H 12450 -16654 50  0000 L CNN
+F 1 "MountingHole" H 12450 -16745 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -16700 50  0001 C CNN
+F 3 "~" H 12350 -16700 50  0001 C CNN
+	1    12350 -16700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 68454DCB
+P 12350 -16500
+F 0 "H?" H 12450 -16454 50  0000 L CNN
+F 1 "MountingHole" H 12450 -16545 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -16500 50  0001 C CNN
+F 3 "~" H 12350 -16500 50  0001 C CNN
+	1    12350 -16500
+	1    0    0    -1  
+$EndComp
+Text Label 5650 -12300 0    50   ~ 0
+E_LED_DAT
+Text Label 6050 -11600 0    50   ~ 0
+E_LED_CLK
+Text Label 6050 -11500 0    50   ~ 0
+E_LED_CS
+Wire Wire Line
+	5750 -11100 5850 -11100
+Wire Wire Line
+	5650 -12300 4950 -12300
+Wire Wire Line
+	6050 -11600 4950 -11600
+Wire Wire Line
+	4950 -11500 6050 -11500
+Text Label 3200 -11500 2    50   ~ 0
+E_ROTARY_INTA
+Text Label 3200 -11400 2    50   ~ 0
+E_ROTARY_INTB
+$Comp
+L Switch:SW_DIP_x02 DIPSW?
+U 1 1 5C552149
+P 6850 -13850
+F 0 "DIPSW?" H 6850 -13483 50  0000 C CNN
+F 1 "E_BOOTOPTS" H 6850 -13574 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm" H 6850 -13850 50  0001 C CNN
+F 3 "" H 6850 -13850 50  0001 C CNN
+	1    6850 -13850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C561870
+P 1400 -11200
+F 0 "JP?" H 1600 -11150 50  0000 C CNN
+F 1 "J_ESP_RX2" H 1100 -11150 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 1400 -11200 50  0001 C CNN
+F 3 "~" H 1400 -11200 50  0001 C CNN
+	1    1400 -11200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C561EFF
+P 1400 -11000
+F 0 "JP?" H 1600 -10950 50  0000 C CNN
+F 1 "J_ESP_TX2" H 1100 -10950 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 1400 -11000 50  0001 C CNN
+F 3 "~" H 1400 -11000 50  0001 C CNN
+	1    1400 -11000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	850  -11200 1200 -11200
+Wire Wire Line
+	850  -11000 1200 -11000
+Wire Wire Line
+	1600 -11200 3200 -11200
+Wire Wire Line
+	3200 -11000 1600 -11000
+Text Label 2600 -17250 2    50   ~ 0
+T_3V3
+Text Label 6800 -17750 2    50   ~ 0
+T_3V3
+$Comp
+L Connector_Generic:Conn_01x07 J?
+U 1 1 5C5789FD
+P 8250 -18900
+F 0 "J?" H 8170 -18383 50  0000 C CNN
+F 1 "Conn_01x07" H 8170 -18474 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 8250 -18900 50  0001 C CNN
+F 3 "~" H 8250 -18900 50  0001 C CNN
+	1    8250 -18900
+	-1   0    0    -1  
+$EndComp
+Text Label 8450 -18700 0    50   ~ 0
+MEMCARD_MISO
+Text Label 8450 -19200 0    50   ~ 0
+MEMCARD_CS1
+Text Label 8450 -19100 0    50   ~ 0
+MEMCARD_CS2
+Text Label 8450 -19000 0    50   ~ 0
+MEMCARD_CS3
+Text Label 8450 -18900 0    50   ~ 0
+MEMCARD_CS4
+Text Label 8450 -18800 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 8450 -18600 0    50   ~ 0
+MEMCARD_SCK
+$Comp
+L teensy-36-components:Teensy3.6 TEE?
+U 1 1 5C5A5732
+P 3700 -17500
+F 0 "TEE?" H 3700 -16063 60  0000 C CNN
+F 1 "Teensy3.6" H 3700 -16169 60  0000 C CNN
+F 2 "teensy36-footprint:teensy36" H 4150 -16800 60  0001 C CNN
+F 3 "" H 4150 -16800 60  0000 C CNN
+	1    3700 -17500
+	1    0    0    -1  
+$EndComp
+Text Label 3800 -16050 3    50   ~ 0
+T_PGM
+Wire Wire Line
+	4800 -16450 5650 -16450
+Wire Wire Line
+	5650 -16350 4800 -16350
+Text Label 5650 -16150 2    50   ~ 0
+T_GND
+Text Label 5650 -16250 2    50   ~ 0
+T_3V3
+Wire Wire Line
+	2600 -18450 1800 -18450
+Wire Wire Line
+	1800 -18550 2600 -18550
+Wire Wire Line
+	4350 -15700 4200 -15700
+Wire Wire Line
+	3800 -16050 3800 -15700
+NoConn ~ 2600 -17850
+NoConn ~ 2600 -17650
+NoConn ~ 2600 -17450
+NoConn ~ 2600 -17350
+NoConn ~ 4800 -17550
+NoConn ~ 4800 -17450
+NoConn ~ 4800 -17350
+Text Label 1950 -17150 2    50   ~ 0
+T_GND
+Text Label 2200 -17050 2    50   ~ 0
+ESP_RST
+Text Label 2200 -16950 2    50   ~ 0
+ESP_D0
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 7749269D
+P 2400 -16950
+F 0 "JP?" H 2700 -16900 50  0000 C CNN
+F 1 "J_ESP_D0" H 2400 -16900 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 2400 -16950 50  0001 C CNN
+F 3 "~" H 2400 -16950 50  0001 C CNN
+	1    2400 -16950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CB27208
+P 2400 -17050
+F 0 "JP?" H 2700 -17000 50  0000 C CNN
+F 1 "J_ESP_RST" H 2400 -17000 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 2400 -17050 50  0001 C CNN
+F 3 "~" H 2400 -17050 50  0001 C CNN
+	1    2400 -17050
+	-1   0    0    -1  
+$EndComp
+Text Label 3250 -14650 0    50   ~ 0
+ESP_SDA
+Text Label 3250 -14750 0    50   ~ 0
+ESP_SCL
+Text Label 3250 -14450 0    50   ~ 0
+ESP_GND
+Text Label 3250 -14550 0    50   ~ 0
+ESP_3V3
+$Comp
+L chordboard-components:GROVE_I2C J?
+U 1 1 5CB27202
+P 3050 -14600
+F 0 "J?" H 3377 -14549 50  0000 L CNN
+F 1 "E_I2C0" H 3377 -14640 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 3050 -14600 50  0001 C CNN
+F 3 "" H 3050 -14600 50  0001 C CNN
+	1    3050 -14600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Interface_Expansion:MCP23017_SP MCP?
+U 1 1 5C7FDD06
+P 23300 -17400
+F 0 "MCP?" H 23300 -16122 50  0000 C CNN
+F 1 "MCP23017_SP" H 23300 -16213 50  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 23500 -18400 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 23500 -18500 50  0001 L CNN
+	1    23300 -17400
+	1    0    0    -1  
+$EndComp
+Text Label 22600 -18100 2    50   ~ 0
+T_SCL
+Text Label 22600 -18200 2    50   ~ 0
+T_SDA
+Text Label 23300 -18750 0    50   ~ 0
+T_3V3
+Text Label 23300 -16300 0    50   ~ 0
+T_GND
+$Comp
+L Interface_Expansion:MCP23017_SP MCP?
+U 1 1 5C7FDD6A
+P 19700 -17500
+F 0 "MCP?" H 19700 -16222 50  0000 C CNN
+F 1 "MCP23017_SP" H 19700 -16313 50  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 19900 -18500 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 19900 -18600 50  0001 L CNN
+	1    19700 -17500
+	1    0    0    -1  
+$EndComp
+Text Label 19000 -18200 2    50   ~ 0
+T_SCL
+Text Label 19000 -18300 2    50   ~ 0
+T_SDA
+Text Label 19700 -18600 0    50   ~ 0
+T_3V3
+Text Label 19700 -16400 0    50   ~ 0
+T_GND
+Text Label 22600 -17300 2    50   ~ 0
+T_3V3
+Text Label 19000 -17400 2    50   ~ 0
+T_3V3
+Wire Wire Line
+	23300 -18750 23300 -18700
+Text Label 19700 -18850 0    50   ~ 0
+T_3V3
+Wire Wire Line
+	23300 -18700 23900 -18700
+$Comp
+L Device:C_Small C?
+U 1 1 5C7FDDFB
+P 23900 -18550
+F 0 "C?" H 23992 -18504 50  0000 L CNN
+F 1 "C_Small" H 23992 -18595 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 23900 -18550 50  0001 C CNN
+F 3 "~" H 23900 -18550 50  0001 C CNN
+	1    23900 -18550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23900 -18650 23900 -18700
+Wire Wire Line
+	23900 -18700 24100 -18700
+Wire Wire Line
+	24100 -18700 24100 -18650
+Connection ~ 23900 -18700
+Wire Wire Line
+	23900 -18450 23900 -18400
+Wire Wire Line
+	23900 -18400 24100 -18400
+Wire Wire Line
+	24100 -18400 24100 -18450
+Text Label 24150 -18400 0    50   ~ 0
+T_GND
+Wire Wire Line
+	24150 -18400 24100 -18400
+Connection ~ 24100 -18400
+Connection ~ 23300 -18700
+Wire Wire Line
+	23300 -18700 23300 -18500
+Wire Wire Line
+	19700 -18850 19700 -18800
+Wire Wire Line
+	19700 -18800 20300 -18800
+$Comp
+L Device:C_Small C?
+U 1 1 5C7FDE17
+P 20300 -18650
+F 0 "C?" H 20392 -18604 50  0000 L CNN
+F 1 "C_Small" H 20392 -18695 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 20300 -18650 50  0001 C CNN
+F 3 "~" H 20300 -18650 50  0001 C CNN
+	1    20300 -18650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20300 -18750 20300 -18800
+Wire Wire Line
+	20300 -18800 20500 -18800
+Wire Wire Line
+	20500 -18800 20500 -18750
+Connection ~ 20300 -18800
+Wire Wire Line
+	20300 -18550 20300 -18500
+Wire Wire Line
+	20300 -18500 20500 -18500
+Wire Wire Line
+	20500 -18500 20500 -18550
+Text Label 20550 -18500 0    50   ~ 0
+T_GND
+Wire Wire Line
+	20550 -18500 20500 -18500
+Connection ~ 20500 -18500
+Connection ~ 19700 -18800
+Wire Wire Line
+	19700 -18800 19700 -18600
+$Comp
+L Interface_Expansion:MCP23017_SP MCP?
+U 1 1 5C833E10
+P 16550 -17550
+F 0 "MCP?" H 16550 -16272 50  0000 C CNN
+F 1 "MCP23017_SP" H 16550 -16363 50  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 16750 -18550 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 16750 -18650 50  0001 L CNN
+	1    16550 -17550
+	1    0    0    -1  
+$EndComp
+Text Label 15850 -18250 2    50   ~ 0
+T_SCL
+Text Label 15850 -18350 2    50   ~ 0
+T_SDA
+Text Label 16550 -18650 0    50   ~ 0
+T_3V3
+Text Label 16550 -16450 0    50   ~ 0
+T_GND
+Text Label 15850 -17450 2    50   ~ 0
+T_3V3
+Wire Wire Line
+	16550 -18900 16550 -18850
+Wire Wire Line
+	16550 -18850 17150 -18850
+$Comp
+L Device:C_Small C?
+U 1 1 5C833E1E
+P 17150 -18700
+F 0 "C?" H 17242 -18654 50  0000 L CNN
+F 1 "C_Small" H 17242 -18745 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 17150 -18700 50  0001 C CNN
+F 3 "~" H 17150 -18700 50  0001 C CNN
+	1    17150 -18700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17150 -18800 17150 -18850
+Wire Wire Line
+	17150 -18850 17350 -18850
+Wire Wire Line
+	17350 -18850 17350 -18800
+Connection ~ 17150 -18850
+Wire Wire Line
+	17150 -18600 17150 -18550
+Wire Wire Line
+	17150 -18550 17350 -18550
+Wire Wire Line
+	17350 -18550 17350 -18600
+Text Label 17400 -18550 0    50   ~ 0
+T_GND
+Wire Wire Line
+	17400 -18550 17350 -18550
+Connection ~ 17350 -18550
+Connection ~ 16550 -18850
+Wire Wire Line
+	16550 -18850 16550 -18650
+Text Label 19000 -16900 2    50   ~ 0
+T_GND
+Text Label 19000 -16800 2    50   ~ 0
+T_GND
+Text Label 19000 -16700 2    50   ~ 0
+T_GND
+Text Label 15850 -16950 2    50   ~ 0
+T_GND
+Text Label 15850 -16750 2    50   ~ 0
+T_GND
+Text Label 15850 -16850 2    50   ~ 0
+T_3V3
+Text Label 22600 -16700 2    50   ~ 0
+T_GND
+Text Label 22600 -16600 2    50   ~ 0
+T_GND
+Text Label 22600 -16800 2    50   ~ 0
+T_3V3
+$Comp
+L Regulator_Linear:AZ1117-3.3 U?
+U 1 1 5C502FAF
+P 9300 -12600
+F 0 "U?" H 9300 -12358 50  0000 C CNN
+F 1 "AZ1117-3.3" H 9300 -12449 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 9300 -12350 50  0001 C CIN
+F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 9300 -12600 50  0001 C CNN
+	1    9300 -12600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 5C5037C7
+P 9650 -12150
+F 0 "C?" H 9738 -12104 50  0000 L CNN
+F 1 "100uF" H 9738 -12195 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 9650 -12150 50  0001 C CNN
+F 3 "~" H 9650 -12150 50  0001 C CNN
+	1    9650 -12150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 5C503C81
+P 8950 -12150
+F 0 "C?" H 9038 -12104 50  0000 L CNN
+F 1 "10uF" H 9038 -12195 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 8950 -12150 50  0001 C CNN
+F 3 "~" H 8950 -12150 50  0001 C CNN
+	1    8950 -12150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 -12600 8950 -12600
+Wire Wire Line
+	8950 -12600 8950 -12250
+Wire Wire Line
+	9600 -12600 9650 -12600
+Wire Wire Line
+	9650 -12600 9650 -12250
+Wire Wire Line
+	9300 -12300 9300 -11950
+Wire Wire Line
+	9300 -11950 8950 -11950
+Wire Wire Line
+	8950 -11950 8950 -12050
+Wire Wire Line
+	9300 -11950 9650 -11950
+Wire Wire Line
+	9650 -11950 9650 -12050
+Connection ~ 9300 -11950
+Wire Wire Line
+	8950 -12600 8950 -12750
+Connection ~ 8950 -12600
+$Comp
+L power:+5V #PWR?
+U 1 1 5C701095
+P 8950 -12900
+F 0 "#PWR?" H 8950 -13050 50  0001 C CNN
+F 1 "+5V" H 8965 -12727 50  0000 C CNN
+F 2 "" H 8950 -12900 50  0001 C CNN
+F 3 "" H 8950 -12900 50  0001 C CNN
+	1    8950 -12900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 -12600 9650 -12750
+Connection ~ 9650 -12600
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5C7688CC
+P 9650 -12900
+F 0 "#PWR?" H 9650 -13050 50  0001 C CNN
+F 1 "+3.3V" H 9665 -12727 50  0000 C CNN
+F 2 "" H 9650 -12900 50  0001 C CNN
+F 3 "" H 9650 -12900 50  0001 C CNN
+	1    9650 -12900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J?
+U 1 1 5C768C43
+P 8050 -11950
+F 0 "J?" H 7970 -11733 50  0000 C CNN
+F 1 "++5V_IN" H 7970 -11824 50  0000 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 8050 -11950 50  0001 C CNN
+F 3 "~" H 8050 -11950 50  0001 C CNN
+	1    8050 -11950
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 -11950 9300 -11850
+$Comp
+L power:GND #PWR?
+U 1 1 5C7D124C
+P 9300 -11800
+F 0 "#PWR?" H 9300 -12050 50  0001 C CNN
+F 1 "GND" H 9305 -11973 50  0000 C CNN
+F 2 "" H 9300 -11800 50  0001 C CNN
+F 3 "" H 9300 -11800 50  0001 C CNN
+	1    9300 -11800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 -11850 10050 -11850
+Connection ~ 9300 -11850
+Wire Wire Line
+	9300 -11850 9300 -11800
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C90A2E1
+P 10250 -11850
+F 0 "JP?" H 10250 -11655 50  0000 C CNN
+F 1 "J_PWR_GND" H 10250 -11746 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 10250 -11850 50  0001 C CNN
+F 3 "~" H 10250 -11850 50  0001 C CNN
+	1    10250 -11850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 -11850 10700 -11850
+Wire Wire Line
+	8250 -11850 9300 -11850
+Text Label 10700 -11850 0    50   ~ 0
+T_GND
+Wire Wire Line
+	8250 -11950 8450 -11950
+Wire Wire Line
+	8450 -11950 8450 -12750
+$Comp
+L Device:D D?
+U 1 1 5CA483E2
+P 8600 -12750
+F 0 "D?" H 8600 -12966 50  0000 C CNN
+F 1 "D" H 8600 -12875 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 8600 -12750 50  0001 C CNN
+F 3 "~" H 8600 -12750 50  0001 C CNN
+	1    8600 -12750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8750 -12750 8950 -12750
+Connection ~ 8950 -12750
+Wire Wire Line
+	8950 -12750 8950 -12900
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CAB3550
+P 10250 -12750
+F 0 "JP?" H 10250 -12555 50  0000 C CNN
+F 1 "J_PWR_3V3" H 10250 -12646 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 10250 -12750 50  0001 C CNN
+F 3 "~" H 10250 -12750 50  0001 C CNN
+	1    10250 -12750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 -12750 10050 -12750
+Connection ~ 9650 -12750
+Wire Wire Line
+	9650 -12750 9650 -12900
+Wire Wire Line
+	10450 -12750 10700 -12750
+Text Label 10700 -12750 0    50   ~ 0
+T_3V3
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5F709CF4
+P 12350 -17300
+F 0 "H?" H 12450 -17254 50  0000 L CNN
+F 1 "MountingHole" H 12450 -17345 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -17300 50  0001 C CNN
+F 3 "~" H 12350 -17300 50  0001 C CNN
+	1    12350 -17300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5F709EF6
+P 12350 -17500
+F 0 "H?" H 12450 -17454 50  0000 L CNN
+F 1 "MountingHole" H 12450 -17545 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 12350 -17500 50  0001 C CNN
+F 3 "~" H 12350 -17500 50  0001 C CNN
+	1    12350 -17500
+	1    0    0    -1  
+$EndComp
+Text Label 4800 -16750 0    50   ~ 0
+RE1B
+Text Label 4800 -16850 0    50   ~ 0
+RE1A
+Text Label 4800 -16650 0    50   ~ 0
+RE2A
+Text Label 4800 -16550 0    50   ~ 0
+RE2B
+Text Label 4800 -17750 0    50   ~ 0
+RE3A
+Text Label 4800 -17650 0    50   ~ 0
+RE3B
+$Comp
+L 74xx:74LS126 U?
+U 1 1 5C6762DA
+P 13150 -20100
+F 0 "U?" H 13150 -19876 50  0000 C CNN
+F 1 "74LS126" H 13150 -19785 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 13150 -20100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 13150 -20100 50  0001 C CNN
+	1    13150 -20100
+	1    0    0    1   
+$EndComp
+$Comp
+L 74xx:74LS126 U?
+U 2 1 5C6766B1
+P 13150 -19550
+F 0 "U?" H 13150 -19326 50  0000 C CNN
+F 1 "74LS126" H 13150 -19235 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 13150 -19550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 13150 -19550 50  0001 C CNN
+	2    13150 -19550
+	1    0    0    1   
+$EndComp
+$Comp
+L 74xx:74LS126 U?
+U 3 1 5C6773F3
+P 13150 -18900
+F 0 "U?" H 13150 -18676 50  0000 C CNN
+F 1 "74LS126" H 13150 -18585 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 13150 -18900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 13150 -18900 50  0001 C CNN
+	3    13150 -18900
+	1    0    0    1   
+$EndComp
+$Comp
+L 74xx:74LS126 U?
+U 5 1 5C677690
+P 11750 -19000
+F 0 "U?" H 11980 -18954 50  0000 L CNN
+F 1 "74LS126" H 11980 -19045 50  0000 L CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 11750 -19000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 11750 -19000 50  0001 C CNN
+	5    11750 -19000
+	1    0    0    -1  
+$EndComp
+Text Label 2600 -17950 2    50   ~ 0
+MEMCARD_CS5
+Text Label 2600 -17750 2    50   ~ 0
+MEMCARD_CS6
+Text Label 9700 -15250 2    50   ~ 0
+MEMCARD_CS4
+Text Label 9700 -15150 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -14950 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -15050 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -15050 2    50   ~ 0
+T_3V3
+Text Label 10600 -15150 0    50   ~ 0
+T_3V3
+Text Label 10600 -15250 0    50   ~ 0
+T_3V3
+Text Label 9700 -14950 2    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -15250 11350 -15250
+$Comp
+L Device:C_Small C?
+U 1 1 5C759767
+P 11350 -15100
+F 0 "C?" H 11442 -15054 50  0000 L CNN
+F 1 "C_Small" H 11442 -15145 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -15100 50  0001 C CNN
+F 3 "~" H 11350 -15100 50  0001 C CNN
+	1    11350 -15100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -15200 11350 -15250
+Wire Wire Line
+	11350 -15000 11350 -14950
+Text Label 11600 -14950 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 5C759777
+P 10150 -15050
+F 0 "MEM?" H 10300 -14700 50  0000 C CNN
+F 1 "23LC1024" H 9900 -14700 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -15050 50  0001 C CNN
+F 3 "" H 10150 -15050 50  0001 C CNN
+	1    10150 -15050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -14950 11600 -14950
+Wire Wire Line
+	11350 -15600 11600 -15600
+Wire Wire Line
+	11350 -16200 11600 -16200
+Wire Wire Line
+	11350 -16800 11600 -16800
+Wire Wire Line
+	11350 -17400 11600 -17400
+$Comp
+L 74xx:74LS126 U?
+U 4 1 5C91F99F
+P 13150 -18250
+F 0 "U?" H 13150 -18026 50  0000 C CNN
+F 1 "74LS126" H 13150 -17935 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 13150 -18250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 13150 -18250 50  0001 C CNN
+	4    13150 -18250
+	1    0    0    1   
+$EndComp
+Text Label 9700 -14600 2    50   ~ 0
+MEMCARD_CS4
+Text Label 9700 -14500 2    50   ~ 0
+MEMCARD_MISO
+Text Label 10600 -14300 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 10600 -14400 0    50   ~ 0
+MEMCARD_SCK
+Text Label 9700 -14400 2    50   ~ 0
+T_3V3
+Text Label 10600 -14500 0    50   ~ 0
+T_3V3
+Text Label 10600 -14600 0    50   ~ 0
+T_3V3
+Text Label 9700 -14300 2    50   ~ 0
+T_GND
+Wire Wire Line
+	10600 -14600 11350 -14600
+$Comp
+L Device:C_Small C?
+U 1 1 5C9211CC
+P 11350 -14450
+F 0 "C?" H 11442 -14404 50  0000 L CNN
+F 1 "C_Small" H 11442 -14495 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 11350 -14450 50  0001 C CNN
+F 3 "~" H 11350 -14450 50  0001 C CNN
+	1    11350 -14450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -14550 11350 -14600
+Wire Wire Line
+	11350 -14350 11350 -14300
+Text Label 11600 -14300 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:23LC1024 MEM?
+U 1 1 5C9211D5
+P 10150 -14400
+F 0 "MEM?" H 10300 -14050 50  0000 C CNN
+F 1 "23LC1024" H 9900 -14050 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10150 -14400 50  0001 C CNN
+F 3 "" H 10150 -14400 50  0001 C CNN
+	1    10150 -14400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11350 -14300 11600 -14300
+$Comp
+L Battery_Management:MCP73832-2-OT U?
+U 1 1 5CA01B8F
+P 14750 -15650
+F 0 "U?" H 14750 -15172 50  0000 C CNN
+F 1 "MCP73832-2-OT" H 14750 -15263 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 14800 -15900 50  0001 L CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 14600 -15700 50  0001 C CNN
+	1    14750 -15650
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-rescue:BSS138-Transistor-leftpad-rescue Q?
+U 1 1 5AAABC4B
+P 12700 -7800
+F 0 "Q?" H 12900 -7725 50  0000 L CNN
+F 1 "BSS138" H 12900 -7800 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 12900 -7875 50  0001 L CIN
+F 3 "" H 12700 -7800 50  0001 L CNN
+	1    12700 -7800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	12300 -7700 12450 -7700
+Wire Wire Line
+	12900 -7700 12950 -7700
+Text Label 13100 -7700 0    60   ~ 0
+SCL5
+Wire Wire Line
+	12700 -8100 12700 -8050
+$Comp
+L chordboard-rescue:+3.3V-leftpad-rescue-leftpad-rescue #PWR?
+U 1 1 5AAABC57
+P 12700 -8100
+F 0 "#PWR?" H 12700 -8250 50  0001 C CNN
+F 1 "+3.3V" H 12700 -7960 50  0000 C CNN
+F 2 "" H 12700 -8100 50  0001 C CNN
+F 3 "" H 12700 -8100 50  0001 C CNN
+	1    12700 -8100
+	1    0    0    1   
+$EndComp
+$Comp
+L chordboard-components:R R?
+U 1 1 5AAABC5D
+P 12450 -7900
+F 0 "R?" V 12500 -7800 50  0000 L CNN
+F 1 "R" V 12450 -7950 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 12450 -7900 50  0001 C CNN
+F 3 "" H 12450 -7900 50  0001 C CNN
+	1    12450 -7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:R R?
+U 1 1 5AAABC64
+P 12950 -7900
+F 0 "R?" V 13000 -7800 50  0000 L CNN
+F 1 "R" V 12950 -7950 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 12950 -7900 50  0001 C CNN
+F 3 "" H 12950 -7900 50  0001 C CNN
+	1    12950 -7900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12950 -7800 12950 -7700
+Connection ~ 12950 -7700
+Wire Wire Line
+	12450 -7800 12450 -7700
+Connection ~ 12450 -7700
+Wire Wire Line
+	12950 -8100 12950 -8000
+Wire Wire Line
+	12450 -8000 12450 -8050
+Wire Wire Line
+	12450 -8050 12700 -8050
+Connection ~ 12700 -8050
+$Comp
+L chordboard-rescue:BSS138-Transistor-leftpad-rescue Q?
+U 1 1 5AAABC79
+P 12700 -8850
+F 0 "Q?" H 12900 -8775 50  0000 L CNN
+F 1 "BSS138" H 12900 -8850 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 12900 -8925 50  0001 L CIN
+F 3 "" H 12700 -8850 50  0001 L CNN
+	1    12700 -8850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	12300 -8750 12450 -8750
+Wire Wire Line
+	12900 -8750 12950 -8750
+Text Label 13100 -8750 0    60   ~ 0
+SDA5
+Wire Wire Line
+	12700 -9150 12700 -9100
+$Comp
+L chordboard-rescue:+3.3V-leftpad-rescue-leftpad-rescue #PWR?
+U 1 1 5AAABC85
+P 12700 -9150
+F 0 "#PWR?" H 12700 -9300 50  0001 C CNN
+F 1 "+3.3V" H 12700 -9010 50  0000 C CNN
+F 2 "" H 12700 -9150 50  0001 C CNN
+F 3 "" H 12700 -9150 50  0001 C CNN
+	1    12700 -9150
+	1    0    0    1   
+$EndComp
+$Comp
+L chordboard-components:R R?
+U 1 1 5AAABC8B
+P 12450 -8950
+F 0 "R?" V 12500 -8850 50  0000 L CNN
+F 1 "R" V 12450 -9000 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 12450 -8950 50  0001 C CNN
+F 3 "" H 12450 -8950 50  0001 C CNN
+	1    12450 -8950
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:R R?
+U 1 1 5AAABC92
+P 12950 -8950
+F 0 "R?" V 13000 -8850 50  0000 L CNN
+F 1 "R" V 12950 -9000 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 12950 -8950 50  0001 C CNN
+F 3 "" H 12950 -8950 50  0001 C CNN
+	1    12950 -8950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12950 -8850 12950 -8750
+Connection ~ 12950 -8750
+Wire Wire Line
+	12450 -8850 12450 -8750
+Connection ~ 12450 -8750
+Wire Wire Line
+	12950 -9150 12950 -9050
+Wire Wire Line
+	12450 -9050 12450 -9100
+Wire Wire Line
+	12450 -9100 12700 -9100
+Connection ~ 12700 -9100
+Wire Wire Line
+	12950 -7700 13100 -7700
+Wire Wire Line
+	12450 -7700 12500 -7700
+Wire Wire Line
+	12700 -8050 12700 -8000
+Wire Wire Line
+	12950 -8750 13100 -8750
+Wire Wire Line
+	12450 -8750 12500 -8750
+Wire Wire Line
+	12700 -9100 12700 -9050
+Text Label 12700 -9150 1    50   ~ 0
+T_3V3
+Text Label 12700 -8100 1    50   ~ 0
+T_3V3
+Text Label 12950 -9150 1    50   ~ 0
+T_5V
+Text Label 12950 -8100 1    50   ~ 0
+T_5V
+Text Label 12300 -8750 2    50   ~ 0
+T_SCL
+Text Label 12300 -7700 2    50   ~ 0
+T_SDA
+Wire Wire Line
+	48400 4950 48450 4950
+Wire Wire Line
+	48550 5150 48400 5150
+Wire Wire Line
+	48650 5350 48400 5350
+Wire Wire Line
+	49200 4950 49250 4950
+Wire Wire Line
+	49200 5150 49350 5150
+Wire Wire Line
+	49450 5350 49200 5350
+Wire Wire Line
+	48000 5150 47950 5150
+Wire Wire Line
+	47950 5150 47950 5550
+Connection ~ 47950 5550
+Wire Wire Line
+	47950 5550 48750 5550
+Wire Wire Line
+	48750 5550 48750 5150
+Wire Wire Line
+	48750 5150 48800 5150
+Wire Wire Line
+	48450 4950 48450 5700
+Wire Wire Line
+	48450 5700 48400 5700
+Wire Wire Line
+	48550 5150 48550 5900
+Wire Wire Line
+	48550 5900 48400 5900
+Wire Wire Line
+	48650 5350 48650 6100
+Wire Wire Line
+	48650 6100 48400 6100
+Wire Wire Line
+	48000 9650 47950 9650
+Wire Wire Line
+	47950 9650 47950 10050
+Connection ~ 47950 10050
+Wire Wire Line
+	47950 10050 48750 10050
+Wire Wire Line
+	48800 9650 48750 9650
+Wire Wire Line
+	48750 9650 48750 10050
+Wire Wire Line
+	48750 9300 48750 8900
+Wire Wire Line
+	48750 8900 48800 8900
+Wire Wire Line
+	48000 8900 47950 8900
+Wire Wire Line
+	47950 8900 47950 9300
+Connection ~ 47950 9300
+Wire Wire Line
+	47950 9300 48750 9300
+Wire Wire Line
+	48000 8150 47950 8150
+Wire Wire Line
+	47950 8150 47950 8550
+Connection ~ 47950 8550
+Wire Wire Line
+	47950 8550 48750 8550
+Wire Wire Line
+	48800 8150 48750 8150
+Wire Wire Line
+	48750 8150 48750 8550
+Wire Wire Line
+	48000 7400 47950 7400
+Wire Wire Line
+	47950 7400 47950 7800
+Connection ~ 47950 7800
+Wire Wire Line
+	47950 7800 48750 7800
+Wire Wire Line
+	48800 7400 48750 7400
+Wire Wire Line
+	48750 7400 48750 7800
+Wire Wire Line
+	48800 6650 48750 6650
+Wire Wire Line
+	48750 6650 48750 7050
+Wire Wire Line
+	48000 6650 47950 6650
+Wire Wire Line
+	47950 6650 47950 7050
+Connection ~ 47950 7050
+Wire Wire Line
+	47950 7050 48750 7050
+Wire Wire Line
+	48000 5900 47950 5900
+Wire Wire Line
+	47950 5900 47950 6300
+Connection ~ 47950 6300
+Wire Wire Line
+	47950 6300 48750 6300
+Wire Wire Line
+	48800 5900 48750 5900
+Wire Wire Line
+	48750 5900 48750 6300
+Wire Wire Line
+	48450 5700 48450 6450
+Wire Wire Line
+	48450 6450 48400 6450
+Connection ~ 48450 5700
+Wire Wire Line
+	48550 5900 48550 6650
+Wire Wire Line
+	48550 6650 48400 6650
+Connection ~ 48550 5900
+Wire Wire Line
+	48650 6100 48650 6850
+Wire Wire Line
+	48650 6850 48400 6850
+Connection ~ 48650 6100
+Wire Wire Line
+	48450 6450 48450 7200
+Wire Wire Line
+	48450 7200 48400 7200
+Connection ~ 48450 6450
+Wire Wire Line
+	48550 6650 48550 7400
+Wire Wire Line
+	48550 7400 48400 7400
+Connection ~ 48550 6650
+Wire Wire Line
+	48650 6850 48650 7600
+Wire Wire Line
+	48650 7600 48400 7600
+Connection ~ 48650 6850
+Wire Wire Line
+	48450 7200 48450 7950
+Wire Wire Line
+	48450 7950 48400 7950
+Connection ~ 48450 7200
+Wire Wire Line
+	48550 7400 48550 8150
+Wire Wire Line
+	48550 8150 48400 8150
+Connection ~ 48550 7400
+Wire Wire Line
+	48650 7600 48650 8350
+Wire Wire Line
+	48650 8350 48400 8350
+Connection ~ 48650 7600
+Wire Wire Line
+	48450 7950 48450 8700
+Wire Wire Line
+	48450 8700 48400 8700
+Connection ~ 48450 7950
+Wire Wire Line
+	48550 8150 48550 8900
+Wire Wire Line
+	48550 8900 48400 8900
+Connection ~ 48550 8150
+Wire Wire Line
+	48650 8350 48650 9100
+Wire Wire Line
+	48650 9100 48400 9100
+Connection ~ 48650 8350
+Wire Wire Line
+	48450 8700 48450 9450
+Wire Wire Line
+	48450 9450 48400 9450
+Connection ~ 48450 8700
+Wire Wire Line
+	48550 8900 48550 9650
+Wire Wire Line
+	48550 9650 48400 9650
+Connection ~ 48550 8900
+Wire Wire Line
+	48650 9100 48650 9850
+Wire Wire Line
+	48650 9850 48400 9850
+Connection ~ 48650 9100
+Wire Wire Line
+	49250 4950 49250 5700
+Wire Wire Line
+	49350 5150 49350 5900
+Wire Wire Line
+	49450 5350 49450 6100
+Wire Wire Line
+	49200 9850 49450 9850
+Wire Wire Line
+	49350 9650 49200 9650
+Wire Wire Line
+	49250 9450 49200 9450
+Wire Wire Line
+	49200 9100 49450 9100
+Connection ~ 49450 9100
+Wire Wire Line
+	49450 9100 49450 9850
+Wire Wire Line
+	49200 8900 49350 8900
+Connection ~ 49350 8900
+Wire Wire Line
+	49350 8900 49350 9650
+Wire Wire Line
+	49200 8700 49250 8700
+Connection ~ 49250 8700
+Wire Wire Line
+	49250 8700 49250 9450
+Wire Wire Line
+	49200 8350 49450 8350
+Connection ~ 49450 8350
+Wire Wire Line
+	49450 8350 49450 9100
+Wire Wire Line
+	49200 8150 49350 8150
+Connection ~ 49350 8150
+Wire Wire Line
+	49350 8150 49350 8900
+Wire Wire Line
+	49200 7950 49250 7950
+Connection ~ 49250 7950
+Wire Wire Line
+	49250 7950 49250 8700
+Wire Wire Line
+	49200 7600 49450 7600
+Connection ~ 49450 7600
+Wire Wire Line
+	49450 7600 49450 8350
+Wire Wire Line
+	49200 7400 49350 7400
+Connection ~ 49350 7400
+Wire Wire Line
+	49350 7400 49350 8150
+Wire Wire Line
+	49200 7200 49250 7200
+Connection ~ 49250 7200
+Wire Wire Line
+	49250 7200 49250 7950
+Wire Wire Line
+	49200 6850 49450 6850
+Connection ~ 49450 6850
+Wire Wire Line
+	49450 6850 49450 7600
+Wire Wire Line
+	49200 6650 49350 6650
+Connection ~ 49350 6650
+Wire Wire Line
+	49350 6650 49350 7400
+Wire Wire Line
+	49200 6450 49250 6450
+Connection ~ 49250 6450
+Wire Wire Line
+	49250 6450 49250 7200
+Wire Wire Line
+	49200 6100 49450 6100
+Connection ~ 49450 6100
+Wire Wire Line
+	49450 6100 49450 6850
+Wire Wire Line
+	49200 5900 49350 5900
+Connection ~ 49350 5900
+Wire Wire Line
+	49350 5900 49350 6650
+Wire Wire Line
+	49200 5700 49250 5700
+Connection ~ 49250 5700
+Wire Wire Line
+	49250 5700 49250 6450
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C4373EF
+P 44450 4450
+F 0 "SW?" H 44250 4500 50  0000 C CNN
+F 1 "SW_Push" H 44750 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44450 4650 50  0001 C CNN
+F 3 "" H 44450 4650 50  0001 C CNN
+	1    44450 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C2F0A78
+P 48200 5150
+F 0 "KLED?" V 48350 4950 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 5350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 5100 50  0001 C CNN
+F 3 "~" H 48200 5100 50  0001 C CNN
+	1    48200 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FA78E
+P 48200 5900
+F 0 "KLED?" V 48350 5700 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 6100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 5850 50  0001 C CNN
+F 3 "~" H 48200 5850 50  0001 C CNN
+	1    48200 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2717A
+P 48200 6650
+F 0 "KLED?" V 48350 6450 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 6850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 6600 50  0001 C CNN
+F 3 "~" H 48200 6600 50  0001 C CNN
+	1    48200 6650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2717B
+P 48200 7400
+F 0 "KLED?" V 48350 7200 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 7600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 7350 50  0001 C CNN
+F 3 "~" H 48200 7350 50  0001 C CNN
+	1    48200 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FEC
+P 48200 8150
+F 0 "KLED?" V 48350 7950 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 8350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 8100 50  0001 C CNN
+F 3 "~" H 48200 8100 50  0001 C CNN
+	1    48200 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FED
+P 48200 8900
+F 0 "KLED?" V 48350 8700 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 9100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 8850 50  0001 C CNN
+F 3 "~" H 48200 8850 50  0001 C CNN
+	1    48200 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FEE
+P 48200 9650
+F 0 "KLED?" V 48350 9450 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 9850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 9600 50  0001 C CNN
+F 3 "~" H 48200 9600 50  0001 C CNN
+	1    48200 9650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD7
+P 49000 5150
+F 0 "KLED?" V 49150 4950 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 5350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 5100 50  0001 C CNN
+F 3 "~" H 49000 5100 50  0001 C CNN
+	1    49000 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FABD5
+P 49000 5900
+F 0 "KLED?" V 49150 5700 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 6100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 5850 50  0001 C CNN
+F 3 "~" H 49000 5850 50  0001 C CNN
+	1    49000 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD9
+P 49000 6650
+F 0 "KLED?" V 49150 6450 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 6850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 6600 50  0001 C CNN
+F 3 "~" H 49000 6600 50  0001 C CNN
+	1    49000 6650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDA
+P 49000 7400
+F 0 "KLED?" V 49150 7200 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 7600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 7350 50  0001 C CNN
+F 3 "~" H 49000 7350 50  0001 C CNN
+	1    49000 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDB
+P 49000 8150
+F 0 "KLED?" V 49150 7950 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 8350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 8100 50  0001 C CNN
+F 3 "~" H 49000 8100 50  0001 C CNN
+	1    49000 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDC
+P 49000 8900
+F 0 "KLED?" V 49150 8700 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 9100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 8850 50  0001 C CNN
+F 3 "~" H 49000 8850 50  0001 C CNN
+	1    49000 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDD
+P 49000 9650
+F 0 "KLED?" V 49150 9450 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 9850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 9600 50  0001 C CNN
+F 3 "~" H 49000 9600 50  0001 C CNN
+	1    49000 9650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	48400 11000 48450 11000
+Wire Wire Line
+	48450 10200 48450 11000
+Wire Wire Line
+	48550 10400 48550 11200
+Wire Wire Line
+	48550 11200 48400 11200
+Wire Wire Line
+	48650 10600 48650 11400
+Wire Wire Line
+	48650 11400 48400 11400
+Wire Wire Line
+	49200 11000 49250 11000
+Wire Wire Line
+	49250 11000 49250 10200
+Wire Wire Line
+	49200 11200 49350 11200
+Wire Wire Line
+	49350 11200 49350 10400
+Wire Wire Line
+	49450 10600 49450 11400
+Wire Wire Line
+	49450 11400 49200 11400
+Wire Wire Line
+	48000 11200 47950 11200
+Wire Wire Line
+	47950 11200 47950 11600
+Wire Wire Line
+	48750 11600 48750 11200
+Wire Wire Line
+	48750 11200 48800 11200
+Wire Wire Line
+	48450 11000 48450 11750
+Wire Wire Line
+	48450 11750 48400 11750
+Connection ~ 48450 11000
+Wire Wire Line
+	48550 11200 48550 11950
+Wire Wire Line
+	48550 11950 48400 11950
+Connection ~ 48550 11200
+Wire Wire Line
+	48650 11400 48650 12150
+Wire Wire Line
+	48650 12150 48400 12150
+Connection ~ 48650 11400
+Wire Wire Line
+	48000 15700 47950 15700
+Wire Wire Line
+	47950 15700 47950 16100
+Connection ~ 47950 16100
+Wire Wire Line
+	47950 16100 48750 16100
+Wire Wire Line
+	48800 15700 48750 15700
+Wire Wire Line
+	48750 15700 48750 16100
+Wire Wire Line
+	48750 15350 48750 14950
+Wire Wire Line
+	48750 14950 48800 14950
+Wire Wire Line
+	48000 14950 47950 14950
+Wire Wire Line
+	47950 14950 47950 15350
+Wire Wire Line
+	47950 15350 48750 15350
+Wire Wire Line
+	48000 14200 47950 14200
+Wire Wire Line
+	47950 14200 47950 14600
+Wire Wire Line
+	47950 14600 48750 14600
+Wire Wire Line
+	48800 14200 48750 14200
+Wire Wire Line
+	48750 14200 48750 14600
+Wire Wire Line
+	48000 13450 47950 13450
+Wire Wire Line
+	47950 13450 47950 13850
+Wire Wire Line
+	47950 13850 48750 13850
+Wire Wire Line
+	48800 13450 48750 13450
+Wire Wire Line
+	48750 13450 48750 13850
+Wire Wire Line
+	48800 12700 48750 12700
+Wire Wire Line
+	48750 12700 48750 13100
+Wire Wire Line
+	48000 12700 47950 12700
+Wire Wire Line
+	47950 12700 47950 13100
+Wire Wire Line
+	47950 13100 48750 13100
+Wire Wire Line
+	48000 11950 47950 11950
+Wire Wire Line
+	47950 11950 47950 12350
+Wire Wire Line
+	47950 12350 48750 12350
+Wire Wire Line
+	48800 11950 48750 11950
+Wire Wire Line
+	48750 11950 48750 12350
+Wire Wire Line
+	48450 11750 48450 12500
+Wire Wire Line
+	48450 12500 48400 12500
+Connection ~ 48450 11750
+Wire Wire Line
+	48550 11950 48550 12700
+Wire Wire Line
+	48550 12700 48400 12700
+Connection ~ 48550 11950
+Wire Wire Line
+	48650 12150 48650 12900
+Wire Wire Line
+	48650 12900 48400 12900
+Connection ~ 48650 12150
+Wire Wire Line
+	48450 12500 48450 13250
+Wire Wire Line
+	48450 13250 48400 13250
+Connection ~ 48450 12500
+Wire Wire Line
+	48550 12700 48550 13450
+Wire Wire Line
+	48550 13450 48400 13450
+Connection ~ 48550 12700
+Wire Wire Line
+	48650 12900 48650 13650
+Wire Wire Line
+	48650 13650 48400 13650
+Connection ~ 48650 12900
+Wire Wire Line
+	48450 13250 48450 14000
+Wire Wire Line
+	48450 14000 48400 14000
+Connection ~ 48450 13250
+Wire Wire Line
+	48550 13450 48550 14200
+Wire Wire Line
+	48550 14200 48400 14200
+Connection ~ 48550 13450
+Wire Wire Line
+	48650 13650 48650 14400
+Wire Wire Line
+	48650 14400 48400 14400
+Connection ~ 48650 13650
+Wire Wire Line
+	48450 14000 48450 14750
+Wire Wire Line
+	48450 14750 48400 14750
+Connection ~ 48450 14000
+Wire Wire Line
+	48550 14200 48550 14950
+Wire Wire Line
+	48550 14950 48400 14950
+Connection ~ 48550 14200
+Wire Wire Line
+	48650 14400 48650 15150
+Connection ~ 48650 14400
+Wire Wire Line
+	48450 14750 48450 15500
+Wire Wire Line
+	48450 15500 48400 15500
+Connection ~ 48450 14750
+Wire Wire Line
+	48550 14950 48550 15700
+Wire Wire Line
+	48550 15700 48400 15700
+Connection ~ 48550 14950
+Wire Wire Line
+	48650 15150 48650 15900
+Wire Wire Line
+	48650 15900 48400 15900
+Connection ~ 48650 15150
+Wire Wire Line
+	49250 11000 49250 11750
+Connection ~ 49250 11000
+Wire Wire Line
+	49350 11200 49350 11950
+Connection ~ 49350 11200
+Wire Wire Line
+	49450 11400 49450 12150
+Connection ~ 49450 11400
+Wire Wire Line
+	49200 15900 49450 15900
+Wire Wire Line
+	49350 15700 49200 15700
+Wire Wire Line
+	49250 15500 49200 15500
+Wire Wire Line
+	49200 15150 49450 15150
+Connection ~ 49450 15150
+Wire Wire Line
+	49450 15150 49450 15900
+Wire Wire Line
+	49200 14950 49350 14950
+Connection ~ 49350 14950
+Wire Wire Line
+	49350 14950 49350 15700
+Wire Wire Line
+	49200 14750 49250 14750
+Connection ~ 49250 14750
+Wire Wire Line
+	49250 14750 49250 15500
+Wire Wire Line
+	49200 14400 49450 14400
+Connection ~ 49450 14400
+Wire Wire Line
+	49450 14400 49450 15150
+Wire Wire Line
+	49200 14200 49350 14200
+Connection ~ 49350 14200
+Wire Wire Line
+	49350 14200 49350 14950
+Wire Wire Line
+	49200 14000 49250 14000
+Connection ~ 49250 14000
+Wire Wire Line
+	49250 14000 49250 14750
+Wire Wire Line
+	49200 13650 49450 13650
+Connection ~ 49450 13650
+Wire Wire Line
+	49450 13650 49450 14400
+Wire Wire Line
+	49200 13450 49350 13450
+Connection ~ 49350 13450
+Wire Wire Line
+	49350 13450 49350 14200
+Wire Wire Line
+	49200 13250 49250 13250
+Connection ~ 49250 13250
+Wire Wire Line
+	49250 13250 49250 14000
+Wire Wire Line
+	49200 12900 49450 12900
+Connection ~ 49450 12900
+Wire Wire Line
+	49450 12900 49450 13650
+Wire Wire Line
+	49200 12700 49350 12700
+Connection ~ 49350 12700
+Wire Wire Line
+	49350 12700 49350 13450
+Wire Wire Line
+	49200 12500 49250 12500
+Connection ~ 49250 12500
+Wire Wire Line
+	49250 12500 49250 13250
+Wire Wire Line
+	49200 12150 49450 12150
+Connection ~ 49450 12150
+Wire Wire Line
+	49450 12150 49450 12900
+Wire Wire Line
+	49200 11950 49350 11950
+Connection ~ 49350 11950
+Wire Wire Line
+	49350 11950 49350 12700
+Wire Wire Line
+	49200 11750 49250 11750
+Connection ~ 49250 11750
+Wire Wire Line
+	49250 11750 49250 12500
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDF
+P 48200 11200
+F 0 "KLED?" V 48350 11000 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 11400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 11150 50  0001 C CNN
+F 3 "~" H 48200 11150 50  0001 C CNN
+	1    48200 11200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE0
+P 48200 11950
+F 0 "KLED?" V 48350 11750 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 12150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 11900 50  0001 C CNN
+F 3 "~" H 48200 11900 50  0001 C CNN
+	1    48200 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE1
+P 48200 12700
+F 0 "KLED?" V 48350 12500 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 12900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 12650 50  0001 C CNN
+F 3 "~" H 48200 12650 50  0001 C CNN
+	1    48200 12700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2718D
+P 48200 13450
+F 0 "KLED?" V 48350 13250 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 13650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 13400 50  0001 C CNN
+F 3 "~" H 48200 13400 50  0001 C CNN
+	1    48200 13450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2718E
+P 48200 14200
+F 0 "KLED?" V 48350 14000 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 14400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 14150 50  0001 C CNN
+F 3 "~" H 48200 14150 50  0001 C CNN
+	1    48200 14200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2718F
+P 48200 14950
+F 0 "KLED?" V 48350 14750 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 15150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 14900 50  0001 C CNN
+F 3 "~" H 48200 14900 50  0001 C CNN
+	1    48200 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC651
+P 48200 15700
+F 0 "KLED?" V 48350 15500 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 15900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 15650 50  0001 C CNN
+F 3 "~" H 48200 15650 50  0001 C CNN
+	1    48200 15700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE4
+P 49000 11200
+F 0 "KLED?" V 49150 11000 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 11400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 11150 50  0001 C CNN
+F 3 "~" H 49000 11150 50  0001 C CNN
+	1    49000 11200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE5
+P 49000 11950
+F 0 "KLED?" V 49150 11750 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 12150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 11900 50  0001 C CNN
+F 3 "~" H 49000 11900 50  0001 C CNN
+	1    49000 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FF2
+P 49000 12700
+F 0 "KLED?" V 49150 12500 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 12900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 12650 50  0001 C CNN
+F 3 "~" H 49000 12650 50  0001 C CNN
+	1    49000 12700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE6
+P 49000 13450
+F 0 "KLED?" V 49150 13250 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 13650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 13400 50  0001 C CNN
+F 3 "~" H 49000 13400 50  0001 C CNN
+	1    49000 13450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE7
+P 49000 14200
+F 0 "KLED?" V 49150 14000 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 14400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 14150 50  0001 C CNN
+F 3 "~" H 49000 14150 50  0001 C CNN
+	1    49000 14200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FF3
+P 49000 14950
+F 0 "KLED?" V 49150 14750 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 15150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 14900 50  0001 C CNN
+F 3 "~" H 49000 14900 50  0001 C CNN
+	1    49000 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE8
+P 49000 15700
+F 0 "KLED?" V 49150 15500 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 15900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 15650 50  0001 C CNN
+F 3 "~" H 49000 15650 50  0001 C CNN
+	1    49000 15700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	48650 15150 48400 15150
+Wire Wire Line
+	47500 5650 44000 5650
+Wire Wire Line
+	43850 5750 43900 5750
+Wire Wire Line
+	47300 5850 44400 5850
+Wire Wire Line
+	43850 5950 44500 5950
+Wire Wire Line
+	47100 6050 44600 6050
+Wire Wire Line
+	43850 6150 44700 6150
+Wire Wire Line
+	47500 5650 47500 6300
+Wire Wire Line
+	47400 5750 47400 7050
+Wire Wire Line
+	47300 5850 47300 7800
+Wire Wire Line
+	47200 5950 47200 8550
+Wire Wire Line
+	47100 6050 47100 9300
+Wire Wire Line
+	47000 6150 47000 10050
+Connection ~ 47950 15350
+Connection ~ 47950 14600
+Connection ~ 47950 13850
+Connection ~ 47950 13100
+Connection ~ 47950 12350
+Connection ~ 47950 11600
+Wire Wire Line
+	46800 11600 47950 11600
+Wire Wire Line
+	46700 12350 47950 12350
+Wire Wire Line
+	46600 13100 47950 13100
+Wire Wire Line
+	46500 13850 47950 13850
+Wire Wire Line
+	46400 14600 47950 14600
+Wire Wire Line
+	46300 15350 47950 15350
+Wire Wire Line
+	46200 16100 47950 16100
+Wire Wire Line
+	43850 5550 44100 5550
+Wire Wire Line
+	47500 6300 47950 6300
+Wire Wire Line
+	47400 7050 47950 7050
+Wire Wire Line
+	47300 7800 47950 7800
+Wire Wire Line
+	47200 8550 47950 8550
+Wire Wire Line
+	47100 9300 47950 9300
+Wire Wire Line
+	47000 10050 47950 10050
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE9
+P 49000 16450
+F 0 "KLED?" V 49150 16250 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 16650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 16400 50  0001 C CNN
+F 3 "~" H 49000 16400 50  0001 C CNN
+	1    49000 16450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC657
+P 48200 16450
+F 0 "KLED?" V 48350 16250 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 16650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 16400 50  0001 C CNN
+F 3 "~" H 48200 16400 50  0001 C CNN
+	1    48200 16450
+	-1   0    0    1   
+$EndComp
+Connection ~ 49250 15500
+Wire Wire Line
+	49250 15500 49250 16250
+Connection ~ 49350 15700
+Wire Wire Line
+	49350 15700 49350 16450
+Connection ~ 49450 15900
+Wire Wire Line
+	49450 15900 49450 16650
+Wire Wire Line
+	49200 16250 49250 16250
+Wire Wire Line
+	49350 16450 49200 16450
+Wire Wire Line
+	49450 16650 49200 16650
+Wire Wire Line
+	48650 16650 48400 16650
+Connection ~ 48650 15900
+Wire Wire Line
+	48650 15900 48650 16650
+Wire Wire Line
+	48550 16450 48400 16450
+Connection ~ 48550 15700
+Wire Wire Line
+	48550 15700 48550 16450
+Wire Wire Line
+	48450 16250 48400 16250
+Connection ~ 48450 15500
+Wire Wire Line
+	48450 15500 48450 16250
+Wire Wire Line
+	46100 16850 47950 16850
+Wire Wire Line
+	47950 16850 48750 16850
+Connection ~ 47950 16850
+Wire Wire Line
+	47950 16450 47950 16850
+Wire Wire Line
+	48000 16450 47950 16450
+Wire Wire Line
+	48750 16450 48800 16450
+Wire Wire Line
+	48750 16850 48750 16450
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FDE
+P 49000 10400
+F 0 "KLED?" V 49150 10200 50  0000 C CNN
+F 1 "LED_ARGB" V 49150 10600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 49000 10350 50  0001 C CNN
+F 3 "~" H 49000 10350 50  0001 C CNN
+	1    49000 10400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD6
+P 48200 10400
+F 0 "KLED?" V 48350 10200 50  0000 C CNN
+F 1 "LED_ARGB" V 48350 10600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 48200 10350 50  0001 C CNN
+F 3 "~" H 48200 10350 50  0001 C CNN
+	1    48200 10400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	49250 9450 49250 10200
+Wire Wire Line
+	49350 9650 49350 10400
+Wire Wire Line
+	49450 9850 49450 10600
+Wire Wire Line
+	49200 10200 49250 10200
+Wire Wire Line
+	49350 10400 49200 10400
+Wire Wire Line
+	49450 10600 49200 10600
+Wire Wire Line
+	48650 10600 48400 10600
+Wire Wire Line
+	48650 9850 48650 10600
+Wire Wire Line
+	48550 10400 48400 10400
+Wire Wire Line
+	48550 9650 48550 10400
+Wire Wire Line
+	48450 10200 48400 10200
+Wire Wire Line
+	48450 9450 48450 10200
+Wire Wire Line
+	46900 10800 47950 10800
+Wire Wire Line
+	47950 10800 48750 10800
+Connection ~ 47950 10800
+Wire Wire Line
+	47950 10400 47950 10800
+Wire Wire Line
+	48000 10400 47950 10400
+Wire Wire Line
+	48750 10400 48800 10400
+Wire Wire Line
+	48750 10800 48750 10400
+Wire Wire Line
+	46900 6250 44800 6250
+Wire Wire Line
+	46900 6250 46900 10800
+Connection ~ 49250 9450
+Connection ~ 49350 9650
+Connection ~ 49450 9850
+Connection ~ 48650 9850
+Connection ~ 48550 9650
+Connection ~ 48450 9450
+$Comp
+L eurocad:HT16K33 HT?
+U 1 1 5D160827
+P 43200 6700
+F 0 "HT?" H 43200 8097 60  0000 C CNN
+F 1 "HT16K33" H 43200 7991 60  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 43200 7850 60  0001 C CNN
+F 3 "" H 43200 7850 60  0000 C CNN
+	1    43200 6700
+	1    0    0    -1  
+$EndComp
+Connection ~ 48650 10600
+Connection ~ 48550 10400
+Connection ~ 48450 10200
+Connection ~ 49250 10200
+Connection ~ 49350 10400
+Connection ~ 49450 10600
+Wire Wire Line
+	43850 6350 44900 6350
+Wire Wire Line
+	46800 6350 46800 11600
+Wire Wire Line
+	46700 6450 45000 6450
+Wire Wire Line
+	46700 6450 46700 12350
+Wire Wire Line
+	46600 6550 45100 6550
+Wire Wire Line
+	46600 6550 46600 13100
+Wire Wire Line
+	46500 6650 45200 6650
+Wire Wire Line
+	46500 6650 46500 13850
+Wire Wire Line
+	43850 6750 45300 6750
+Wire Wire Line
+	46400 6750 46400 14600
+Wire Wire Line
+	43850 6850 45400 6850
+Wire Wire Line
+	46300 6850 46300 15350
+Wire Wire Line
+	46200 6950 45500 6950
+Wire Wire Line
+	46200 6950 46200 16100
+Wire Wire Line
+	43850 7050 45600 7050
+Wire Wire Line
+	46100 7050 46100 16850
+Wire Wire Line
+	48450 16250 48450 17050
+Wire Wire Line
+	48450 17050 45900 17050
+Wire Wire Line
+	45900 17050 45900 7250
+Wire Wire Line
+	45900 7250 43850 7250
+Connection ~ 48450 16250
+Wire Wire Line
+	43850 7350 45800 7350
+Wire Wire Line
+	45800 7350 45800 17150
+Wire Wire Line
+	45800 17150 48550 17150
+Wire Wire Line
+	48550 17150 48550 16450
+Connection ~ 48550 16450
+Wire Wire Line
+	48650 16650 48650 17250
+Wire Wire Line
+	48650 17250 45700 17250
+Wire Wire Line
+	45700 17250 45700 7450
+Wire Wire Line
+	45700 7450 43850 7450
+Connection ~ 48650 16650
+Wire Wire Line
+	49250 16250 49250 17350
+Wire Wire Line
+	49250 17350 45600 17350
+Wire Wire Line
+	45600 17350 45600 7550
+Wire Wire Line
+	45600 7550 43850 7550
+Connection ~ 49250 16250
+Wire Wire Line
+	43850 7650 45500 7650
+Wire Wire Line
+	45500 7650 45500 17450
+Wire Wire Line
+	45500 17450 49350 17450
+Wire Wire Line
+	49350 17450 49350 16450
+Connection ~ 49350 16450
+Wire Wire Line
+	49450 16650 49450 17550
+Wire Wire Line
+	49450 17550 45400 17550
+Wire Wire Line
+	45400 17550 45400 7750
+Wire Wire Line
+	45400 7750 43850 7750
+Connection ~ 49450 16650
+Text Label 43850 7250 0    50   ~ 0
+COM_AD1
+Wire Wire Line
+	43900 5750 43900 5350
+Connection ~ 43900 5750
+Wire Wire Line
+	43900 5750 47400 5750
+Wire Wire Line
+	44000 5650 44000 5350
+Connection ~ 44000 5650
+Wire Wire Line
+	44000 5650 43850 5650
+Wire Wire Line
+	44100 5550 44100 5350
+Connection ~ 44100 5550
+Wire Wire Line
+	44100 5550 47950 5550
+Text Label 44000 4100 0    50   ~ 0
+COM_AD1
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 60B1A36D
+P 43900 5150
+F 0 "JP?" H 43900 5345 50  0000 C CNN
+F 1 "J_HT_AD" H 43900 5254 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 43900 5150 50  0001 C CNN
+F 3 "~" H 43900 5150 50  0001 C CNN
+	1    43900 5150
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C744FF6
+P 44000 5150
+F 0 "JP?" H 44000 5345 50  0000 C CNN
+F 1 "J_HT_AD" H 44000 5254 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 44000 5150 50  0001 C CNN
+F 3 "~" H 44000 5150 50  0001 C CNN
+	1    44000 5150
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C744FF7
+P 44100 5150
+F 0 "JP?" H 44100 5345 50  0000 C CNN
+F 1 "J_HT_AD" H 44100 5254 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 44100 5150 50  0001 C CNN
+F 3 "~" H 44100 5150 50  0001 C CNN
+	1    44100 5150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 60B1C0BF
+P 43900 4750
+F 0 "R?" V 43693 4750 50  0000 C CNN
+F 1 "10K" V 43784 4750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 43830 4750 50  0001 C CNN
+F 3 "~" H 43900 4750 50  0001 C CNN
+	1    43900 4750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	43900 4950 43900 4900
+Wire Wire Line
+	44000 4950 44000 4900
+Wire Wire Line
+	44100 4950 44100 4900
+$Comp
+L Device:R R?
+U 1 1 61001CDC
+P 44000 4750
+F 0 "R?" V 43793 4750 50  0000 C CNN
+F 1 "10K" V 43884 4750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 43930 4750 50  0001 C CNN
+F 3 "~" H 44000 4750 50  0001 C CNN
+	1    44000 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 61001E74
+P 44100 4750
+F 0 "R?" V 43893 4750 50  0000 C CNN
+F 1 "10K" V 43984 4750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44030 4750 50  0001 C CNN
+F 3 "~" H 44100 4750 50  0001 C CNN
+	1    44100 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5C744FFB
+P 44000 4250
+F 0 "D?" H 44000 4034 50  0000 C CNN
+F 1 "D" H 44000 4125 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 44000 4250 50  0001 C CNN
+F 3 "~" H 44000 4250 50  0001 C CNN
+	1    44000 4250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	44000 4400 44000 4550
+Wire Wire Line
+	44000 4550 43900 4550
+Wire Wire Line
+	43900 4550 43900 4600
+Wire Wire Line
+	44000 4550 44000 4600
+Connection ~ 44000 4550
+Wire Wire Line
+	44000 4550 44100 4550
+Wire Wire Line
+	44100 4550 44100 4600
+Text Label 42550 5850 2    60   ~ 0
+SDA5
+Text Label 42550 5750 2    60   ~ 0
+SCL5
+Text Label 42550 7950 2    50   ~ 0
+T_GND
+Text Label 42550 5550 2    50   ~ 0
+T_5V
+$Comp
+L Device:C C?
+U 1 1 5C744FFC
+P 42200 5400
+F 0 "C?" H 42315 5446 50  0000 L CNN
+F 1 "C" H 42315 5355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 42238 5250 50  0001 C CNN
+F 3 "~" H 42200 5400 50  0001 C CNN
+	1    42200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 616E6E8F
+P 41950 5400
+F 0 "C?" H 42065 5446 50  0000 L CNN
+F 1 "C" H 42065 5355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 41988 5250 50  0001 C CNN
+F 3 "~" H 41950 5400 50  0001 C CNN
+	1    41950 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	42550 5550 42200 5550
+Connection ~ 42200 5550
+Wire Wire Line
+	42200 5550 41950 5550
+Wire Wire Line
+	42200 5250 41950 5250
+Connection ~ 41950 5250
+Wire Wire Line
+	41950 5250 41750 5250
+Text Label 41750 5250 2    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:GROVE_I2C J?
+U 1 1 5CC17C95
+P 38150 5750
+F 0 "J?" H 38477 5801 50  0000 L CNN
+F 1 "T_I2C0" H 38477 5710 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 38150 5750 50  0001 C CNN
+F 3 "" H 38150 5750 50  0001 C CNN
+	1    38150 5750
+	1    0    0    -1  
+$EndComp
+Text Label 37950 5900 2    50   ~ 0
+T_GND
+Text Label 37950 5800 2    50   ~ 0
+T_3V3
+Text Label 37950 5600 2    50   ~ 0
+T_SCL
+Text Label 37950 5700 2    50   ~ 0
+T_SDA
+$Comp
+L chordboard-components:GROVE_I2C J?
+U 1 1 5CE3402E
+P 38150 6300
+F 0 "J?" H 38477 6351 50  0000 L CNN
+F 1 "T_I2C0" H 38477 6260 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 38150 6300 50  0001 C CNN
+F 3 "" H 38150 6300 50  0001 C CNN
+	1    38150 6300
+	1    0    0    -1  
+$EndComp
+Text Label 37950 6450 2    50   ~ 0
+T_GND
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5D133AA3
+P 36950 3200
+F 0 "H?" H 37050 3246 50  0000 L CNN
+F 1 "MountingHole" H 37050 3155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36950 3200 50  0001 C CNN
+F 3 "~" H 36950 3200 50  0001 C CNN
+	1    36950 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5D133AAA
+P 36950 3000
+F 0 "H?" H 37050 3046 50  0000 L CNN
+F 1 "MountingHole" H 37050 2955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36950 3000 50  0001 C CNN
+F 3 "~" H 36950 3000 50  0001 C CNN
+	1    36950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5D133AB1
+P 36950 2800
+F 0 "H?" H 37050 2846 50  0000 L CNN
+F 1 "MountingHole" H 37050 2755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36950 2800 50  0001 C CNN
+F 3 "~" H 36950 2800 50  0001 C CNN
+	1    36950 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5D133AB8
+P 36950 2600
+F 0 "H?" H 37050 2646 50  0000 L CNN
+F 1 "MountingHole" H 37050 2555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36950 2600 50  0001 C CNN
+F 3 "~" H 36950 2600 50  0001 C CNN
+	1    36950 2600
+	1    0    0    -1  
+$EndComp
+Text Label 37950 6150 2    50   ~ 0
+T_SCL5
+Text Label 37950 6250 2    50   ~ 0
+T_SDA5
+Text Label 37950 6350 2    50   ~ 0
+T_5V
+Wire Wire Line
+	47950 11600 48750 11600
+Wire Wire Line
+	43850 7850 45300 7850
+Wire Wire Line
+	45300 7850 45300 17650
+Wire Wire Line
+	45300 17650 50000 17650
+Wire Wire Line
+	50100 17700 45200 17700
+Wire Wire Line
+	45200 17700 45200 7950
+Wire Wire Line
+	45200 7950 43850 7950
+$Comp
+L Device:LED DLED?
+U 1 1 5EE885D7
+P 49800 16650
+F 0 "DLED?" H 49792 16395 50  0000 C CNN
+F 1 "LED" H 49792 16486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 16650 50  0001 C CNN
+F 3 "~" H 49800 16650 50  0001 C CNN
+	1    49800 16650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE88B5F
+P 49800 16450
+F 0 "DLED?" H 49792 16195 50  0000 C CNN
+F 1 "LED" H 49792 16286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 16450 50  0001 C CNN
+F 3 "~" H 49800 16450 50  0001 C CNN
+	1    49800 16450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE88C23
+P 49800 15900
+F 0 "DLED?" H 49792 15645 50  0000 C CNN
+F 1 "LED" H 49792 15736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 15900 50  0001 C CNN
+F 3 "~" H 49800 15900 50  0001 C CNN
+	1    49800 15900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE88DB5
+P 49800 15700
+F 0 "DLED?" H 49792 15445 50  0000 C CNN
+F 1 "LED" H 49792 15536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 15700 50  0001 C CNN
+F 3 "~" H 49800 15700 50  0001 C CNN
+	1    49800 15700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE88E7D
+P 49800 15150
+F 0 "DLED?" H 49792 14895 50  0000 C CNN
+F 1 "LED" H 49792 14986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 15150 50  0001 C CNN
+F 3 "~" H 49800 15150 50  0001 C CNN
+	1    49800 15150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE88F55
+P 49800 14950
+F 0 "DLED?" H 49792 14695 50  0000 C CNN
+F 1 "LED" H 49792 14786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 14950 50  0001 C CNN
+F 3 "~" H 49800 14950 50  0001 C CNN
+	1    49800 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8924D
+P 49800 14400
+F 0 "DLED?" H 49792 14145 50  0000 C CNN
+F 1 "LED" H 49792 14236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 14400 50  0001 C CNN
+F 3 "~" H 49800 14400 50  0001 C CNN
+	1    49800 14400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE89329
+P 49800 14200
+F 0 "DLED?" H 49792 13945 50  0000 C CNN
+F 1 "LED" H 49792 14036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 14200 50  0001 C CNN
+F 3 "~" H 49800 14200 50  0001 C CNN
+	1    49800 14200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8945B
+P 49800 13650
+F 0 "DLED?" H 49792 13395 50  0000 C CNN
+F 1 "LED" H 49792 13486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 13650 50  0001 C CNN
+F 3 "~" H 49800 13650 50  0001 C CNN
+	1    49800 13650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE89658
+P 49800 13450
+F 0 "DLED?" H 49792 13195 50  0000 C CNN
+F 1 "LED" H 49792 13286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 13450 50  0001 C CNN
+F 3 "~" H 49800 13450 50  0001 C CNN
+	1    49800 13450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8972C
+P 49800 12900
+F 0 "DLED?" H 49792 12645 50  0000 C CNN
+F 1 "LED" H 49792 12736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 12900 50  0001 C CNN
+F 3 "~" H 49800 12900 50  0001 C CNN
+	1    49800 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE89814
+P 49800 12700
+F 0 "DLED?" H 49792 12445 50  0000 C CNN
+F 1 "LED" H 49792 12536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 12700 50  0001 C CNN
+F 3 "~" H 49800 12700 50  0001 C CNN
+	1    49800 12700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE898F4
+P 49800 12150
+F 0 "DLED?" H 49792 11895 50  0000 C CNN
+F 1 "LED" H 49792 11986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 12150 50  0001 C CNN
+F 3 "~" H 49800 12150 50  0001 C CNN
+	1    49800 12150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE899DC
+P 49800 11950
+F 0 "DLED?" H 49792 11695 50  0000 C CNN
+F 1 "LED" H 49792 11786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 11950 50  0001 C CNN
+F 3 "~" H 49800 11950 50  0001 C CNN
+	1    49800 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8A09C
+P 49800 11400
+F 0 "DLED?" H 49792 11145 50  0000 C CNN
+F 1 "LED" H 49792 11236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 11400 50  0001 C CNN
+F 3 "~" H 49800 11400 50  0001 C CNN
+	1    49800 11400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8A180
+P 49800 11200
+F 0 "DLED?" H 49792 10945 50  0000 C CNN
+F 1 "LED" H 49792 11036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49800 11200 50  0001 C CNN
+F 3 "~" H 49800 11200 50  0001 C CNN
+	1    49800 11200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8AFC0
+P 49750 10600
+F 0 "DLED?" H 49742 10345 50  0000 C CNN
+F 1 "LED" H 49742 10436 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 10600 50  0001 C CNN
+F 3 "~" H 49750 10600 50  0001 C CNN
+	1    49750 10600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B0C0
+P 49750 10400
+F 0 "DLED?" H 49742 10145 50  0000 C CNN
+F 1 "LED" H 49742 10236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 10400 50  0001 C CNN
+F 3 "~" H 49750 10400 50  0001 C CNN
+	1    49750 10400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B1C0
+P 49750 9850
+F 0 "DLED?" H 49742 9595 50  0000 C CNN
+F 1 "LED" H 49742 9686 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 9850 50  0001 C CNN
+F 3 "~" H 49750 9850 50  0001 C CNN
+	1    49750 9850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B3EF
+P 49750 9650
+F 0 "DLED?" H 49742 9395 50  0000 C CNN
+F 1 "LED" H 49742 9486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 9650 50  0001 C CNN
+F 3 "~" H 49750 9650 50  0001 C CNN
+	1    49750 9650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B4D7
+P 49750 9100
+F 0 "DLED?" H 49742 8845 50  0000 C CNN
+F 1 "LED" H 49742 8936 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 9100 50  0001 C CNN
+F 3 "~" H 49750 9100 50  0001 C CNN
+	1    49750 9100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B5D1
+P 49750 8900
+F 0 "DLED?" H 49742 8645 50  0000 C CNN
+F 1 "LED" H 49742 8736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 8900 50  0001 C CNN
+F 3 "~" H 49750 8900 50  0001 C CNN
+	1    49750 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B86D
+P 49750 8350
+F 0 "DLED?" H 49742 8095 50  0000 C CNN
+F 1 "LED" H 49742 8186 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 8350 50  0001 C CNN
+F 3 "~" H 49750 8350 50  0001 C CNN
+	1    49750 8350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8B969
+P 49750 8150
+F 0 "DLED?" H 49742 7895 50  0000 C CNN
+F 1 "LED" H 49742 7986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 8150 50  0001 C CNN
+F 3 "~" H 49750 8150 50  0001 C CNN
+	1    49750 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8BA59
+P 49750 7600
+F 0 "DLED?" H 49742 7345 50  0000 C CNN
+F 1 "LED" H 49742 7436 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 7600 50  0001 C CNN
+F 3 "~" H 49750 7600 50  0001 C CNN
+	1    49750 7600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8BF44
+P 49750 7400
+F 0 "DLED?" H 49742 7145 50  0000 C CNN
+F 1 "LED" H 49742 7236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 7400 50  0001 C CNN
+F 3 "~" H 49750 7400 50  0001 C CNN
+	1    49750 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C03C
+P 49750 6850
+F 0 "DLED?" H 49742 6595 50  0000 C CNN
+F 1 "LED" H 49742 6686 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 6850 50  0001 C CNN
+F 3 "~" H 49750 6850 50  0001 C CNN
+	1    49750 6850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C140
+P 49750 6650
+F 0 "DLED?" H 49742 6395 50  0000 C CNN
+F 1 "LED" H 49742 6486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 6650 50  0001 C CNN
+F 3 "~" H 49750 6650 50  0001 C CNN
+	1    49750 6650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C238
+P 49750 6100
+F 0 "DLED?" H 49742 5845 50  0000 C CNN
+F 1 "LED" H 49742 5936 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 6100 50  0001 C CNN
+F 3 "~" H 49750 6100 50  0001 C CNN
+	1    49750 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C499
+P 49750 5900
+F 0 "DLED?" H 49742 5645 50  0000 C CNN
+F 1 "LED" H 49742 5736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 5900 50  0001 C CNN
+F 3 "~" H 49750 5900 50  0001 C CNN
+	1    49750 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C773
+P 49750 5350
+F 0 "DLED?" H 49742 5095 50  0000 C CNN
+F 1 "LED" H 49742 5186 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 5350 50  0001 C CNN
+F 3 "~" H 49750 5350 50  0001 C CNN
+	1    49750 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5EE8C881
+P 49750 5150
+F 0 "DLED?" H 49742 4895 50  0000 C CNN
+F 1 "LED" H 49742 4986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 49750 5150 50  0001 C CNN
+F 3 "~" H 49750 5150 50  0001 C CNN
+	1    49750 5150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	49950 16650 50000 16650
+Wire Wire Line
+	50000 16650 50000 17650
+Wire Wire Line
+	49950 16450 50100 16450
+Wire Wire Line
+	50100 16450 50100 17700
+Wire Wire Line
+	49950 15900 50000 15900
+Wire Wire Line
+	50000 15900 50000 16650
+Connection ~ 50000 16650
+Wire Wire Line
+	49950 15700 50100 15700
+Wire Wire Line
+	50100 15700 50100 16450
+Connection ~ 50100 16450
+Wire Wire Line
+	49950 15150 50000 15150
+Wire Wire Line
+	50000 15150 50000 15900
+Connection ~ 50000 15900
+Wire Wire Line
+	49950 14950 50100 14950
+Wire Wire Line
+	50100 14950 50100 15700
+Connection ~ 50100 15700
+Wire Wire Line
+	49950 14400 50000 14400
+Wire Wire Line
+	50000 14400 50000 15150
+Connection ~ 50000 15150
+Wire Wire Line
+	49950 14200 50100 14200
+Wire Wire Line
+	50100 14200 50100 14950
+Connection ~ 50100 14950
+Wire Wire Line
+	49950 13650 50000 13650
+Wire Wire Line
+	50000 13650 50000 14400
+Connection ~ 50000 14400
+Wire Wire Line
+	49950 13450 50100 13450
+Wire Wire Line
+	50100 13450 50100 14200
+Connection ~ 50100 14200
+Wire Wire Line
+	49950 12900 50000 12900
+Wire Wire Line
+	50000 12900 50000 13650
+Connection ~ 50000 13650
+Wire Wire Line
+	49950 12700 50100 12700
+Wire Wire Line
+	50100 12700 50100 13450
+Connection ~ 50100 13450
+Wire Wire Line
+	49950 12150 50000 12150
+Wire Wire Line
+	50000 12150 50000 12900
+Connection ~ 50000 12900
+Wire Wire Line
+	50100 12700 50100 11950
+Wire Wire Line
+	50100 11950 49950 11950
+Connection ~ 50100 12700
+Wire Wire Line
+	50000 12150 50000 11400
+Wire Wire Line
+	50000 11400 49950 11400
+Connection ~ 50000 12150
+Wire Wire Line
+	49950 11200 50100 11200
+Wire Wire Line
+	50100 11200 50100 11950
+Connection ~ 50100 11950
+Wire Wire Line
+	50000 10600 49900 10600
+Connection ~ 50000 11400
+Wire Wire Line
+	50000 11400 50000 10600
+Wire Wire Line
+	50100 11200 50100 10400
+Wire Wire Line
+	50100 10400 49900 10400
+Connection ~ 50100 11200
+Wire Wire Line
+	50100 10400 50100 9650
+Wire Wire Line
+	50100 9650 49900 9650
+Connection ~ 50100 10400
+Wire Wire Line
+	49900 9850 50000 9850
+Wire Wire Line
+	50000 9850 50000 10600
+Connection ~ 50000 10600
+Wire Wire Line
+	50000 9850 50000 9100
+Wire Wire Line
+	50000 9100 49900 9100
+Connection ~ 50000 9850
+Wire Wire Line
+	50100 9650 50100 8900
+Wire Wire Line
+	50100 8900 49900 8900
+Connection ~ 50100 9650
+Wire Wire Line
+	50000 9100 50000 8350
+Wire Wire Line
+	50000 8350 49900 8350
+Connection ~ 50000 9100
+Wire Wire Line
+	49900 8150 50100 8150
+Wire Wire Line
+	50100 8150 50100 8900
+Connection ~ 50100 8900
+Wire Wire Line
+	50000 8350 50000 7600
+Wire Wire Line
+	50000 7600 49900 7600
+Connection ~ 50000 8350
+Wire Wire Line
+	50100 8150 50100 7400
+Wire Wire Line
+	50100 7400 49900 7400
+Connection ~ 50100 8150
+Wire Wire Line
+	50000 7600 50000 6850
+Wire Wire Line
+	50000 6850 49900 6850
+Connection ~ 50000 7600
+Wire Wire Line
+	49900 6650 50100 6650
+Wire Wire Line
+	50100 6650 50100 7400
+Connection ~ 50100 7400
+Wire Wire Line
+	50000 6850 50000 6100
+Wire Wire Line
+	50000 6100 49900 6100
+Connection ~ 50000 6850
+Wire Wire Line
+	50100 6650 50100 5900
+Wire Wire Line
+	50100 5900 49900 5900
+Connection ~ 50100 6650
+Wire Wire Line
+	50000 6100 50000 5350
+Wire Wire Line
+	50000 5350 49900 5350
+Connection ~ 50000 6100
+Wire Wire Line
+	49900 5150 50100 5150
+Wire Wire Line
+	50100 5150 50100 5900
+Connection ~ 50100 5900
+Wire Wire Line
+	48750 5550 49550 5550
+Wire Wire Line
+	49550 5550 49550 5350
+Wire Wire Line
+	49550 5350 49600 5350
+Connection ~ 48750 5550
+Wire Wire Line
+	49550 5350 49550 5150
+Wire Wire Line
+	49550 5150 49600 5150
+Connection ~ 49550 5350
+Wire Wire Line
+	48750 6300 49550 6300
+Wire Wire Line
+	49550 6300 49550 6100
+Wire Wire Line
+	49550 5900 49600 5900
+Connection ~ 48750 6300
+Wire Wire Line
+	49550 6100 49600 6100
+Connection ~ 49550 6100
+Wire Wire Line
+	49550 6100 49550 5900
+Wire Wire Line
+	48750 7050 49550 7050
+Wire Wire Line
+	49550 7050 49550 6850
+Wire Wire Line
+	49550 6650 49600 6650
+Connection ~ 48750 7050
+Wire Wire Line
+	49550 6850 49600 6850
+Connection ~ 49550 6850
+Wire Wire Line
+	49550 6850 49550 6650
+Wire Wire Line
+	48750 8550 49550 8550
+Wire Wire Line
+	49550 8550 49550 8350
+Wire Wire Line
+	49550 8150 49600 8150
+Connection ~ 48750 8550
+Wire Wire Line
+	49600 8350 49550 8350
+Connection ~ 49550 8350
+Wire Wire Line
+	49550 8350 49550 8150
+Wire Wire Line
+	48750 9300 49550 9300
+Wire Wire Line
+	49550 9300 49550 9100
+Wire Wire Line
+	49550 8900 49600 8900
+Connection ~ 48750 9300
+Wire Wire Line
+	49600 9100 49550 9100
+Connection ~ 49550 9100
+Wire Wire Line
+	49550 9100 49550 8900
+Wire Wire Line
+	48750 10800 49550 10800
+Wire Wire Line
+	49550 10800 49550 10600
+Wire Wire Line
+	49550 10400 49600 10400
+Connection ~ 48750 10800
+Wire Wire Line
+	49550 10600 49600 10600
+Connection ~ 49550 10600
+Wire Wire Line
+	49550 10600 49550 10400
+Wire Wire Line
+	48750 11600 49600 11600
+Wire Wire Line
+	49600 11600 49600 11400
+Wire Wire Line
+	49600 11200 49650 11200
+Connection ~ 48750 11600
+Wire Wire Line
+	49600 11400 49650 11400
+Connection ~ 49600 11400
+Wire Wire Line
+	49600 11400 49600 11200
+Wire Wire Line
+	48750 12350 49600 12350
+Wire Wire Line
+	49600 12350 49600 12150
+Wire Wire Line
+	49600 11950 49650 11950
+Connection ~ 48750 12350
+Wire Wire Line
+	49600 12150 49650 12150
+Connection ~ 49600 12150
+Wire Wire Line
+	49600 12150 49600 11950
+Wire Wire Line
+	48750 13100 49600 13100
+Wire Wire Line
+	49600 13100 49600 12900
+Wire Wire Line
+	49600 12700 49650 12700
+Connection ~ 48750 13100
+Wire Wire Line
+	49600 12900 49650 12900
+Connection ~ 49600 12900
+Wire Wire Line
+	49600 12900 49600 12700
+Wire Wire Line
+	48750 13850 49600 13850
+Wire Wire Line
+	49600 13850 49600 13650
+Wire Wire Line
+	49600 13450 49650 13450
+Connection ~ 48750 13850
+Wire Wire Line
+	49600 13650 49650 13650
+Connection ~ 49600 13650
+Wire Wire Line
+	49600 13650 49600 13450
+Wire Wire Line
+	48750 14600 49600 14600
+Wire Wire Line
+	49600 14600 49600 14400
+Wire Wire Line
+	49600 14200 49650 14200
+Connection ~ 48750 14600
+Wire Wire Line
+	49650 14400 49600 14400
+Connection ~ 49600 14400
+Wire Wire Line
+	49600 14400 49600 14200
+Wire Wire Line
+	48750 15350 49600 15350
+Wire Wire Line
+	49600 15350 49600 15150
+Wire Wire Line
+	49600 14950 49650 14950
+Connection ~ 48750 15350
+Wire Wire Line
+	49650 15150 49600 15150
+Connection ~ 49600 15150
+Wire Wire Line
+	49600 15150 49600 14950
+Wire Wire Line
+	48750 16100 49600 16100
+Wire Wire Line
+	49600 16100 49600 15900
+Wire Wire Line
+	49600 15700 49650 15700
+Connection ~ 48750 16100
+Wire Wire Line
+	49650 15900 49600 15900
+Connection ~ 49600 15900
+Wire Wire Line
+	49600 15900 49600 15700
+Wire Wire Line
+	48750 16850 49600 16850
+Wire Wire Line
+	49600 16850 49600 16650
+Wire Wire Line
+	49600 16450 49650 16450
+Connection ~ 48750 16850
+Wire Wire Line
+	49600 16650 49650 16650
+Connection ~ 49600 16650
+Wire Wire Line
+	49600 16650 49600 16450
+Wire Wire Line
+	48750 10050 49550 10050
+Wire Wire Line
+	49550 10050 49550 9850
+Wire Wire Line
+	49550 9650 49600 9650
+Connection ~ 48750 10050
+Wire Wire Line
+	49600 9850 49550 9850
+Connection ~ 49550 9850
+Wire Wire Line
+	49550 9850 49550 9650
+Wire Wire Line
+	49600 7400 49550 7400
+Wire Wire Line
+	49550 7400 49550 7600
+Wire Wire Line
+	49550 7600 49600 7600
+Wire Wire Line
+	49550 7600 49550 7800
+Wire Wire Line
+	49550 7800 48750 7800
+Connection ~ 49550 7600
+Connection ~ 48750 7800
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 603EFEE7
+P 38300 7500
+F 0 "RE?" H 38529 7546 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 7455 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 7660 50  0001 C CNN
+F 3 "~" H 38300 7760 50  0001 C CNN
+	1    38300 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 5C57B090
+P 38300 8050
+F 0 "RE?" H 38529 8096 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 8005 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 8210 50  0001 C CNN
+F 3 "~" H 38300 8310 50  0001 C CNN
+	1    38300 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 5C57B1A0
+P 38300 8550
+F 0 "RE?" H 38529 8596 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 8505 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 8710 50  0001 C CNN
+F 3 "~" H 38300 8810 50  0001 C CNN
+	1    38300 8550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 5C57B2B8
+P 38300 9050
+F 0 "RE?" H 38529 9096 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 9005 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 9210 50  0001 C CNN
+F 3 "~" H 38300 9310 50  0001 C CNN
+	1    38300 9050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	36150 7400 38000 7400
+Wire Wire Line
+	37700 7500 36150 7500
+Wire Wire Line
+	36150 8700 36350 8700
+Wire Wire Line
+	36150 8800 36350 8800
+Wire Wire Line
+	36350 8900 36150 8900
+Wire Wire Line
+	36150 9000 36350 9000
+Text Label 38000 7500 2    50   ~ 0
+T_GND
+Text Label 34750 7500 2    50   ~ 0
+T_SCL
+Text Label 34750 7400 2    50   ~ 0
+T_SDA
+Text Label 35450 7100 0    50   ~ 0
+T_3V3
+Text Label 35450 9300 0    50   ~ 0
+T_GND
+Text Label 34750 8300 2    50   ~ 0
+T_3V3
+Wire Wire Line
+	35450 6900 36050 6900
+$Comp
+L Device:C_Small C?
+U 1 1 5C57BC56
+P 36050 7050
+F 0 "C?" H 36142 7096 50  0000 L CNN
+F 1 "C_Small" H 36142 7005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 36050 7050 50  0001 C CNN
+F 3 "~" H 36050 7050 50  0001 C CNN
+	1    36050 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	36050 6950 36050 6900
+Wire Wire Line
+	36050 6900 36250 6900
+Wire Wire Line
+	36250 6900 36250 6950
+Connection ~ 36050 6900
+Wire Wire Line
+	36050 7150 36050 7200
+Wire Wire Line
+	36050 7200 36250 7200
+Wire Wire Line
+	36250 7200 36250 7150
+Text Label 36300 7200 0    50   ~ 0
+T_GND
+Wire Wire Line
+	36300 7200 36250 7200
+Connection ~ 36250 7200
+Wire Wire Line
+	35450 6900 35450 7100
+Text Label 34750 9000 2    50   ~ 0
+T_GND
+$Comp
+L Interface_Expansion:MCP23017_SO IO?
+U 1 1 5C57BC68
+P 35450 8200
+F 0 "IO?" H 35000 9150 50  0000 C CNN
+F 1 "MCP23017_SO" H 35300 8600 50  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 35650 7200 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 35650 7100 50  0001 L CNN
+	1    35450 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5C57BC6E
+P 36250 7050
+F 0 "C?" H 36342 7096 50  0000 L CNN
+F 1 "C_Small" H 36342 7005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 36250 7050 50  0001 C CNN
+F 3 "~" H 36250 7050 50  0001 C CNN
+	1    36250 7050
+	1    0    0    -1  
+$EndComp
+Text Label 38000 8050 2    50   ~ 0
+T_GND
+Text Label 38000 8550 2    50   ~ 0
+T_GND
+Text Label 38000 9050 2    50   ~ 0
+T_GND
+Wire Wire Line
+	37700 7500 37700 7600
+Wire Wire Line
+	37700 7600 38000 7600
+Wire Wire Line
+	38000 7950 37600 7950
+Wire Wire Line
+	37600 7950 37600 7600
+Wire Wire Line
+	36150 7600 37600 7600
+Wire Wire Line
+	37500 7700 37500 8150
+Wire Wire Line
+	37500 8150 38000 8150
+Wire Wire Line
+	36150 7700 37500 7700
+Wire Wire Line
+	37400 7800 37400 8450
+Wire Wire Line
+	37400 8450 38000 8450
+Wire Wire Line
+	36150 7800 37400 7800
+Wire Wire Line
+	38000 8650 37300 8650
+Wire Wire Line
+	37300 8650 37300 7900
+Wire Wire Line
+	36150 7900 37300 7900
+Wire Wire Line
+	37200 8000 37200 8950
+Wire Wire Line
+	37200 8950 38000 8950
+Wire Wire Line
+	36150 8000 37200 8000
+Wire Wire Line
+	38000 9150 37100 9150
+Wire Wire Line
+	37100 9150 37100 8100
+Wire Wire Line
+	36150 8100 37100 8100
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 5CBC5B63
+P 38300 9550
+F 0 "RE?" H 38529 9596 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 9505 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 9710 50  0001 C CNN
+F 3 "~" H 38300 9810 50  0001 C CNN
+	1    38300 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder RE?
+U 1 1 5CBC5B69
+P 38300 10050
+F 0 "RE?" H 38529 10096 50  0000 L CNN
+F 1 "Rotary_Encoder" H 38529 10005 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 38150 10210 50  0001 C CNN
+F 3 "~" H 38300 10310 50  0001 C CNN
+	1    38300 10050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	37000 8300 37000 9450
+Wire Wire Line
+	37000 9450 38000 9450
+Wire Wire Line
+	36150 8300 37000 8300
+Wire Wire Line
+	38000 9650 36900 9650
+Wire Wire Line
+	36900 9650 36900 8400
+Wire Wire Line
+	36150 8400 36900 8400
+Wire Wire Line
+	36800 8500 36800 9950
+Wire Wire Line
+	36800 9950 38000 9950
+Wire Wire Line
+	36150 8500 36800 8500
+Wire Wire Line
+	38000 10150 36700 10150
+Wire Wire Line
+	36700 10150 36700 8600
+Wire Wire Line
+	36150 8600 36700 8600
+Text Label 38000 9550 2    50   ~ 0
+T_GND
+Text Label 38000 10050 2    50   ~ 0
+T_GND
+Text Label 43850 7350 0    50   ~ 0
+KS0
+Text Label 43850 7450 0    50   ~ 0
+KS1
+Text Label 43850 7550 0    50   ~ 0
+KS2
+Wire Wire Line
+	44400 5850 44400 5300
+Connection ~ 44400 5850
+Wire Wire Line
+	44400 5850 43850 5850
+Wire Wire Line
+	44500 5950 44500 5300
+Connection ~ 44500 5950
+Wire Wire Line
+	44500 5950 47200 5950
+Wire Wire Line
+	44600 6050 44600 5300
+Connection ~ 44600 6050
+Wire Wire Line
+	44600 6050 43850 6050
+Wire Wire Line
+	44700 6150 44700 5300
+Connection ~ 44700 6150
+Wire Wire Line
+	44700 6150 47000 6150
+Wire Wire Line
+	44800 6250 44800 5300
+Connection ~ 44800 6250
+Wire Wire Line
+	44800 6250 43850 6250
+Wire Wire Line
+	44900 6350 44900 5300
+Connection ~ 44900 6350
+Wire Wire Line
+	44900 6350 46800 6350
+Wire Wire Line
+	45000 6450 45000 5300
+Connection ~ 45000 6450
+Wire Wire Line
+	45000 6450 43850 6450
+Wire Wire Line
+	45100 6550 45100 5300
+Connection ~ 45100 6550
+Wire Wire Line
+	45100 6550 43850 6550
+Wire Wire Line
+	45200 6650 45200 5300
+Connection ~ 45200 6650
+Wire Wire Line
+	45200 6650 43850 6650
+Wire Wire Line
+	45300 6750 45300 5300
+Connection ~ 45300 6750
+Wire Wire Line
+	45300 6750 46400 6750
+Wire Wire Line
+	45400 6850 45400 5300
+Connection ~ 45400 6850
+Wire Wire Line
+	45400 6850 46300 6850
+Wire Wire Line
+	45500 6950 45500 5300
+Connection ~ 45500 6950
+Wire Wire Line
+	45500 6950 43850 6950
+Wire Wire Line
+	45600 7050 45600 5300
+Connection ~ 45600 7050
+Wire Wire Line
+	45600 7050 46100 7050
+$Comp
+L Device:R R?
+U 1 1 5D92E9BF
+P 44400 5150
+F 0 "R?" V 44450 5000 50  0000 C CNN
+F 1 "39K" V 44450 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44330 5150 50  0001 C CNN
+F 3 "~" H 44400 5150 50  0001 C CNN
+	1    44400 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F136
+P 44500 5150
+F 0 "R?" V 44550 5000 50  0000 C CNN
+F 1 "39K" V 44550 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44430 5150 50  0001 C CNN
+F 3 "~" H 44500 5150 50  0001 C CNN
+	1    44500 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F298
+P 44600 5150
+F 0 "R?" V 44650 5000 50  0000 C CNN
+F 1 "39K" V 44650 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44530 5150 50  0001 C CNN
+F 3 "~" H 44600 5150 50  0001 C CNN
+	1    44600 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F3FC
+P 44700 5150
+F 0 "R?" V 44750 5000 50  0000 C CNN
+F 1 "39K" V 44750 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44630 5150 50  0001 C CNN
+F 3 "~" H 44700 5150 50  0001 C CNN
+	1    44700 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F562
+P 44800 5150
+F 0 "R?" V 44850 5000 50  0000 C CNN
+F 1 "39K" V 44850 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44730 5150 50  0001 C CNN
+F 3 "~" H 44800 5150 50  0001 C CNN
+	1    44800 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F6C6
+P 44900 5150
+F 0 "R?" V 44950 5000 50  0000 C CNN
+F 1 "39K" V 44950 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44830 5150 50  0001 C CNN
+F 3 "~" H 44900 5150 50  0001 C CNN
+	1    44900 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92F82C
+P 45000 5150
+F 0 "R?" V 45050 5000 50  0000 C CNN
+F 1 "39K" V 45050 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 44930 5150 50  0001 C CNN
+F 3 "~" H 45000 5150 50  0001 C CNN
+	1    45000 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92FBA6
+P 45100 5150
+F 0 "R?" V 45150 5000 50  0000 C CNN
+F 1 "39K" V 45150 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45030 5150 50  0001 C CNN
+F 3 "~" H 45100 5150 50  0001 C CNN
+	1    45100 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92FD10
+P 45200 5150
+F 0 "R?" V 45250 5000 50  0000 C CNN
+F 1 "39K" V 45250 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45130 5150 50  0001 C CNN
+F 3 "~" H 45200 5150 50  0001 C CNN
+	1    45200 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92FE7C
+P 45300 5150
+F 0 "R?" V 45350 5000 50  0000 C CNN
+F 1 "39K" V 45350 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45230 5150 50  0001 C CNN
+F 3 "~" H 45300 5150 50  0001 C CNN
+	1    45300 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D92FFEA
+P 45400 5150
+F 0 "R?" V 45450 5000 50  0000 C CNN
+F 1 "39K" V 45450 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45330 5150 50  0001 C CNN
+F 3 "~" H 45400 5150 50  0001 C CNN
+	1    45400 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D93015A
+P 45500 5150
+F 0 "R?" V 45550 5000 50  0000 C CNN
+F 1 "39K" V 45550 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45430 5150 50  0001 C CNN
+F 3 "~" H 45500 5150 50  0001 C CNN
+	1    45500 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D9302CC
+P 45600 5150
+F 0 "R?" V 45650 5000 50  0000 C CNN
+F 1 "39K" V 45650 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 45530 5150 50  0001 C CNN
+F 3 "~" H 45600 5150 50  0001 C CNN
+	1    45600 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5D930708
+P 45950 4250
+F 0 "D?" H 45950 4034 50  0000 C CNN
+F 1 "D" H 45950 4125 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 45950 4250 50  0001 C CNN
+F 3 "~" H 45950 4250 50  0001 C CNN
+	1    45950 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5D930DD1
+P 45950 3500
+F 0 "D?" H 45950 3284 50  0000 C CNN
+F 1 "D" H 45950 3375 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 45950 3500 50  0001 C CNN
+F 3 "~" H 45950 3500 50  0001 C CNN
+	1    45950 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5D930F4F
+P 45950 2750
+F 0 "D?" H 45950 2534 50  0000 C CNN
+F 1 "D" H 45950 2625 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 45950 2750 50  0001 C CNN
+F 3 "~" H 45950 2750 50  0001 C CNN
+	1    45950 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	44400 5000 44400 4650
+Wire Wire Line
+	44400 4650 44450 4650
+Wire Wire Line
+	44400 4650 44400 3900
+Wire Wire Line
+	44400 3900 44450 3900
+Connection ~ 44400 4650
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DAB547F
+P 44450 3700
+F 0 "SW?" H 44250 3750 50  0000 C CNN
+F 1 "SW_Push" H 44750 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44450 3900 50  0001 C CNN
+F 3 "" H 44450 3900 50  0001 C CNN
+	1    44450 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	44400 3900 44400 3150
+Wire Wire Line
+	44400 3150 44450 3150
+Connection ~ 44400 3900
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DB77359
+P 44450 2950
+F 0 "SW?" H 44250 3000 50  0000 C CNN
+F 1 "SW_Push" H 44750 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44450 3150 50  0001 C CNN
+F 3 "" H 44450 3150 50  0001 C CNN
+	1    44450 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DB77B5C
+P 44550 4450
+F 0 "SW?" H 44350 4500 50  0000 C CNN
+F 1 "SW_Push" H 44850 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44550 4650 50  0001 C CNN
+F 3 "" H 44550 4650 50  0001 C CNN
+	1    44550 4450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	44500 5000 44500 4650
+Wire Wire Line
+	44500 4650 44550 4650
+Wire Wire Line
+	44500 4650 44500 3900
+Wire Wire Line
+	44500 3900 44550 3900
+Connection ~ 44500 4650
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DCFE27C
+P 44550 3700
+F 0 "SW?" H 44350 3750 50  0000 C CNN
+F 1 "SW_Push" H 44850 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44550 3900 50  0001 C CNN
+F 3 "" H 44550 3900 50  0001 C CNN
+	1    44550 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DCFE5A4
+P 44550 2950
+F 0 "SW?" H 44350 3000 50  0000 C CNN
+F 1 "SW_Push" H 44850 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44550 3150 50  0001 C CNN
+F 3 "" H 44550 3150 50  0001 C CNN
+	1    44550 2950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	44500 3900 44500 3150
+Wire Wire Line
+	44500 3150 44550 3150
+Connection ~ 44500 3900
+Wire Wire Line
+	44450 4250 44550 4250
+Connection ~ 44550 4250
+Wire Wire Line
+	44550 4250 44650 4250
+Wire Wire Line
+	44450 3500 44550 3500
+Connection ~ 44550 3500
+Wire Wire Line
+	44550 3500 44650 3500
+Wire Wire Line
+	44450 2750 44550 2750
+Connection ~ 44550 2750
+Wire Wire Line
+	44550 2750 44650 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E267D58
+P 44650 4450
+F 0 "SW?" H 44450 4500 50  0000 C CNN
+F 1 "SW_Push" H 44950 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44650 4650 50  0001 C CNN
+F 3 "" H 44650 4650 50  0001 C CNN
+	1    44650 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 44650 4250
+Wire Wire Line
+	44650 4250 44750 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E267EE0
+P 44750 4450
+F 0 "SW?" H 44550 4500 50  0000 C CNN
+F 1 "SW_Push" H 45050 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44750 4650 50  0001 C CNN
+F 3 "" H 44750 4650 50  0001 C CNN
+	1    44750 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 44750 4250
+Wire Wire Line
+	44750 4250 44850 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E26806A
+P 44850 4450
+F 0 "SW?" H 44650 4500 50  0000 C CNN
+F 1 "SW_Push" H 45150 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44850 4650 50  0001 C CNN
+F 3 "" H 44850 4650 50  0001 C CNN
+	1    44850 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 44850 4250
+Wire Wire Line
+	44850 4250 44950 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E2681FA
+P 44950 4450
+F 0 "SW?" H 44750 4500 50  0000 C CNN
+F 1 "SW_Push" H 45250 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44950 4650 50  0001 C CNN
+F 3 "" H 44950 4650 50  0001 C CNN
+	1    44950 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 44950 4250
+Wire Wire Line
+	44950 4250 45050 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E268388
+P 45050 4450
+F 0 "SW?" H 44850 4500 50  0000 C CNN
+F 1 "SW_Push" H 45350 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45050 4650 50  0001 C CNN
+F 3 "" H 45050 4650 50  0001 C CNN
+	1    45050 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45050 4250
+Wire Wire Line
+	45050 4250 45150 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E26851C
+P 45150 4450
+F 0 "SW?" H 44950 4500 50  0000 C CNN
+F 1 "SW_Push" H 45450 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45150 4650 50  0001 C CNN
+F 3 "" H 45150 4650 50  0001 C CNN
+	1    45150 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45150 4250
+Wire Wire Line
+	45150 4250 45250 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E2686B2
+P 45250 4450
+F 0 "SW?" H 45050 4500 50  0000 C CNN
+F 1 "SW_Push" H 45550 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45250 4650 50  0001 C CNN
+F 3 "" H 45250 4650 50  0001 C CNN
+	1    45250 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45250 4250
+Wire Wire Line
+	45250 4250 45350 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E268846
+P 45350 4450
+F 0 "SW?" H 45150 4500 50  0000 C CNN
+F 1 "SW_Push" H 45650 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45350 4650 50  0001 C CNN
+F 3 "" H 45350 4650 50  0001 C CNN
+	1    45350 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45350 4250
+Wire Wire Line
+	45350 4250 45450 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E2689E0
+P 45450 4450
+F 0 "SW?" H 45250 4500 50  0000 C CNN
+F 1 "SW_Push" H 45750 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45450 4650 50  0001 C CNN
+F 3 "" H 45450 4650 50  0001 C CNN
+	1    45450 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45450 4250
+Wire Wire Line
+	45450 4250 45550 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E268B78
+P 45550 4450
+F 0 "SW?" H 45350 4500 50  0000 C CNN
+F 1 "SW_Push" H 45850 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45550 4650 50  0001 C CNN
+F 3 "" H 45550 4650 50  0001 C CNN
+	1    45550 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45550 4250
+Wire Wire Line
+	45550 4250 45650 4250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E268D12
+P 45650 4450
+F 0 "SW?" H 45450 4500 50  0000 C CNN
+F 1 "SW_Push" H 45950 4500 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45650 4650 50  0001 C CNN
+F 3 "" H 45650 4650 50  0001 C CNN
+	1    45650 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 45650 4250
+Wire Wire Line
+	45650 4250 45800 4250
+Wire Wire Line
+	44600 5000 44600 4650
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406009
+P 44650 2950
+F 0 "SW?" H 44450 3000 50  0000 C CNN
+F 1 "SW_Push" H 44950 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44650 3150 50  0001 C CNN
+F 3 "" H 44650 3150 50  0001 C CNN
+	1    44650 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 44650 2750
+Wire Wire Line
+	44650 2750 44750 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4061A7
+P 44750 2950
+F 0 "SW?" H 44550 3000 50  0000 C CNN
+F 1 "SW_Push" H 45050 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44750 3150 50  0001 C CNN
+F 3 "" H 44750 3150 50  0001 C CNN
+	1    44750 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 44750 2750
+Wire Wire Line
+	44750 2750 44850 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406347
+P 44850 2950
+F 0 "SW?" H 44650 3000 50  0000 C CNN
+F 1 "SW_Push" H 45150 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44850 3150 50  0001 C CNN
+F 3 "" H 44850 3150 50  0001 C CNN
+	1    44850 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 44850 2750
+Wire Wire Line
+	44850 2750 44950 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4064E9
+P 44950 2950
+F 0 "SW?" H 44750 3000 50  0000 C CNN
+F 1 "SW_Push" H 45250 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44950 3150 50  0001 C CNN
+F 3 "" H 44950 3150 50  0001 C CNN
+	1    44950 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 44950 2750
+Wire Wire Line
+	44950 2750 45050 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E40668D
+P 45050 2950
+F 0 "SW?" H 44850 3000 50  0000 C CNN
+F 1 "SW_Push" H 45350 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45050 3150 50  0001 C CNN
+F 3 "" H 45050 3150 50  0001 C CNN
+	1    45050 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45050 2750
+Wire Wire Line
+	45050 2750 45150 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406833
+P 45150 2950
+F 0 "SW?" H 44950 3000 50  0000 C CNN
+F 1 "SW_Push" H 45450 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45150 3150 50  0001 C CNN
+F 3 "" H 45150 3150 50  0001 C CNN
+	1    45150 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45150 2750
+Wire Wire Line
+	45150 2750 45250 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4069DB
+P 45250 2950
+F 0 "SW?" H 45050 3000 50  0000 C CNN
+F 1 "SW_Push" H 45550 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45250 3150 50  0001 C CNN
+F 3 "" H 45250 3150 50  0001 C CNN
+	1    45250 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45250 2750
+Wire Wire Line
+	45250 2750 45350 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406B85
+P 45350 2950
+F 0 "SW?" H 45150 3000 50  0000 C CNN
+F 1 "SW_Push" H 45650 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45350 3150 50  0001 C CNN
+F 3 "" H 45350 3150 50  0001 C CNN
+	1    45350 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45350 2750
+Wire Wire Line
+	45350 2750 45450 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406D31
+P 45450 2950
+F 0 "SW?" H 45250 3000 50  0000 C CNN
+F 1 "SW_Push" H 45750 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45450 3150 50  0001 C CNN
+F 3 "" H 45450 3150 50  0001 C CNN
+	1    45450 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45450 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E406EDF
+P 45550 2950
+F 0 "SW?" H 45350 3000 50  0000 C CNN
+F 1 "SW_Push" H 45850 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45550 3150 50  0001 C CNN
+F 3 "" H 45550 3150 50  0001 C CNN
+	1    45550 2950
+	0    1    1    0   
+$EndComp
+Connection ~ 45550 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407093
+P 45650 2950
+F 0 "SW?" H 45450 3000 50  0000 C CNN
+F 1 "SW_Push" H 45950 3000 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45650 3150 50  0001 C CNN
+F 3 "" H 45650 3150 50  0001 C CNN
+	1    45650 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407415
+P 44650 3700
+F 0 "SW?" H 44450 3750 50  0000 C CNN
+F 1 "SW_Push" H 44950 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44650 3900 50  0001 C CNN
+F 3 "" H 44650 3900 50  0001 C CNN
+	1    44650 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 44650 3500
+Wire Wire Line
+	44650 3500 44750 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4075D1
+P 44750 3700
+F 0 "SW?" H 44550 3750 50  0000 C CNN
+F 1 "SW_Push" H 45050 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44750 3900 50  0001 C CNN
+F 3 "" H 44750 3900 50  0001 C CNN
+	1    44750 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 44750 3500
+Wire Wire Line
+	44750 3500 44850 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407787
+P 44850 3700
+F 0 "SW?" H 44650 3750 50  0000 C CNN
+F 1 "SW_Push" H 45150 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44850 3900 50  0001 C CNN
+F 3 "" H 44850 3900 50  0001 C CNN
+	1    44850 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 44850 3500
+Wire Wire Line
+	44850 3500 44950 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E40793F
+P 44950 3700
+F 0 "SW?" H 44750 3750 50  0000 C CNN
+F 1 "SW_Push" H 45250 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 44950 3900 50  0001 C CNN
+F 3 "" H 44950 3900 50  0001 C CNN
+	1    44950 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 44950 3500
+Wire Wire Line
+	44950 3500 45050 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407AF9
+P 45050 3700
+F 0 "SW?" H 44850 3750 50  0000 C CNN
+F 1 "SW_Push" H 45350 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45050 3900 50  0001 C CNN
+F 3 "" H 45050 3900 50  0001 C CNN
+	1    45050 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45050 3500
+Wire Wire Line
+	45050 3500 45150 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407CB5
+P 45150 3700
+F 0 "SW?" H 44950 3750 50  0000 C CNN
+F 1 "SW_Push" H 45450 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45150 3900 50  0001 C CNN
+F 3 "" H 45150 3900 50  0001 C CNN
+	1    45150 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45150 3500
+Wire Wire Line
+	45150 3500 45250 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E407E73
+P 45250 3700
+F 0 "SW?" H 45050 3750 50  0000 C CNN
+F 1 "SW_Push" H 45550 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45250 3900 50  0001 C CNN
+F 3 "" H 45250 3900 50  0001 C CNN
+	1    45250 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45250 3500
+Wire Wire Line
+	45250 3500 45350 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E408033
+P 45350 3700
+F 0 "SW?" H 45150 3750 50  0000 C CNN
+F 1 "SW_Push" H 45650 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45350 3900 50  0001 C CNN
+F 3 "" H 45350 3900 50  0001 C CNN
+	1    45350 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45350 3500
+Wire Wire Line
+	45350 3500 45450 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4081F5
+P 45450 3700
+F 0 "SW?" H 45250 3750 50  0000 C CNN
+F 1 "SW_Push" H 45750 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45450 3900 50  0001 C CNN
+F 3 "" H 45450 3900 50  0001 C CNN
+	1    45450 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45450 3500
+Wire Wire Line
+	45450 3500 45550 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E4083B9
+P 45550 3700
+F 0 "SW?" H 45350 3750 50  0000 C CNN
+F 1 "SW_Push" H 45850 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45550 3900 50  0001 C CNN
+F 3 "" H 45550 3900 50  0001 C CNN
+	1    45550 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45550 3500
+Wire Wire Line
+	45550 3500 45650 3500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5E40857F
+P 45650 3700
+F 0 "SW?" H 45450 3750 50  0000 C CNN
+F 1 "SW_Push" H 45950 3750 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 45650 3900 50  0001 C CNN
+F 3 "" H 45650 3900 50  0001 C CNN
+	1    45650 3700
+	0    1    1    0   
+$EndComp
+Connection ~ 45650 3500
+Wire Wire Line
+	45650 3500 45800 3500
+Wire Wire Line
+	44600 3900 44650 3900
+Connection ~ 44600 3900
+Wire Wire Line
+	44600 3900 44600 3150
+Wire Wire Line
+	44600 3150 44650 3150
+Wire Wire Line
+	44600 4650 44650 4650
+Connection ~ 44600 4650
+Wire Wire Line
+	44600 4650 44600 3900
+Wire Wire Line
+	44700 5000 44700 4650
+Wire Wire Line
+	44700 4650 44750 4650
+Wire Wire Line
+	44800 5000 44800 4650
+Wire Wire Line
+	44800 4650 44850 4650
+Wire Wire Line
+	44900 5000 44900 4650
+Wire Wire Line
+	44900 4650 44950 4650
+Wire Wire Line
+	45000 5000 45000 4650
+Wire Wire Line
+	45000 4650 45050 4650
+Wire Wire Line
+	45100 5000 45100 4650
+Wire Wire Line
+	45100 4650 45150 4650
+Wire Wire Line
+	45200 5000 45200 4650
+Wire Wire Line
+	45200 4650 45250 4650
+Wire Wire Line
+	45300 5000 45300 4650
+Wire Wire Line
+	45300 4650 45350 4650
+Wire Wire Line
+	45400 5000 45400 4650
+Wire Wire Line
+	45400 4650 45450 4650
+Wire Wire Line
+	45500 5000 45500 4650
+Wire Wire Line
+	45500 4650 45550 4650
+Wire Wire Line
+	45600 5000 45600 4650
+Wire Wire Line
+	45600 4650 45650 4650
+Wire Wire Line
+	44700 4650 44700 3900
+Wire Wire Line
+	44700 3900 44750 3900
+Connection ~ 44700 4650
+Wire Wire Line
+	44800 4650 44800 3900
+Wire Wire Line
+	44800 3900 44850 3900
+Connection ~ 44800 4650
+Wire Wire Line
+	44900 4650 44900 3900
+Wire Wire Line
+	44900 3900 44950 3900
+Connection ~ 44900 4650
+Wire Wire Line
+	45000 4650 45000 3900
+Wire Wire Line
+	45000 3900 45050 3900
+Connection ~ 45000 4650
+Wire Wire Line
+	45100 4650 45100 3900
+Wire Wire Line
+	45100 3900 45150 3900
+Connection ~ 45100 4650
+Wire Wire Line
+	45200 4650 45200 3900
+Wire Wire Line
+	45200 3900 45250 3900
+Connection ~ 45200 4650
+Wire Wire Line
+	45300 4650 45300 3900
+Wire Wire Line
+	45300 3900 45350 3900
+Connection ~ 45300 4650
+Wire Wire Line
+	45400 4650 45400 3900
+Wire Wire Line
+	45400 3900 45450 3900
+Connection ~ 45400 4650
+Wire Wire Line
+	45500 4650 45500 3900
+Wire Wire Line
+	45500 3900 45550 3900
+Connection ~ 45500 4650
+Wire Wire Line
+	45600 4650 45600 3900
+Wire Wire Line
+	45600 3900 45650 3900
+Connection ~ 45600 4650
+Wire Wire Line
+	45600 3900 45600 3150
+Wire Wire Line
+	45600 3150 45650 3150
+Connection ~ 45600 3900
+Wire Wire Line
+	45500 3900 45500 3150
+Wire Wire Line
+	45500 3150 45550 3150
+Connection ~ 45500 3900
+Wire Wire Line
+	45400 3900 45400 3150
+Wire Wire Line
+	45400 3150 45450 3150
+Connection ~ 45400 3900
+Wire Wire Line
+	45300 3900 45300 3150
+Wire Wire Line
+	45300 3150 45350 3150
+Connection ~ 45300 3900
+Wire Wire Line
+	45200 3900 45200 3150
+Wire Wire Line
+	45200 3150 45250 3150
+Connection ~ 45200 3900
+Wire Wire Line
+	45100 3900 45100 3150
+Wire Wire Line
+	45100 3150 45150 3150
+Connection ~ 45100 3900
+Wire Wire Line
+	45000 3900 45000 3150
+Wire Wire Line
+	45000 3150 45050 3150
+Connection ~ 45000 3900
+Wire Wire Line
+	44900 3900 44900 3150
+Wire Wire Line
+	44900 3150 44950 3150
+Connection ~ 44900 3900
+Wire Wire Line
+	44800 3900 44800 3150
+Wire Wire Line
+	44800 3150 44850 3150
+Connection ~ 44800 3900
+Wire Wire Line
+	44700 3900 44700 3150
+Wire Wire Line
+	44700 3150 44750 3150
+Connection ~ 44700 3900
+Text Label 46100 4250 0    50   ~ 0
+KS0
+Text Label 46100 3500 0    50   ~ 0
+KS1
+Text Label 46100 2750 0    50   ~ 0
+KS2
+Wire Wire Line
+	45450 2750 45550 2750
+Wire Wire Line
+	45550 2750 45650 2750
+Wire Wire Line
+	45650 2750 45800 2750
+Connection ~ 45650 2750
+Wire Wire Line
+	58650 4750 58700 4750
+Wire Wire Line
+	58800 4950 58650 4950
+Wire Wire Line
+	58900 5150 58650 5150
+Wire Wire Line
+	59450 4750 59500 4750
+Wire Wire Line
+	59450 4950 59600 4950
+Wire Wire Line
+	59700 5150 59450 5150
+Wire Wire Line
+	58250 4950 58200 4950
+Wire Wire Line
+	58200 4950 58200 5350
+Connection ~ 58200 5350
+Wire Wire Line
+	58200 5350 59000 5350
+Wire Wire Line
+	59000 5350 59000 4950
+Wire Wire Line
+	59000 4950 59050 4950
+Wire Wire Line
+	58700 4750 58700 5500
+Wire Wire Line
+	58700 5500 58650 5500
+Wire Wire Line
+	58800 4950 58800 5700
+Wire Wire Line
+	58800 5700 58650 5700
+Wire Wire Line
+	58900 5150 58900 5900
+Wire Wire Line
+	58900 5900 58650 5900
+Wire Wire Line
+	58250 9450 58200 9450
+Wire Wire Line
+	58200 9450 58200 9850
+Connection ~ 58200 9850
+Wire Wire Line
+	58200 9850 59000 9850
+Wire Wire Line
+	59050 9450 59000 9450
+Wire Wire Line
+	59000 9450 59000 9850
+Wire Wire Line
+	59000 9100 59000 8700
+Wire Wire Line
+	59000 8700 59050 8700
+Wire Wire Line
+	58250 8700 58200 8700
+Wire Wire Line
+	58200 8700 58200 9100
+Connection ~ 58200 9100
+Wire Wire Line
+	58200 9100 59000 9100
+Wire Wire Line
+	58250 7950 58200 7950
+Wire Wire Line
+	58200 7950 58200 8350
+Connection ~ 58200 8350
+Wire Wire Line
+	58200 8350 59000 8350
+Wire Wire Line
+	59050 7950 59000 7950
+Wire Wire Line
+	59000 7950 59000 8350
+Wire Wire Line
+	58250 7200 58200 7200
+Wire Wire Line
+	58200 7200 58200 7600
+Connection ~ 58200 7600
+Wire Wire Line
+	58200 7600 59000 7600
+Wire Wire Line
+	59050 7200 59000 7200
+Wire Wire Line
+	59000 7200 59000 7600
+Wire Wire Line
+	59050 6450 59000 6450
+Wire Wire Line
+	59000 6450 59000 6850
+Wire Wire Line
+	58250 6450 58200 6450
+Wire Wire Line
+	58200 6450 58200 6850
+Connection ~ 58200 6850
+Wire Wire Line
+	58200 6850 59000 6850
+Wire Wire Line
+	58250 5700 58200 5700
+Wire Wire Line
+	58200 5700 58200 6100
+Connection ~ 58200 6100
+Wire Wire Line
+	58200 6100 59000 6100
+Wire Wire Line
+	59050 5700 59000 5700
+Wire Wire Line
+	59000 5700 59000 6100
+Wire Wire Line
+	58700 5500 58700 6250
+Wire Wire Line
+	58700 6250 58650 6250
+Connection ~ 58700 5500
+Wire Wire Line
+	58800 5700 58800 6450
+Wire Wire Line
+	58800 6450 58650 6450
+Connection ~ 58800 5700
+Wire Wire Line
+	58900 5900 58900 6650
+Wire Wire Line
+	58900 6650 58650 6650
+Connection ~ 58900 5900
+Wire Wire Line
+	58700 6250 58700 7000
+Wire Wire Line
+	58700 7000 58650 7000
+Connection ~ 58700 6250
+Wire Wire Line
+	58800 6450 58800 7200
+Wire Wire Line
+	58800 7200 58650 7200
+Connection ~ 58800 6450
+Wire Wire Line
+	58900 6650 58900 7400
+Wire Wire Line
+	58900 7400 58650 7400
+Connection ~ 58900 6650
+Wire Wire Line
+	58700 7000 58700 7750
+Wire Wire Line
+	58700 7750 58650 7750
+Connection ~ 58700 7000
+Wire Wire Line
+	58800 7200 58800 7950
+Wire Wire Line
+	58800 7950 58650 7950
+Connection ~ 58800 7200
+Wire Wire Line
+	58900 7400 58900 8150
+Wire Wire Line
+	58900 8150 58650 8150
+Connection ~ 58900 7400
+Wire Wire Line
+	58700 7750 58700 8500
+Wire Wire Line
+	58700 8500 58650 8500
+Connection ~ 58700 7750
+Wire Wire Line
+	58800 7950 58800 8700
+Wire Wire Line
+	58800 8700 58650 8700
+Connection ~ 58800 7950
+Wire Wire Line
+	58900 8150 58900 8900
+Wire Wire Line
+	58900 8900 58650 8900
+Connection ~ 58900 8150
+Wire Wire Line
+	58700 8500 58700 9250
+Wire Wire Line
+	58700 9250 58650 9250
+Connection ~ 58700 8500
+Wire Wire Line
+	58800 8700 58800 9450
+Wire Wire Line
+	58800 9450 58650 9450
+Connection ~ 58800 8700
+Wire Wire Line
+	58900 8900 58900 9650
+Wire Wire Line
+	58900 9650 58650 9650
+Connection ~ 58900 8900
+Wire Wire Line
+	59500 4750 59500 5500
+Wire Wire Line
+	59600 4950 59600 5700
+Wire Wire Line
+	59700 5150 59700 5900
+Wire Wire Line
+	59450 9650 59700 9650
+Wire Wire Line
+	59600 9450 59450 9450
+Wire Wire Line
+	59500 9250 59450 9250
+Wire Wire Line
+	59450 8900 59700 8900
+Connection ~ 59700 8900
+Wire Wire Line
+	59700 8900 59700 9650
+Wire Wire Line
+	59450 8700 59600 8700
+Connection ~ 59600 8700
+Wire Wire Line
+	59600 8700 59600 9450
+Wire Wire Line
+	59450 8500 59500 8500
+Connection ~ 59500 8500
+Wire Wire Line
+	59500 8500 59500 9250
+Wire Wire Line
+	59450 8150 59700 8150
+Connection ~ 59700 8150
+Wire Wire Line
+	59700 8150 59700 8900
+Wire Wire Line
+	59450 7950 59600 7950
+Connection ~ 59600 7950
+Wire Wire Line
+	59600 7950 59600 8700
+Wire Wire Line
+	59450 7750 59500 7750
+Connection ~ 59500 7750
+Wire Wire Line
+	59500 7750 59500 8500
+Wire Wire Line
+	59450 7400 59700 7400
+Connection ~ 59700 7400
+Wire Wire Line
+	59700 7400 59700 8150
+Wire Wire Line
+	59450 7200 59600 7200
+Connection ~ 59600 7200
+Wire Wire Line
+	59600 7200 59600 7950
+Wire Wire Line
+	59450 7000 59500 7000
+Connection ~ 59500 7000
+Wire Wire Line
+	59500 7000 59500 7750
+Wire Wire Line
+	59450 6650 59700 6650
+Connection ~ 59700 6650
+Wire Wire Line
+	59700 6650 59700 7400
+Wire Wire Line
+	59450 6450 59600 6450
+Connection ~ 59600 6450
+Wire Wire Line
+	59600 6450 59600 7200
+Wire Wire Line
+	59450 6250 59500 6250
+Connection ~ 59500 6250
+Wire Wire Line
+	59500 6250 59500 7000
+Wire Wire Line
+	59450 5900 59700 5900
+Connection ~ 59700 5900
+Wire Wire Line
+	59700 5900 59700 6650
+Wire Wire Line
+	59450 5700 59600 5700
+Connection ~ 59600 5700
+Wire Wire Line
+	59600 5700 59600 6450
+Wire Wire Line
+	59450 5500 59500 5500
+Connection ~ 59500 5500
+Wire Wire Line
+	59500 5500 59500 6250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93959
+P 54700 4250
+F 0 "SW?" H 54500 4300 50  0000 C CNN
+F 1 "SW_Push" H 55000 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54700 4450 50  0001 C CNN
+F 3 "" H 54700 4450 50  0001 C CNN
+	1    54700 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC9395F
+P 58450 4950
+F 0 "KLED?" V 58600 4750 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 5150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 4900 50  0001 C CNN
+F 3 "~" H 58450 4900 50  0001 C CNN
+	1    58450 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93965
+P 58450 5700
+F 0 "KLED?" V 58600 5500 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 5900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 5650 50  0001 C CNN
+F 3 "~" H 58450 5650 50  0001 C CNN
+	1    58450 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC9396B
+P 58450 6450
+F 0 "KLED?" V 58600 6250 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 6650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 6400 50  0001 C CNN
+F 3 "~" H 58450 6400 50  0001 C CNN
+	1    58450 6450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93971
+P 58450 7200
+F 0 "KLED?" V 58600 7000 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 7400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 7150 50  0001 C CNN
+F 3 "~" H 58450 7150 50  0001 C CNN
+	1    58450 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93977
+P 58450 7950
+F 0 "KLED?" V 58600 7750 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 8150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 7900 50  0001 C CNN
+F 3 "~" H 58450 7900 50  0001 C CNN
+	1    58450 7950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC9397D
+P 58450 8700
+F 0 "KLED?" V 58600 8500 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 8900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 8650 50  0001 C CNN
+F 3 "~" H 58450 8650 50  0001 C CNN
+	1    58450 8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93983
+P 58450 9450
+F 0 "KLED?" V 58600 9250 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 9650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 9400 50  0001 C CNN
+F 3 "~" H 58450 9400 50  0001 C CNN
+	1    58450 9450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93989
+P 59250 4950
+F 0 "KLED?" V 59400 4750 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 5150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 4900 50  0001 C CNN
+F 3 "~" H 59250 4900 50  0001 C CNN
+	1    59250 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC9398F
+P 59250 5700
+F 0 "KLED?" V 59400 5500 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 5900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 5650 50  0001 C CNN
+F 3 "~" H 59250 5650 50  0001 C CNN
+	1    59250 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93995
+P 59250 6450
+F 0 "KLED?" V 59400 6250 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 6650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 6400 50  0001 C CNN
+F 3 "~" H 59250 6400 50  0001 C CNN
+	1    59250 6450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC9399B
+P 59250 7200
+F 0 "KLED?" V 59400 7000 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 7400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 7150 50  0001 C CNN
+F 3 "~" H 59250 7150 50  0001 C CNN
+	1    59250 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC939A1
+P 59250 7950
+F 0 "KLED?" V 59400 7750 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 8150 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 7900 50  0001 C CNN
+F 3 "~" H 59250 7900 50  0001 C CNN
+	1    59250 7950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC939A7
+P 59250 8700
+F 0 "KLED?" V 59400 8500 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 8900 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 8650 50  0001 C CNN
+F 3 "~" H 59250 8650 50  0001 C CNN
+	1    59250 8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC939AD
+P 59250 9450
+F 0 "KLED?" V 59400 9250 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 9650 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 9400 50  0001 C CNN
+F 3 "~" H 59250 9400 50  0001 C CNN
+	1    59250 9450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	58650 10800 58700 10800
+Wire Wire Line
+	58700 10000 58700 10800
+Wire Wire Line
+	58800 10200 58800 11000
+Wire Wire Line
+	58800 11000 58650 11000
+Wire Wire Line
+	58900 10400 58900 11200
+Wire Wire Line
+	58900 11200 58650 11200
+Wire Wire Line
+	59450 10800 59500 10800
+Wire Wire Line
+	59500 10800 59500 10000
+Wire Wire Line
+	59450 11000 59600 11000
+Wire Wire Line
+	59600 11000 59600 10200
+Wire Wire Line
+	59700 10400 59700 11200
+Wire Wire Line
+	59700 11200 59450 11200
+Wire Wire Line
+	58250 11000 58200 11000
+Wire Wire Line
+	58200 11000 58200 11400
+Wire Wire Line
+	59000 11400 59000 11000
+Wire Wire Line
+	59000 11000 59050 11000
+Wire Wire Line
+	58700 10800 58700 11550
+Wire Wire Line
+	58700 11550 58650 11550
+Connection ~ 58700 10800
+Wire Wire Line
+	58800 11000 58800 11750
+Wire Wire Line
+	58800 11750 58650 11750
+Connection ~ 58800 11000
+Wire Wire Line
+	58900 11200 58900 11950
+Wire Wire Line
+	58900 11950 58650 11950
+Connection ~ 58900 11200
+Wire Wire Line
+	58250 15500 58200 15500
+Wire Wire Line
+	58200 15500 58200 15900
+Connection ~ 58200 15900
+Wire Wire Line
+	58200 15900 59000 15900
+Wire Wire Line
+	59050 15500 59000 15500
+Wire Wire Line
+	59000 15500 59000 15900
+Wire Wire Line
+	59000 15150 59000 14750
+Wire Wire Line
+	59000 14750 59050 14750
+Wire Wire Line
+	58250 14750 58200 14750
+Wire Wire Line
+	58200 14750 58200 15150
+Wire Wire Line
+	58200 15150 59000 15150
+Wire Wire Line
+	58250 14000 58200 14000
+Wire Wire Line
+	58200 14000 58200 14400
+Wire Wire Line
+	58200 14400 59000 14400
+Wire Wire Line
+	59050 14000 59000 14000
+Wire Wire Line
+	59000 14000 59000 14400
+Wire Wire Line
+	58250 13250 58200 13250
+Wire Wire Line
+	58200 13250 58200 13650
+Wire Wire Line
+	58200 13650 59000 13650
+Wire Wire Line
+	59050 13250 59000 13250
+Wire Wire Line
+	59000 13250 59000 13650
+Wire Wire Line
+	59050 12500 59000 12500
+Wire Wire Line
+	59000 12500 59000 12900
+Wire Wire Line
+	58250 12500 58200 12500
+Wire Wire Line
+	58200 12500 58200 12900
+Wire Wire Line
+	58200 12900 59000 12900
+Wire Wire Line
+	58250 11750 58200 11750
+Wire Wire Line
+	58200 11750 58200 12150
+Wire Wire Line
+	58200 12150 59000 12150
+Wire Wire Line
+	59050 11750 59000 11750
+Wire Wire Line
+	59000 11750 59000 12150
+Wire Wire Line
+	58700 11550 58700 12300
+Wire Wire Line
+	58700 12300 58650 12300
+Connection ~ 58700 11550
+Wire Wire Line
+	58800 11750 58800 12500
+Wire Wire Line
+	58800 12500 58650 12500
+Connection ~ 58800 11750
+Wire Wire Line
+	58900 11950 58900 12700
+Wire Wire Line
+	58900 12700 58650 12700
+Connection ~ 58900 11950
+Wire Wire Line
+	58700 12300 58700 13050
+Wire Wire Line
+	58700 13050 58650 13050
+Connection ~ 58700 12300
+Wire Wire Line
+	58800 12500 58800 13250
+Wire Wire Line
+	58800 13250 58650 13250
+Connection ~ 58800 12500
+Wire Wire Line
+	58900 12700 58900 13450
+Wire Wire Line
+	58900 13450 58650 13450
+Connection ~ 58900 12700
+Wire Wire Line
+	58700 13050 58700 13800
+Wire Wire Line
+	58700 13800 58650 13800
+Connection ~ 58700 13050
+Wire Wire Line
+	58800 13250 58800 14000
+Wire Wire Line
+	58800 14000 58650 14000
+Connection ~ 58800 13250
+Wire Wire Line
+	58900 13450 58900 14200
+Wire Wire Line
+	58900 14200 58650 14200
+Connection ~ 58900 13450
+Wire Wire Line
+	58700 13800 58700 14550
+Wire Wire Line
+	58700 14550 58650 14550
+Connection ~ 58700 13800
+Wire Wire Line
+	58800 14000 58800 14750
+Wire Wire Line
+	58800 14750 58650 14750
+Connection ~ 58800 14000
+Wire Wire Line
+	58900 14200 58900 14950
+Connection ~ 58900 14200
+Wire Wire Line
+	58700 14550 58700 15300
+Wire Wire Line
+	58700 15300 58650 15300
+Connection ~ 58700 14550
+Wire Wire Line
+	58800 14750 58800 15500
+Wire Wire Line
+	58800 15500 58650 15500
+Connection ~ 58800 14750
+Wire Wire Line
+	58900 14950 58900 15700
+Wire Wire Line
+	58900 15700 58650 15700
+Connection ~ 58900 14950
+Wire Wire Line
+	59500 10800 59500 11550
+Connection ~ 59500 10800
+Wire Wire Line
+	59600 11000 59600 11750
+Connection ~ 59600 11000
+Wire Wire Line
+	59700 11200 59700 11950
+Connection ~ 59700 11200
+Wire Wire Line
+	59450 15700 59700 15700
+Wire Wire Line
+	59600 15500 59450 15500
+Wire Wire Line
+	59500 15300 59450 15300
+Wire Wire Line
+	59450 14950 59700 14950
+Connection ~ 59700 14950
+Wire Wire Line
+	59700 14950 59700 15700
+Wire Wire Line
+	59450 14750 59600 14750
+Connection ~ 59600 14750
+Wire Wire Line
+	59600 14750 59600 15500
+Wire Wire Line
+	59450 14550 59500 14550
+Connection ~ 59500 14550
+Wire Wire Line
+	59500 14550 59500 15300
+Wire Wire Line
+	59450 14200 59700 14200
+Connection ~ 59700 14200
+Wire Wire Line
+	59700 14200 59700 14950
+Wire Wire Line
+	59450 14000 59600 14000
+Connection ~ 59600 14000
+Wire Wire Line
+	59600 14000 59600 14750
+Wire Wire Line
+	59450 13800 59500 13800
+Connection ~ 59500 13800
+Wire Wire Line
+	59500 13800 59500 14550
+Wire Wire Line
+	59450 13450 59700 13450
+Connection ~ 59700 13450
+Wire Wire Line
+	59700 13450 59700 14200
+Wire Wire Line
+	59450 13250 59600 13250
+Connection ~ 59600 13250
+Wire Wire Line
+	59600 13250 59600 14000
+Wire Wire Line
+	59450 13050 59500 13050
+Connection ~ 59500 13050
+Wire Wire Line
+	59500 13050 59500 13800
+Wire Wire Line
+	59450 12700 59700 12700
+Connection ~ 59700 12700
+Wire Wire Line
+	59700 12700 59700 13450
+Wire Wire Line
+	59450 12500 59600 12500
+Connection ~ 59600 12500
+Wire Wire Line
+	59600 12500 59600 13250
+Wire Wire Line
+	59450 12300 59500 12300
+Connection ~ 59500 12300
+Wire Wire Line
+	59500 12300 59500 13050
+Wire Wire Line
+	59450 11950 59700 11950
+Connection ~ 59700 11950
+Wire Wire Line
+	59700 11950 59700 12700
+Wire Wire Line
+	59450 11750 59600 11750
+Connection ~ 59600 11750
+Wire Wire Line
+	59600 11750 59600 12500
+Wire Wire Line
+	59450 11550 59500 11550
+Connection ~ 59500 11550
+Wire Wire Line
+	59500 11550 59500 12300
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A4D
+P 58450 11000
+F 0 "KLED?" V 58600 10800 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 11200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 10950 50  0001 C CNN
+F 3 "~" H 58450 10950 50  0001 C CNN
+	1    58450 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A53
+P 58450 11750
+F 0 "KLED?" V 58600 11550 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 11950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 11700 50  0001 C CNN
+F 3 "~" H 58450 11700 50  0001 C CNN
+	1    58450 11750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A59
+P 58450 12500
+F 0 "KLED?" V 58600 12300 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 12700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 12450 50  0001 C CNN
+F 3 "~" H 58450 12450 50  0001 C CNN
+	1    58450 12500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A5F
+P 58450 13250
+F 0 "KLED?" V 58600 13050 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 13450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 13200 50  0001 C CNN
+F 3 "~" H 58450 13200 50  0001 C CNN
+	1    58450 13250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A65
+P 58450 14000
+F 0 "KLED?" V 58600 13800 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 14200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 13950 50  0001 C CNN
+F 3 "~" H 58450 13950 50  0001 C CNN
+	1    58450 14000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A6B
+P 58450 14750
+F 0 "KLED?" V 58600 14550 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 14950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 14700 50  0001 C CNN
+F 3 "~" H 58450 14700 50  0001 C CNN
+	1    58450 14750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A71
+P 58450 15500
+F 0 "KLED?" V 58600 15300 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 15700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 15450 50  0001 C CNN
+F 3 "~" H 58450 15450 50  0001 C CNN
+	1    58450 15500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A77
+P 59250 11000
+F 0 "KLED?" V 59400 10800 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 11200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 10950 50  0001 C CNN
+F 3 "~" H 59250 10950 50  0001 C CNN
+	1    59250 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A7D
+P 59250 11750
+F 0 "KLED?" V 59400 11550 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 11950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 11700 50  0001 C CNN
+F 3 "~" H 59250 11700 50  0001 C CNN
+	1    59250 11750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A83
+P 59250 12500
+F 0 "KLED?" V 59400 12300 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 12700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 12450 50  0001 C CNN
+F 3 "~" H 59250 12450 50  0001 C CNN
+	1    59250 12500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A89
+P 59250 13250
+F 0 "KLED?" V 59400 13050 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 13450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 13200 50  0001 C CNN
+F 3 "~" H 59250 13200 50  0001 C CNN
+	1    59250 13250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A8F
+P 59250 14000
+F 0 "KLED?" V 59400 13800 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 14200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 13950 50  0001 C CNN
+F 3 "~" H 59250 13950 50  0001 C CNN
+	1    59250 14000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A95
+P 59250 14750
+F 0 "KLED?" V 59400 14550 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 14950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 14700 50  0001 C CNN
+F 3 "~" H 59250 14700 50  0001 C CNN
+	1    59250 14750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93A9B
+P 59250 15500
+F 0 "KLED?" V 59400 15300 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 15700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 15450 50  0001 C CNN
+F 3 "~" H 59250 15450 50  0001 C CNN
+	1    59250 15500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	58900 14950 58650 14950
+Wire Wire Line
+	57750 5450 54250 5450
+Wire Wire Line
+	54100 5550 54150 5550
+Wire Wire Line
+	57550 5650 54650 5650
+Wire Wire Line
+	54100 5750 54750 5750
+Wire Wire Line
+	57350 5850 54850 5850
+Wire Wire Line
+	54100 5950 54950 5950
+Wire Wire Line
+	57750 5450 57750 6100
+Wire Wire Line
+	57650 5550 57650 6850
+Wire Wire Line
+	57550 5650 57550 7600
+Wire Wire Line
+	57450 5750 57450 8350
+Wire Wire Line
+	57350 5850 57350 9100
+Wire Wire Line
+	57250 5950 57250 9850
+Connection ~ 58200 15150
+Connection ~ 58200 14400
+Connection ~ 58200 13650
+Connection ~ 58200 12900
+Connection ~ 58200 12150
+Connection ~ 58200 11400
+Wire Wire Line
+	57050 11400 58200 11400
+Wire Wire Line
+	56950 12150 58200 12150
+Wire Wire Line
+	56850 12900 58200 12900
+Wire Wire Line
+	56750 13650 58200 13650
+Wire Wire Line
+	56650 14400 58200 14400
+Wire Wire Line
+	56550 15150 58200 15150
+Wire Wire Line
+	56450 15900 58200 15900
+Wire Wire Line
+	54100 5350 54350 5350
+Wire Wire Line
+	57750 6100 58200 6100
+Wire Wire Line
+	57650 6850 58200 6850
+Wire Wire Line
+	57550 7600 58200 7600
+Wire Wire Line
+	57450 8350 58200 8350
+Wire Wire Line
+	57350 9100 58200 9100
+Wire Wire Line
+	57250 9850 58200 9850
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93AC2
+P 59250 16250
+F 0 "KLED?" V 59400 16050 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 16450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 16200 50  0001 C CNN
+F 3 "~" H 59250 16200 50  0001 C CNN
+	1    59250 16250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93AC8
+P 58450 16250
+F 0 "KLED?" V 58600 16050 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 16450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 16200 50  0001 C CNN
+F 3 "~" H 58450 16200 50  0001 C CNN
+	1    58450 16250
+	-1   0    0    1   
+$EndComp
+Connection ~ 59500 15300
+Wire Wire Line
+	59500 15300 59500 16050
+Connection ~ 59600 15500
+Wire Wire Line
+	59600 15500 59600 16250
+Connection ~ 59700 15700
+Wire Wire Line
+	59700 15700 59700 16450
+Wire Wire Line
+	59450 16050 59500 16050
+Wire Wire Line
+	59600 16250 59450 16250
+Wire Wire Line
+	59700 16450 59450 16450
+Wire Wire Line
+	58900 16450 58650 16450
+Connection ~ 58900 15700
+Wire Wire Line
+	58900 15700 58900 16450
+Wire Wire Line
+	58800 16250 58650 16250
+Connection ~ 58800 15500
+Wire Wire Line
+	58800 15500 58800 16250
+Wire Wire Line
+	58700 16050 58650 16050
+Connection ~ 58700 15300
+Wire Wire Line
+	58700 15300 58700 16050
+Wire Wire Line
+	56350 16650 58200 16650
+Wire Wire Line
+	58200 16650 59000 16650
+Connection ~ 58200 16650
+Wire Wire Line
+	58200 16250 58200 16650
+Wire Wire Line
+	58250 16250 58200 16250
+Wire Wire Line
+	59000 16250 59050 16250
+Wire Wire Line
+	59000 16650 59000 16250
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93AE7
+P 59250 10200
+F 0 "KLED?" V 59400 10000 50  0000 C CNN
+F 1 "LED_ARGB" V 59400 10400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 59250 10150 50  0001 C CNN
+F 3 "~" H 59250 10150 50  0001 C CNN
+	1    59250 10200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CC93AED
+P 58450 10200
+F 0 "KLED?" V 58600 10000 50  0000 C CNN
+F 1 "LED_ARGB" V 58600 10400 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 58450 10150 50  0001 C CNN
+F 3 "~" H 58450 10150 50  0001 C CNN
+	1    58450 10200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	59500 9250 59500 10000
+Wire Wire Line
+	59600 9450 59600 10200
+Wire Wire Line
+	59700 9650 59700 10400
+Wire Wire Line
+	59450 10000 59500 10000
+Wire Wire Line
+	59600 10200 59450 10200
+Wire Wire Line
+	59700 10400 59450 10400
+Wire Wire Line
+	58900 10400 58650 10400
+Wire Wire Line
+	58900 9650 58900 10400
+Wire Wire Line
+	58800 10200 58650 10200
+Wire Wire Line
+	58800 9450 58800 10200
+Wire Wire Line
+	58700 10000 58650 10000
+Wire Wire Line
+	58700 9250 58700 10000
+Wire Wire Line
+	57150 10600 58200 10600
+Wire Wire Line
+	58200 10600 59000 10600
+Connection ~ 58200 10600
+Wire Wire Line
+	58200 10200 58200 10600
+Wire Wire Line
+	58250 10200 58200 10200
+Wire Wire Line
+	59000 10200 59050 10200
+Wire Wire Line
+	59000 10600 59000 10200
+Wire Wire Line
+	57150 6050 55050 6050
+Wire Wire Line
+	57150 6050 57150 10600
+Connection ~ 59500 9250
+Connection ~ 59600 9450
+Connection ~ 59700 9650
+Connection ~ 58900 9650
+Connection ~ 58800 9450
+Connection ~ 58700 9250
+$Comp
+L eurocad:HT16K33 HT?
+U 1 1 5CC93B0E
+P 53450 6500
+F 0 "HT?" H 53450 7897 60  0000 C CNN
+F 1 "HT16K33" H 53450 7791 60  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 53450 7650 60  0001 C CNN
+F 3 "" H 53450 7650 60  0000 C CNN
+	1    53450 6500
+	1    0    0    -1  
+$EndComp
+Connection ~ 58900 10400
+Connection ~ 58800 10200
+Connection ~ 58700 10000
+Connection ~ 59500 10000
+Connection ~ 59600 10200
+Connection ~ 59700 10400
+Wire Wire Line
+	54100 6150 55150 6150
+Wire Wire Line
+	57050 6150 57050 11400
+Wire Wire Line
+	56950 6250 55250 6250
+Wire Wire Line
+	56950 6250 56950 12150
+Wire Wire Line
+	56850 6350 55350 6350
+Wire Wire Line
+	56850 6350 56850 12900
+Wire Wire Line
+	56750 6450 55450 6450
+Wire Wire Line
+	56750 6450 56750 13650
+Wire Wire Line
+	54100 6550 55550 6550
+Wire Wire Line
+	56650 6550 56650 14400
+Wire Wire Line
+	54100 6650 55650 6650
+Wire Wire Line
+	56550 6650 56550 15150
+Wire Wire Line
+	56450 6750 55750 6750
+Wire Wire Line
+	56450 6750 56450 15900
+Wire Wire Line
+	54100 6850 55850 6850
+Wire Wire Line
+	56350 6850 56350 16650
+Wire Wire Line
+	58700 16050 58700 16850
+Wire Wire Line
+	58700 16850 56150 16850
+Wire Wire Line
+	56150 16850 56150 7050
+Wire Wire Line
+	56150 7050 54100 7050
+Connection ~ 58700 16050
+Wire Wire Line
+	54100 7150 56050 7150
+Wire Wire Line
+	56050 7150 56050 16950
+Wire Wire Line
+	56050 16950 58800 16950
+Wire Wire Line
+	58800 16950 58800 16250
+Connection ~ 58800 16250
+Wire Wire Line
+	58900 16450 58900 17050
+Wire Wire Line
+	58900 17050 55950 17050
+Wire Wire Line
+	55950 17050 55950 7250
+Wire Wire Line
+	55950 7250 54100 7250
+Connection ~ 58900 16450
+Wire Wire Line
+	59500 16050 59500 17150
+Wire Wire Line
+	59500 17150 55850 17150
+Wire Wire Line
+	55850 17150 55850 7350
+Wire Wire Line
+	55850 7350 54100 7350
+Connection ~ 59500 16050
+Wire Wire Line
+	54100 7450 55750 7450
+Wire Wire Line
+	55750 7450 55750 17250
+Wire Wire Line
+	55750 17250 59600 17250
+Wire Wire Line
+	59600 17250 59600 16250
+Connection ~ 59600 16250
+Wire Wire Line
+	59700 16450 59700 17350
+Wire Wire Line
+	59700 17350 55650 17350
+Wire Wire Line
+	55650 17350 55650 7550
+Wire Wire Line
+	55650 7550 54100 7550
+Connection ~ 59700 16450
+Text Label 54100 7050 0    50   ~ 0
+COM_AD1
+Wire Wire Line
+	54150 5550 54150 5150
+Connection ~ 54150 5550
+Wire Wire Line
+	54150 5550 57650 5550
+Wire Wire Line
+	54250 5450 54250 5150
+Connection ~ 54250 5450
+Wire Wire Line
+	54250 5450 54100 5450
+Wire Wire Line
+	54350 5350 54350 5150
+Connection ~ 54350 5350
+Wire Wire Line
+	54350 5350 58200 5350
+Text Label 54250 3900 0    50   ~ 0
+COM_AD1
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CC93B53
+P 54150 4950
+F 0 "JP?" H 54150 5145 50  0000 C CNN
+F 1 "J_HT_AD" H 54150 5054 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 54150 4950 50  0001 C CNN
+F 3 "~" H 54150 4950 50  0001 C CNN
+	1    54150 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CC93B59
+P 54250 4950
+F 0 "JP?" H 54250 5145 50  0000 C CNN
+F 1 "J_HT_AD" H 54250 5054 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 54250 4950 50  0001 C CNN
+F 3 "~" H 54250 4950 50  0001 C CNN
+	1    54250 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5CC93B5F
+P 54350 4950
+F 0 "JP?" H 54350 5145 50  0000 C CNN
+F 1 "J_HT_AD" H 54350 5054 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 54350 4950 50  0001 C CNN
+F 3 "~" H 54350 4950 50  0001 C CNN
+	1    54350 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93B65
+P 54150 4550
+F 0 "R?" V 53943 4550 50  0000 C CNN
+F 1 "10K" V 54034 4550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54080 4550 50  0001 C CNN
+F 3 "~" H 54150 4550 50  0001 C CNN
+	1    54150 4550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	54150 4750 54150 4700
+Wire Wire Line
+	54250 4750 54250 4700
+Wire Wire Line
+	54350 4750 54350 4700
+$Comp
+L Device:R R?
+U 1 1 5CC93B6E
+P 54250 4550
+F 0 "R?" V 54043 4550 50  0000 C CNN
+F 1 "10K" V 54134 4550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54180 4550 50  0001 C CNN
+F 3 "~" H 54250 4550 50  0001 C CNN
+	1    54250 4550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93B74
+P 54350 4550
+F 0 "R?" V 54143 4550 50  0000 C CNN
+F 1 "10K" V 54234 4550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54280 4550 50  0001 C CNN
+F 3 "~" H 54350 4550 50  0001 C CNN
+	1    54350 4550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CC93B7A
+P 54250 4050
+F 0 "D?" H 54250 3834 50  0000 C CNN
+F 1 "D" H 54250 3925 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 54250 4050 50  0001 C CNN
+F 3 "~" H 54250 4050 50  0001 C CNN
+	1    54250 4050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	54250 4200 54250 4350
+Wire Wire Line
+	54250 4350 54150 4350
+Wire Wire Line
+	54150 4350 54150 4400
+Wire Wire Line
+	54250 4350 54250 4400
+Connection ~ 54250 4350
+Wire Wire Line
+	54250 4350 54350 4350
+Wire Wire Line
+	54350 4350 54350 4400
+Text Label 52800 5650 2    60   ~ 0
+SDA5
+Text Label 52800 5550 2    60   ~ 0
+SCL5
+Text Label 52800 7750 2    50   ~ 0
+T_GND
+Text Label 52800 5350 2    50   ~ 0
+T_5V
+$Comp
+L Device:C C?
+U 1 1 5CC93B8B
+P 52450 5200
+F 0 "C?" H 52565 5246 50  0000 L CNN
+F 1 "C" H 52565 5155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 52488 5050 50  0001 C CNN
+F 3 "~" H 52450 5200 50  0001 C CNN
+	1    52450 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5CC93B91
+P 52200 5200
+F 0 "C?" H 52315 5246 50  0000 L CNN
+F 1 "C" H 52315 5155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 52238 5050 50  0001 C CNN
+F 3 "~" H 52200 5200 50  0001 C CNN
+	1    52200 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	52800 5350 52450 5350
+Connection ~ 52450 5350
+Wire Wire Line
+	52450 5350 52200 5350
+Wire Wire Line
+	52450 5050 52200 5050
+Connection ~ 52200 5050
+Wire Wire Line
+	52200 5050 52000 5050
+Text Label 52000 5050 2    50   ~ 0
+T_GND
+Wire Wire Line
+	58200 11400 59000 11400
+Wire Wire Line
+	54100 7650 55550 7650
+Wire Wire Line
+	55550 7650 55550 17450
+Wire Wire Line
+	55550 17450 60250 17450
+Wire Wire Line
+	60350 17500 55450 17500
+Wire Wire Line
+	55450 17500 55450 7750
+Wire Wire Line
+	55450 7750 54100 7750
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BA5
+P 60050 16450
+F 0 "DLED?" H 60042 16195 50  0000 C CNN
+F 1 "LED" H 60042 16286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 16450 50  0001 C CNN
+F 3 "~" H 60050 16450 50  0001 C CNN
+	1    60050 16450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BAB
+P 60050 16250
+F 0 "DLED?" H 60042 15995 50  0000 C CNN
+F 1 "LED" H 60042 16086 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 16250 50  0001 C CNN
+F 3 "~" H 60050 16250 50  0001 C CNN
+	1    60050 16250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BB1
+P 60050 15700
+F 0 "DLED?" H 60042 15445 50  0000 C CNN
+F 1 "LED" H 60042 15536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 15700 50  0001 C CNN
+F 3 "~" H 60050 15700 50  0001 C CNN
+	1    60050 15700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BB7
+P 60050 15500
+F 0 "DLED?" H 60042 15245 50  0000 C CNN
+F 1 "LED" H 60042 15336 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 15500 50  0001 C CNN
+F 3 "~" H 60050 15500 50  0001 C CNN
+	1    60050 15500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BBD
+P 60050 14950
+F 0 "DLED?" H 60042 14695 50  0000 C CNN
+F 1 "LED" H 60042 14786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 14950 50  0001 C CNN
+F 3 "~" H 60050 14950 50  0001 C CNN
+	1    60050 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BC3
+P 60050 14750
+F 0 "DLED?" H 60042 14495 50  0000 C CNN
+F 1 "LED" H 60042 14586 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 14750 50  0001 C CNN
+F 3 "~" H 60050 14750 50  0001 C CNN
+	1    60050 14750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BC9
+P 60050 14200
+F 0 "DLED?" H 60042 13945 50  0000 C CNN
+F 1 "LED" H 60042 14036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 14200 50  0001 C CNN
+F 3 "~" H 60050 14200 50  0001 C CNN
+	1    60050 14200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BCF
+P 60050 14000
+F 0 "DLED?" H 60042 13745 50  0000 C CNN
+F 1 "LED" H 60042 13836 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 14000 50  0001 C CNN
+F 3 "~" H 60050 14000 50  0001 C CNN
+	1    60050 14000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BD5
+P 60050 13450
+F 0 "DLED?" H 60042 13195 50  0000 C CNN
+F 1 "LED" H 60042 13286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 13450 50  0001 C CNN
+F 3 "~" H 60050 13450 50  0001 C CNN
+	1    60050 13450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BDB
+P 60050 13250
+F 0 "DLED?" H 60042 12995 50  0000 C CNN
+F 1 "LED" H 60042 13086 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 13250 50  0001 C CNN
+F 3 "~" H 60050 13250 50  0001 C CNN
+	1    60050 13250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BE1
+P 60050 12700
+F 0 "DLED?" H 60042 12445 50  0000 C CNN
+F 1 "LED" H 60042 12536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 12700 50  0001 C CNN
+F 3 "~" H 60050 12700 50  0001 C CNN
+	1    60050 12700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BE7
+P 60050 12500
+F 0 "DLED?" H 60042 12245 50  0000 C CNN
+F 1 "LED" H 60042 12336 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 12500 50  0001 C CNN
+F 3 "~" H 60050 12500 50  0001 C CNN
+	1    60050 12500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BED
+P 60050 11950
+F 0 "DLED?" H 60042 11695 50  0000 C CNN
+F 1 "LED" H 60042 11786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 11950 50  0001 C CNN
+F 3 "~" H 60050 11950 50  0001 C CNN
+	1    60050 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BF3
+P 60050 11750
+F 0 "DLED?" H 60042 11495 50  0000 C CNN
+F 1 "LED" H 60042 11586 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 11750 50  0001 C CNN
+F 3 "~" H 60050 11750 50  0001 C CNN
+	1    60050 11750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BF9
+P 60050 11200
+F 0 "DLED?" H 60042 10945 50  0000 C CNN
+F 1 "LED" H 60042 11036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 11200 50  0001 C CNN
+F 3 "~" H 60050 11200 50  0001 C CNN
+	1    60050 11200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93BFF
+P 60050 11000
+F 0 "DLED?" H 60042 10745 50  0000 C CNN
+F 1 "LED" H 60042 10836 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60050 11000 50  0001 C CNN
+F 3 "~" H 60050 11000 50  0001 C CNN
+	1    60050 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C05
+P 60000 10400
+F 0 "DLED?" H 59992 10145 50  0000 C CNN
+F 1 "LED" H 59992 10236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 10400 50  0001 C CNN
+F 3 "~" H 60000 10400 50  0001 C CNN
+	1    60000 10400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C0B
+P 60000 10200
+F 0 "DLED?" H 59992 9945 50  0000 C CNN
+F 1 "LED" H 59992 10036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 10200 50  0001 C CNN
+F 3 "~" H 60000 10200 50  0001 C CNN
+	1    60000 10200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C11
+P 60000 9650
+F 0 "DLED?" H 59992 9395 50  0000 C CNN
+F 1 "LED" H 59992 9486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 9650 50  0001 C CNN
+F 3 "~" H 60000 9650 50  0001 C CNN
+	1    60000 9650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C17
+P 60000 9450
+F 0 "DLED?" H 59992 9195 50  0000 C CNN
+F 1 "LED" H 59992 9286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 9450 50  0001 C CNN
+F 3 "~" H 60000 9450 50  0001 C CNN
+	1    60000 9450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C1D
+P 60000 8900
+F 0 "DLED?" H 59992 8645 50  0000 C CNN
+F 1 "LED" H 59992 8736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 8900 50  0001 C CNN
+F 3 "~" H 60000 8900 50  0001 C CNN
+	1    60000 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C23
+P 60000 8700
+F 0 "DLED?" H 59992 8445 50  0000 C CNN
+F 1 "LED" H 59992 8536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 8700 50  0001 C CNN
+F 3 "~" H 60000 8700 50  0001 C CNN
+	1    60000 8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C29
+P 60000 8150
+F 0 "DLED?" H 59992 7895 50  0000 C CNN
+F 1 "LED" H 59992 7986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 8150 50  0001 C CNN
+F 3 "~" H 60000 8150 50  0001 C CNN
+	1    60000 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C2F
+P 60000 7950
+F 0 "DLED?" H 59992 7695 50  0000 C CNN
+F 1 "LED" H 59992 7786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 7950 50  0001 C CNN
+F 3 "~" H 60000 7950 50  0001 C CNN
+	1    60000 7950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C35
+P 60000 7400
+F 0 "DLED?" H 59992 7145 50  0000 C CNN
+F 1 "LED" H 59992 7236 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 7400 50  0001 C CNN
+F 3 "~" H 60000 7400 50  0001 C CNN
+	1    60000 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C3B
+P 60000 7200
+F 0 "DLED?" H 59992 6945 50  0000 C CNN
+F 1 "LED" H 59992 7036 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 7200 50  0001 C CNN
+F 3 "~" H 60000 7200 50  0001 C CNN
+	1    60000 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C41
+P 60000 6650
+F 0 "DLED?" H 59992 6395 50  0000 C CNN
+F 1 "LED" H 59992 6486 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 6650 50  0001 C CNN
+F 3 "~" H 60000 6650 50  0001 C CNN
+	1    60000 6650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C47
+P 60000 6450
+F 0 "DLED?" H 59992 6195 50  0000 C CNN
+F 1 "LED" H 59992 6286 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 6450 50  0001 C CNN
+F 3 "~" H 60000 6450 50  0001 C CNN
+	1    60000 6450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C4D
+P 60000 5900
+F 0 "DLED?" H 59992 5645 50  0000 C CNN
+F 1 "LED" H 59992 5736 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 5900 50  0001 C CNN
+F 3 "~" H 60000 5900 50  0001 C CNN
+	1    60000 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C53
+P 60000 5700
+F 0 "DLED?" H 59992 5445 50  0000 C CNN
+F 1 "LED" H 59992 5536 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 5700 50  0001 C CNN
+F 3 "~" H 60000 5700 50  0001 C CNN
+	1    60000 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C59
+P 60000 5150
+F 0 "DLED?" H 59992 4895 50  0000 C CNN
+F 1 "LED" H 59992 4986 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 5150 50  0001 C CNN
+F 3 "~" H 60000 5150 50  0001 C CNN
+	1    60000 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED DLED?
+U 1 1 5CC93C5F
+P 60000 4950
+F 0 "DLED?" H 59992 4695 50  0000 C CNN
+F 1 "LED" H 59992 4786 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 60000 4950 50  0001 C CNN
+F 3 "~" H 60000 4950 50  0001 C CNN
+	1    60000 4950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	60200 16450 60250 16450
+Wire Wire Line
+	60250 16450 60250 17450
+Wire Wire Line
+	60200 16250 60350 16250
+Wire Wire Line
+	60350 16250 60350 17500
+Wire Wire Line
+	60200 15700 60250 15700
+Wire Wire Line
+	60250 15700 60250 16450
+Connection ~ 60250 16450
+Wire Wire Line
+	60200 15500 60350 15500
+Wire Wire Line
+	60350 15500 60350 16250
+Connection ~ 60350 16250
+Wire Wire Line
+	60200 14950 60250 14950
+Wire Wire Line
+	60250 14950 60250 15700
+Connection ~ 60250 15700
+Wire Wire Line
+	60200 14750 60350 14750
+Wire Wire Line
+	60350 14750 60350 15500
+Connection ~ 60350 15500
+Wire Wire Line
+	60200 14200 60250 14200
+Wire Wire Line
+	60250 14200 60250 14950
+Connection ~ 60250 14950
+Wire Wire Line
+	60200 14000 60350 14000
+Wire Wire Line
+	60350 14000 60350 14750
+Connection ~ 60350 14750
+Wire Wire Line
+	60200 13450 60250 13450
+Wire Wire Line
+	60250 13450 60250 14200
+Connection ~ 60250 14200
+Wire Wire Line
+	60200 13250 60350 13250
+Wire Wire Line
+	60350 13250 60350 14000
+Connection ~ 60350 14000
+Wire Wire Line
+	60200 12700 60250 12700
+Wire Wire Line
+	60250 12700 60250 13450
+Connection ~ 60250 13450
+Wire Wire Line
+	60200 12500 60350 12500
+Wire Wire Line
+	60350 12500 60350 13250
+Connection ~ 60350 13250
+Wire Wire Line
+	60200 11950 60250 11950
+Wire Wire Line
+	60250 11950 60250 12700
+Connection ~ 60250 12700
+Wire Wire Line
+	60350 12500 60350 11750
+Wire Wire Line
+	60350 11750 60200 11750
+Connection ~ 60350 12500
+Wire Wire Line
+	60250 11950 60250 11200
+Wire Wire Line
+	60250 11200 60200 11200
+Connection ~ 60250 11950
+Wire Wire Line
+	60200 11000 60350 11000
+Wire Wire Line
+	60350 11000 60350 11750
+Connection ~ 60350 11750
+Wire Wire Line
+	60250 10400 60150 10400
+Connection ~ 60250 11200
+Wire Wire Line
+	60250 11200 60250 10400
+Wire Wire Line
+	60350 11000 60350 10200
+Wire Wire Line
+	60350 10200 60150 10200
+Connection ~ 60350 11000
+Wire Wire Line
+	60350 10200 60350 9450
+Wire Wire Line
+	60350 9450 60150 9450
+Connection ~ 60350 10200
+Wire Wire Line
+	60150 9650 60250 9650
+Wire Wire Line
+	60250 9650 60250 10400
+Connection ~ 60250 10400
+Wire Wire Line
+	60250 9650 60250 8900
+Wire Wire Line
+	60250 8900 60150 8900
+Connection ~ 60250 9650
+Wire Wire Line
+	60350 9450 60350 8700
+Wire Wire Line
+	60350 8700 60150 8700
+Connection ~ 60350 9450
+Wire Wire Line
+	60250 8900 60250 8150
+Wire Wire Line
+	60250 8150 60150 8150
+Connection ~ 60250 8900
+Wire Wire Line
+	60150 7950 60350 7950
+Wire Wire Line
+	60350 7950 60350 8700
+Connection ~ 60350 8700
+Wire Wire Line
+	60250 8150 60250 7400
+Wire Wire Line
+	60250 7400 60150 7400
+Connection ~ 60250 8150
+Wire Wire Line
+	60350 7950 60350 7200
+Wire Wire Line
+	60350 7200 60150 7200
+Connection ~ 60350 7950
+Wire Wire Line
+	60250 7400 60250 6650
+Wire Wire Line
+	60250 6650 60150 6650
+Connection ~ 60250 7400
+Wire Wire Line
+	60150 6450 60350 6450
+Wire Wire Line
+	60350 6450 60350 7200
+Connection ~ 60350 7200
+Wire Wire Line
+	60250 6650 60250 5900
+Wire Wire Line
+	60250 5900 60150 5900
+Connection ~ 60250 6650
+Wire Wire Line
+	60350 6450 60350 5700
+Wire Wire Line
+	60350 5700 60150 5700
+Connection ~ 60350 6450
+Wire Wire Line
+	60250 5900 60250 5150
+Wire Wire Line
+	60250 5150 60150 5150
+Connection ~ 60250 5900
+Wire Wire Line
+	60150 4950 60350 4950
+Wire Wire Line
+	60350 4950 60350 5700
+Connection ~ 60350 5700
+Wire Wire Line
+	59000 5350 59800 5350
+Wire Wire Line
+	59800 5350 59800 5150
+Wire Wire Line
+	59800 5150 59850 5150
+Connection ~ 59000 5350
+Wire Wire Line
+	59800 5150 59800 4950
+Wire Wire Line
+	59800 4950 59850 4950
+Connection ~ 59800 5150
+Wire Wire Line
+	59000 6100 59800 6100
+Wire Wire Line
+	59800 6100 59800 5900
+Wire Wire Line
+	59800 5700 59850 5700
+Connection ~ 59000 6100
+Wire Wire Line
+	59800 5900 59850 5900
+Connection ~ 59800 5900
+Wire Wire Line
+	59800 5900 59800 5700
+Wire Wire Line
+	59000 6850 59800 6850
+Wire Wire Line
+	59800 6850 59800 6650
+Wire Wire Line
+	59800 6450 59850 6450
+Connection ~ 59000 6850
+Wire Wire Line
+	59800 6650 59850 6650
+Connection ~ 59800 6650
+Wire Wire Line
+	59800 6650 59800 6450
+Wire Wire Line
+	59000 8350 59800 8350
+Wire Wire Line
+	59800 8350 59800 8150
+Wire Wire Line
+	59800 7950 59850 7950
+Connection ~ 59000 8350
+Wire Wire Line
+	59850 8150 59800 8150
+Connection ~ 59800 8150
+Wire Wire Line
+	59800 8150 59800 7950
+Wire Wire Line
+	59000 9100 59800 9100
+Wire Wire Line
+	59800 9100 59800 8900
+Wire Wire Line
+	59800 8700 59850 8700
+Connection ~ 59000 9100
+Wire Wire Line
+	59850 8900 59800 8900
+Connection ~ 59800 8900
+Wire Wire Line
+	59800 8900 59800 8700
+Wire Wire Line
+	59000 10600 59800 10600
+Wire Wire Line
+	59800 10600 59800 10400
+Wire Wire Line
+	59800 10200 59850 10200
+Connection ~ 59000 10600
+Wire Wire Line
+	59800 10400 59850 10400
+Connection ~ 59800 10400
+Wire Wire Line
+	59800 10400 59800 10200
+Wire Wire Line
+	59000 11400 59850 11400
+Wire Wire Line
+	59850 11400 59850 11200
+Wire Wire Line
+	59850 11000 59900 11000
+Connection ~ 59000 11400
+Wire Wire Line
+	59850 11200 59900 11200
+Connection ~ 59850 11200
+Wire Wire Line
+	59850 11200 59850 11000
+Wire Wire Line
+	59000 12150 59850 12150
+Wire Wire Line
+	59850 12150 59850 11950
+Wire Wire Line
+	59850 11750 59900 11750
+Connection ~ 59000 12150
+Wire Wire Line
+	59850 11950 59900 11950
+Connection ~ 59850 11950
+Wire Wire Line
+	59850 11950 59850 11750
+Wire Wire Line
+	59000 12900 59850 12900
+Wire Wire Line
+	59850 12900 59850 12700
+Wire Wire Line
+	59850 12500 59900 12500
+Connection ~ 59000 12900
+Wire Wire Line
+	59850 12700 59900 12700
+Connection ~ 59850 12700
+Wire Wire Line
+	59850 12700 59850 12500
+Wire Wire Line
+	59000 13650 59850 13650
+Wire Wire Line
+	59850 13650 59850 13450
+Wire Wire Line
+	59850 13250 59900 13250
+Connection ~ 59000 13650
+Wire Wire Line
+	59850 13450 59900 13450
+Connection ~ 59850 13450
+Wire Wire Line
+	59850 13450 59850 13250
+Wire Wire Line
+	59000 14400 59850 14400
+Wire Wire Line
+	59850 14400 59850 14200
+Wire Wire Line
+	59850 14000 59900 14000
+Connection ~ 59000 14400
+Wire Wire Line
+	59900 14200 59850 14200
+Connection ~ 59850 14200
+Wire Wire Line
+	59850 14200 59850 14000
+Wire Wire Line
+	59000 15150 59850 15150
+Wire Wire Line
+	59850 15150 59850 14950
+Wire Wire Line
+	59850 14750 59900 14750
+Connection ~ 59000 15150
+Wire Wire Line
+	59900 14950 59850 14950
+Connection ~ 59850 14950
+Wire Wire Line
+	59850 14950 59850 14750
+Wire Wire Line
+	59000 15900 59850 15900
+Wire Wire Line
+	59850 15900 59850 15700
+Wire Wire Line
+	59850 15500 59900 15500
+Connection ~ 59000 15900
+Wire Wire Line
+	59900 15700 59850 15700
+Connection ~ 59850 15700
+Wire Wire Line
+	59850 15700 59850 15500
+Wire Wire Line
+	59000 16650 59850 16650
+Wire Wire Line
+	59850 16650 59850 16450
+Wire Wire Line
+	59850 16250 59900 16250
+Connection ~ 59000 16650
+Wire Wire Line
+	59850 16450 59900 16450
+Connection ~ 59850 16450
+Wire Wire Line
+	59850 16450 59850 16250
+Wire Wire Line
+	59000 9850 59800 9850
+Wire Wire Line
+	59800 9850 59800 9650
+Wire Wire Line
+	59800 9450 59850 9450
+Connection ~ 59000 9850
+Wire Wire Line
+	59850 9650 59800 9650
+Connection ~ 59800 9650
+Wire Wire Line
+	59800 9650 59800 9450
+Wire Wire Line
+	59850 7200 59800 7200
+Wire Wire Line
+	59800 7200 59800 7400
+Wire Wire Line
+	59800 7400 59850 7400
+Wire Wire Line
+	59800 7400 59800 7600
+Wire Wire Line
+	59800 7600 59000 7600
+Connection ~ 59800 7400
+Connection ~ 59000 7600
+Text Label 54100 7150 0    50   ~ 0
+KS0
+Text Label 54100 7250 0    50   ~ 0
+KS1
+Text Label 54100 7350 0    50   ~ 0
+KS2
+Wire Wire Line
+	54650 5650 54650 5100
+Connection ~ 54650 5650
+Wire Wire Line
+	54650 5650 54100 5650
+Wire Wire Line
+	54750 5750 54750 5100
+Connection ~ 54750 5750
+Wire Wire Line
+	54750 5750 57450 5750
+Wire Wire Line
+	54850 5850 54850 5100
+Connection ~ 54850 5850
+Wire Wire Line
+	54850 5850 54100 5850
+Wire Wire Line
+	54950 5950 54950 5100
+Connection ~ 54950 5950
+Wire Wire Line
+	54950 5950 57250 5950
+Wire Wire Line
+	55050 6050 55050 5100
+Connection ~ 55050 6050
+Wire Wire Line
+	55050 6050 54100 6050
+Wire Wire Line
+	55150 6150 55150 5100
+Connection ~ 55150 6150
+Wire Wire Line
+	55150 6150 57050 6150
+Wire Wire Line
+	55250 6250 55250 5100
+Connection ~ 55250 6250
+Wire Wire Line
+	55250 6250 54100 6250
+Wire Wire Line
+	55350 6350 55350 5100
+Connection ~ 55350 6350
+Wire Wire Line
+	55350 6350 54100 6350
+Wire Wire Line
+	55450 6450 55450 5100
+Connection ~ 55450 6450
+Wire Wire Line
+	55450 6450 54100 6450
+Wire Wire Line
+	55550 6550 55550 5100
+Connection ~ 55550 6550
+Wire Wire Line
+	55550 6550 56650 6550
+Wire Wire Line
+	55650 6650 55650 5100
+Connection ~ 55650 6650
+Wire Wire Line
+	55650 6650 56550 6650
+Wire Wire Line
+	55750 6750 55750 5100
+Connection ~ 55750 6750
+Wire Wire Line
+	55750 6750 54100 6750
+Wire Wire Line
+	55850 6850 55850 5100
+Connection ~ 55850 6850
+Wire Wire Line
+	55850 6850 56350 6850
+$Comp
+L Device:R R?
+U 1 1 5CC93D5D
+P 54650 4950
+F 0 "R?" V 54700 4800 50  0000 C CNN
+F 1 "39K" V 54700 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54580 4950 50  0001 C CNN
+F 3 "~" H 54650 4950 50  0001 C CNN
+	1    54650 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D63
+P 54750 4950
+F 0 "R?" V 54800 4800 50  0000 C CNN
+F 1 "39K" V 54800 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54680 4950 50  0001 C CNN
+F 3 "~" H 54750 4950 50  0001 C CNN
+	1    54750 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D69
+P 54850 4950
+F 0 "R?" V 54900 4800 50  0000 C CNN
+F 1 "39K" V 54900 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54780 4950 50  0001 C CNN
+F 3 "~" H 54850 4950 50  0001 C CNN
+	1    54850 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D6F
+P 54950 4950
+F 0 "R?" V 55000 4800 50  0000 C CNN
+F 1 "39K" V 55000 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54880 4950 50  0001 C CNN
+F 3 "~" H 54950 4950 50  0001 C CNN
+	1    54950 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D75
+P 55050 4950
+F 0 "R?" V 55100 4800 50  0000 C CNN
+F 1 "39K" V 55100 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 54980 4950 50  0001 C CNN
+F 3 "~" H 55050 4950 50  0001 C CNN
+	1    55050 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D7B
+P 55150 4950
+F 0 "R?" V 55200 4800 50  0000 C CNN
+F 1 "39K" V 55200 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55080 4950 50  0001 C CNN
+F 3 "~" H 55150 4950 50  0001 C CNN
+	1    55150 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D81
+P 55250 4950
+F 0 "R?" V 55300 4800 50  0000 C CNN
+F 1 "39K" V 55300 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55180 4950 50  0001 C CNN
+F 3 "~" H 55250 4950 50  0001 C CNN
+	1    55250 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D87
+P 55350 4950
+F 0 "R?" V 55400 4800 50  0000 C CNN
+F 1 "39K" V 55400 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55280 4950 50  0001 C CNN
+F 3 "~" H 55350 4950 50  0001 C CNN
+	1    55350 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D8D
+P 55450 4950
+F 0 "R?" V 55500 4800 50  0000 C CNN
+F 1 "39K" V 55500 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55380 4950 50  0001 C CNN
+F 3 "~" H 55450 4950 50  0001 C CNN
+	1    55450 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D93
+P 55550 4950
+F 0 "R?" V 55600 4800 50  0000 C CNN
+F 1 "39K" V 55600 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55480 4950 50  0001 C CNN
+F 3 "~" H 55550 4950 50  0001 C CNN
+	1    55550 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D99
+P 55650 4950
+F 0 "R?" V 55700 4800 50  0000 C CNN
+F 1 "39K" V 55700 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55580 4950 50  0001 C CNN
+F 3 "~" H 55650 4950 50  0001 C CNN
+	1    55650 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93D9F
+P 55750 4950
+F 0 "R?" V 55800 4800 50  0000 C CNN
+F 1 "39K" V 55800 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55680 4950 50  0001 C CNN
+F 3 "~" H 55750 4950 50  0001 C CNN
+	1    55750 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CC93DA5
+P 55850 4950
+F 0 "R?" V 55900 4800 50  0000 C CNN
+F 1 "39K" V 55900 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 55780 4950 50  0001 C CNN
+F 3 "~" H 55850 4950 50  0001 C CNN
+	1    55850 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CC93DAB
+P 56200 4050
+F 0 "D?" H 56200 3834 50  0000 C CNN
+F 1 "D" H 56200 3925 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 56200 4050 50  0001 C CNN
+F 3 "~" H 56200 4050 50  0001 C CNN
+	1    56200 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CC93DB1
+P 56200 3300
+F 0 "D?" H 56200 3084 50  0000 C CNN
+F 1 "D" H 56200 3175 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 56200 3300 50  0001 C CNN
+F 3 "~" H 56200 3300 50  0001 C CNN
+	1    56200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CC93DB7
+P 56200 2550
+F 0 "D?" H 56200 2334 50  0000 C CNN
+F 1 "D" H 56200 2425 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 56200 2550 50  0001 C CNN
+F 3 "~" H 56200 2550 50  0001 C CNN
+	1    56200 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	54650 4800 54650 4450
+Wire Wire Line
+	54650 4450 54700 4450
+Wire Wire Line
+	54650 4450 54650 3700
+Wire Wire Line
+	54650 3700 54700 3700
+Connection ~ 54650 4450
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DC2
+P 54700 3500
+F 0 "SW?" H 54500 3550 50  0000 C CNN
+F 1 "SW_Push" H 55000 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54700 3700 50  0001 C CNN
+F 3 "" H 54700 3700 50  0001 C CNN
+	1    54700 3500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	54650 3700 54650 2950
+Wire Wire Line
+	54650 2950 54700 2950
+Connection ~ 54650 3700
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DCB
+P 54700 2750
+F 0 "SW?" H 54500 2800 50  0000 C CNN
+F 1 "SW_Push" H 55000 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54700 2950 50  0001 C CNN
+F 3 "" H 54700 2950 50  0001 C CNN
+	1    54700 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DD1
+P 54800 4250
+F 0 "SW?" H 54600 4300 50  0000 C CNN
+F 1 "SW_Push" H 55100 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54800 4450 50  0001 C CNN
+F 3 "" H 54800 4450 50  0001 C CNN
+	1    54800 4250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	54750 4800 54750 4450
+Wire Wire Line
+	54750 4450 54800 4450
+Wire Wire Line
+	54750 4450 54750 3700
+Wire Wire Line
+	54750 3700 54800 3700
+Connection ~ 54750 4450
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DDC
+P 54800 3500
+F 0 "SW?" H 54600 3550 50  0000 C CNN
+F 1 "SW_Push" H 55100 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54800 3700 50  0001 C CNN
+F 3 "" H 54800 3700 50  0001 C CNN
+	1    54800 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DE2
+P 54800 2750
+F 0 "SW?" H 54600 2800 50  0000 C CNN
+F 1 "SW_Push" H 55100 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54800 2950 50  0001 C CNN
+F 3 "" H 54800 2950 50  0001 C CNN
+	1    54800 2750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	54750 3700 54750 2950
+Wire Wire Line
+	54750 2950 54800 2950
+Connection ~ 54750 3700
+Wire Wire Line
+	54700 4050 54800 4050
+Connection ~ 54800 4050
+Wire Wire Line
+	54800 4050 54900 4050
+Wire Wire Line
+	54700 3300 54800 3300
+Connection ~ 54800 3300
+Wire Wire Line
+	54800 3300 54900 3300
+Wire Wire Line
+	54700 2550 54800 2550
+Connection ~ 54800 2550
+Wire Wire Line
+	54800 2550 54900 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DF4
+P 54900 4250
+F 0 "SW?" H 54700 4300 50  0000 C CNN
+F 1 "SW_Push" H 55200 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54900 4450 50  0001 C CNN
+F 3 "" H 54900 4450 50  0001 C CNN
+	1    54900 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 54900 4050
+Wire Wire Line
+	54900 4050 55000 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93DFC
+P 55000 4250
+F 0 "SW?" H 54800 4300 50  0000 C CNN
+F 1 "SW_Push" H 55300 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55000 4450 50  0001 C CNN
+F 3 "" H 55000 4450 50  0001 C CNN
+	1    55000 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55000 4050
+Wire Wire Line
+	55000 4050 55100 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E04
+P 55100 4250
+F 0 "SW?" H 54900 4300 50  0000 C CNN
+F 1 "SW_Push" H 55400 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55100 4450 50  0001 C CNN
+F 3 "" H 55100 4450 50  0001 C CNN
+	1    55100 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55100 4050
+Wire Wire Line
+	55100 4050 55200 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E0C
+P 55200 4250
+F 0 "SW?" H 55000 4300 50  0000 C CNN
+F 1 "SW_Push" H 55500 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55200 4450 50  0001 C CNN
+F 3 "" H 55200 4450 50  0001 C CNN
+	1    55200 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55200 4050
+Wire Wire Line
+	55200 4050 55300 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E14
+P 55300 4250
+F 0 "SW?" H 55100 4300 50  0000 C CNN
+F 1 "SW_Push" H 55600 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55300 4450 50  0001 C CNN
+F 3 "" H 55300 4450 50  0001 C CNN
+	1    55300 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55300 4050
+Wire Wire Line
+	55300 4050 55400 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E1C
+P 55400 4250
+F 0 "SW?" H 55200 4300 50  0000 C CNN
+F 1 "SW_Push" H 55700 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55400 4450 50  0001 C CNN
+F 3 "" H 55400 4450 50  0001 C CNN
+	1    55400 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55400 4050
+Wire Wire Line
+	55400 4050 55500 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E24
+P 55500 4250
+F 0 "SW?" H 55300 4300 50  0000 C CNN
+F 1 "SW_Push" H 55800 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55500 4450 50  0001 C CNN
+F 3 "" H 55500 4450 50  0001 C CNN
+	1    55500 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55500 4050
+Wire Wire Line
+	55500 4050 55600 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E2C
+P 55600 4250
+F 0 "SW?" H 55400 4300 50  0000 C CNN
+F 1 "SW_Push" H 55900 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55600 4450 50  0001 C CNN
+F 3 "" H 55600 4450 50  0001 C CNN
+	1    55600 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55600 4050
+Wire Wire Line
+	55600 4050 55700 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E34
+P 55700 4250
+F 0 "SW?" H 55500 4300 50  0000 C CNN
+F 1 "SW_Push" H 56000 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55700 4450 50  0001 C CNN
+F 3 "" H 55700 4450 50  0001 C CNN
+	1    55700 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55700 4050
+Wire Wire Line
+	55700 4050 55800 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E3C
+P 55800 4250
+F 0 "SW?" H 55600 4300 50  0000 C CNN
+F 1 "SW_Push" H 56100 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55800 4450 50  0001 C CNN
+F 3 "" H 55800 4450 50  0001 C CNN
+	1    55800 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55800 4050
+Wire Wire Line
+	55800 4050 55900 4050
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E44
+P 55900 4250
+F 0 "SW?" H 55700 4300 50  0000 C CNN
+F 1 "SW_Push" H 56200 4300 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55900 4450 50  0001 C CNN
+F 3 "" H 55900 4450 50  0001 C CNN
+	1    55900 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 55900 4050
+Wire Wire Line
+	55900 4050 56050 4050
+Wire Wire Line
+	54850 4800 54850 4450
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E4D
+P 54900 2750
+F 0 "SW?" H 54700 2800 50  0000 C CNN
+F 1 "SW_Push" H 55200 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54900 2950 50  0001 C CNN
+F 3 "" H 54900 2950 50  0001 C CNN
+	1    54900 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 54900 2550
+Wire Wire Line
+	54900 2550 55000 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E55
+P 55000 2750
+F 0 "SW?" H 54800 2800 50  0000 C CNN
+F 1 "SW_Push" H 55300 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55000 2950 50  0001 C CNN
+F 3 "" H 55000 2950 50  0001 C CNN
+	1    55000 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55000 2550
+Wire Wire Line
+	55000 2550 55100 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E5D
+P 55100 2750
+F 0 "SW?" H 54900 2800 50  0000 C CNN
+F 1 "SW_Push" H 55400 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55100 2950 50  0001 C CNN
+F 3 "" H 55100 2950 50  0001 C CNN
+	1    55100 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55100 2550
+Wire Wire Line
+	55100 2550 55200 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E65
+P 55200 2750
+F 0 "SW?" H 55000 2800 50  0000 C CNN
+F 1 "SW_Push" H 55500 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55200 2950 50  0001 C CNN
+F 3 "" H 55200 2950 50  0001 C CNN
+	1    55200 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55200 2550
+Wire Wire Line
+	55200 2550 55300 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E6D
+P 55300 2750
+F 0 "SW?" H 55100 2800 50  0000 C CNN
+F 1 "SW_Push" H 55600 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55300 2950 50  0001 C CNN
+F 3 "" H 55300 2950 50  0001 C CNN
+	1    55300 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55300 2550
+Wire Wire Line
+	55300 2550 55400 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E75
+P 55400 2750
+F 0 "SW?" H 55200 2800 50  0000 C CNN
+F 1 "SW_Push" H 55700 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55400 2950 50  0001 C CNN
+F 3 "" H 55400 2950 50  0001 C CNN
+	1    55400 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55400 2550
+Wire Wire Line
+	55400 2550 55500 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E7D
+P 55500 2750
+F 0 "SW?" H 55300 2800 50  0000 C CNN
+F 1 "SW_Push" H 55800 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55500 2950 50  0001 C CNN
+F 3 "" H 55500 2950 50  0001 C CNN
+	1    55500 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55500 2550
+Wire Wire Line
+	55500 2550 55600 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E85
+P 55600 2750
+F 0 "SW?" H 55400 2800 50  0000 C CNN
+F 1 "SW_Push" H 55900 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55600 2950 50  0001 C CNN
+F 3 "" H 55600 2950 50  0001 C CNN
+	1    55600 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55600 2550
+Wire Wire Line
+	55600 2550 55700 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E8D
+P 55700 2750
+F 0 "SW?" H 55500 2800 50  0000 C CNN
+F 1 "SW_Push" H 56000 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55700 2950 50  0001 C CNN
+F 3 "" H 55700 2950 50  0001 C CNN
+	1    55700 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55700 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E94
+P 55800 2750
+F 0 "SW?" H 55600 2800 50  0000 C CNN
+F 1 "SW_Push" H 56100 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55800 2950 50  0001 C CNN
+F 3 "" H 55800 2950 50  0001 C CNN
+	1    55800 2750
+	0    1    1    0   
+$EndComp
+Connection ~ 55800 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93E9B
+P 55900 2750
+F 0 "SW?" H 55700 2800 50  0000 C CNN
+F 1 "SW_Push" H 56200 2800 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55900 2950 50  0001 C CNN
+F 3 "" H 55900 2950 50  0001 C CNN
+	1    55900 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EA1
+P 54900 3500
+F 0 "SW?" H 54700 3550 50  0000 C CNN
+F 1 "SW_Push" H 55200 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 54900 3700 50  0001 C CNN
+F 3 "" H 54900 3700 50  0001 C CNN
+	1    54900 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 54900 3300
+Wire Wire Line
+	54900 3300 55000 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EA9
+P 55000 3500
+F 0 "SW?" H 54800 3550 50  0000 C CNN
+F 1 "SW_Push" H 55300 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55000 3700 50  0001 C CNN
+F 3 "" H 55000 3700 50  0001 C CNN
+	1    55000 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55000 3300
+Wire Wire Line
+	55000 3300 55100 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EB1
+P 55100 3500
+F 0 "SW?" H 54900 3550 50  0000 C CNN
+F 1 "SW_Push" H 55400 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55100 3700 50  0001 C CNN
+F 3 "" H 55100 3700 50  0001 C CNN
+	1    55100 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55100 3300
+Wire Wire Line
+	55100 3300 55200 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EB9
+P 55200 3500
+F 0 "SW?" H 55000 3550 50  0000 C CNN
+F 1 "SW_Push" H 55500 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55200 3700 50  0001 C CNN
+F 3 "" H 55200 3700 50  0001 C CNN
+	1    55200 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55200 3300
+Wire Wire Line
+	55200 3300 55300 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EC1
+P 55300 3500
+F 0 "SW?" H 55100 3550 50  0000 C CNN
+F 1 "SW_Push" H 55600 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55300 3700 50  0001 C CNN
+F 3 "" H 55300 3700 50  0001 C CNN
+	1    55300 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55300 3300
+Wire Wire Line
+	55300 3300 55400 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EC9
+P 55400 3500
+F 0 "SW?" H 55200 3550 50  0000 C CNN
+F 1 "SW_Push" H 55700 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55400 3700 50  0001 C CNN
+F 3 "" H 55400 3700 50  0001 C CNN
+	1    55400 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55400 3300
+Wire Wire Line
+	55400 3300 55500 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93ED1
+P 55500 3500
+F 0 "SW?" H 55300 3550 50  0000 C CNN
+F 1 "SW_Push" H 55800 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55500 3700 50  0001 C CNN
+F 3 "" H 55500 3700 50  0001 C CNN
+	1    55500 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55500 3300
+Wire Wire Line
+	55500 3300 55600 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93ED9
+P 55600 3500
+F 0 "SW?" H 55400 3550 50  0000 C CNN
+F 1 "SW_Push" H 55900 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55600 3700 50  0001 C CNN
+F 3 "" H 55600 3700 50  0001 C CNN
+	1    55600 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55600 3300
+Wire Wire Line
+	55600 3300 55700 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EE1
+P 55700 3500
+F 0 "SW?" H 55500 3550 50  0000 C CNN
+F 1 "SW_Push" H 56000 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55700 3700 50  0001 C CNN
+F 3 "" H 55700 3700 50  0001 C CNN
+	1    55700 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55700 3300
+Wire Wire Line
+	55700 3300 55800 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EE9
+P 55800 3500
+F 0 "SW?" H 55600 3550 50  0000 C CNN
+F 1 "SW_Push" H 56100 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55800 3700 50  0001 C CNN
+F 3 "" H 55800 3700 50  0001 C CNN
+	1    55800 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55800 3300
+Wire Wire Line
+	55800 3300 55900 3300
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CC93EF1
+P 55900 3500
+F 0 "SW?" H 55700 3550 50  0000 C CNN
+F 1 "SW_Push" H 56200 3550 50  0000 C CNN
+F 2 "chordboard-footprints:CHERRY_PCB_100H" H 55900 3700 50  0001 C CNN
+F 3 "" H 55900 3700 50  0001 C CNN
+	1    55900 3500
+	0    1    1    0   
+$EndComp
+Connection ~ 55900 3300
+Wire Wire Line
+	55900 3300 56050 3300
+Wire Wire Line
+	54850 3700 54900 3700
+Connection ~ 54850 3700
+Wire Wire Line
+	54850 3700 54850 2950
+Wire Wire Line
+	54850 2950 54900 2950
+Wire Wire Line
+	54850 4450 54900 4450
+Connection ~ 54850 4450
+Wire Wire Line
+	54850 4450 54850 3700
+Wire Wire Line
+	54950 4800 54950 4450
+Wire Wire Line
+	54950 4450 55000 4450
+Wire Wire Line
+	55050 4800 55050 4450
+Wire Wire Line
+	55050 4450 55100 4450
+Wire Wire Line
+	55150 4800 55150 4450
+Wire Wire Line
+	55150 4450 55200 4450
+Wire Wire Line
+	55250 4800 55250 4450
+Wire Wire Line
+	55250 4450 55300 4450
+Wire Wire Line
+	55350 4800 55350 4450
+Wire Wire Line
+	55350 4450 55400 4450
+Wire Wire Line
+	55450 4800 55450 4450
+Wire Wire Line
+	55450 4450 55500 4450
+Wire Wire Line
+	55550 4800 55550 4450
+Wire Wire Line
+	55550 4450 55600 4450
+Wire Wire Line
+	55650 4800 55650 4450
+Wire Wire Line
+	55650 4450 55700 4450
+Wire Wire Line
+	55750 4800 55750 4450
+Wire Wire Line
+	55750 4450 55800 4450
+Wire Wire Line
+	55850 4800 55850 4450
+Wire Wire Line
+	55850 4450 55900 4450
+Wire Wire Line
+	54950 4450 54950 3700
+Wire Wire Line
+	54950 3700 55000 3700
+Connection ~ 54950 4450
+Wire Wire Line
+	55050 4450 55050 3700
+Wire Wire Line
+	55050 3700 55100 3700
+Connection ~ 55050 4450
+Wire Wire Line
+	55150 4450 55150 3700
+Wire Wire Line
+	55150 3700 55200 3700
+Connection ~ 55150 4450
+Wire Wire Line
+	55250 4450 55250 3700
+Wire Wire Line
+	55250 3700 55300 3700
+Connection ~ 55250 4450
+Wire Wire Line
+	55350 4450 55350 3700
+Wire Wire Line
+	55350 3700 55400 3700
+Connection ~ 55350 4450
+Wire Wire Line
+	55450 4450 55450 3700
+Wire Wire Line
+	55450 3700 55500 3700
+Connection ~ 55450 4450
+Wire Wire Line
+	55550 4450 55550 3700
+Wire Wire Line
+	55550 3700 55600 3700
+Connection ~ 55550 4450
+Wire Wire Line
+	55650 4450 55650 3700
+Wire Wire Line
+	55650 3700 55700 3700
+Connection ~ 55650 4450
+Wire Wire Line
+	55750 4450 55750 3700
+Wire Wire Line
+	55750 3700 55800 3700
+Connection ~ 55750 4450
+Wire Wire Line
+	55850 4450 55850 3700
+Wire Wire Line
+	55850 3700 55900 3700
+Connection ~ 55850 4450
+Wire Wire Line
+	55850 3700 55850 2950
+Wire Wire Line
+	55850 2950 55900 2950
+Connection ~ 55850 3700
+Wire Wire Line
+	55750 3700 55750 2950
+Wire Wire Line
+	55750 2950 55800 2950
+Connection ~ 55750 3700
+Wire Wire Line
+	55650 3700 55650 2950
+Wire Wire Line
+	55650 2950 55700 2950
+Connection ~ 55650 3700
+Wire Wire Line
+	55550 3700 55550 2950
+Wire Wire Line
+	55550 2950 55600 2950
+Connection ~ 55550 3700
+Wire Wire Line
+	55450 3700 55450 2950
+Wire Wire Line
+	55450 2950 55500 2950
+Connection ~ 55450 3700
+Wire Wire Line
+	55350 3700 55350 2950
+Wire Wire Line
+	55350 2950 55400 2950
+Connection ~ 55350 3700
+Wire Wire Line
+	55250 3700 55250 2950
+Wire Wire Line
+	55250 2950 55300 2950
+Connection ~ 55250 3700
+Wire Wire Line
+	55150 3700 55150 2950
+Wire Wire Line
+	55150 2950 55200 2950
+Connection ~ 55150 3700
+Wire Wire Line
+	55050 3700 55050 2950
+Wire Wire Line
+	55050 2950 55100 2950
+Connection ~ 55050 3700
+Wire Wire Line
+	54950 3700 54950 2950
+Wire Wire Line
+	54950 2950 55000 2950
+Connection ~ 54950 3700
+Text Label 56350 4050 0    50   ~ 0
+KS0
+Text Label 56350 3300 0    50   ~ 0
+KS1
+Text Label 56350 2550 0    50   ~ 0
+KS2
+Wire Wire Line
+	55700 2550 55800 2550
+Wire Wire Line
+	55800 2550 55900 2550
+Wire Wire Line
+	55900 2550 56050 2550
+Connection ~ 55900 2550
+Text Label 24900 -13200 2    50   ~ 0
+T_GND
+Wire Wire Line
+	25100 -13200 24900 -13200
+Wire Wire Line
+	25350 -13200 25100 -13200
+Connection ~ 25100 -13200
+$Comp
+L Device:C C?
+U 1 1 61C70F7F
+P 25100 -13050
+F 0 "C?" H 25215 -13004 50  0000 L CNN
+F 1 "C" H 25215 -13095 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 25138 -13200 50  0001 C CNN
+F 3 "~" H 25100 -13050 50  0001 C CNN
+	1    25100 -13050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	25350 -12900 25100 -12900
+Wire Wire Line
+	25700 -12900 25350 -12900
+Connection ~ 25350 -12900
+$Comp
+L Device:C C?
+U 1 1 61C70F79
+P 25350 -13050
+F 0 "C?" H 25465 -13004 50  0000 L CNN
+F 1 "C" H 25465 -13095 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 25388 -13200 50  0001 C CNN
+F 3 "~" H 25350 -13050 50  0001 C CNN
+	1    25350 -13050
+	1    0    0    -1  
+$EndComp
+Text Label 16050 -13100 2    50   ~ 0
+T_GND
+Wire Wire Line
+	16250 -13100 16050 -13100
+Wire Wire Line
+	16500 -13100 16250 -13100
+Connection ~ 16250 -13100
+$Comp
+L Device:C C?
+U 1 1 5C744FFD
+P 16250 -12950
+F 0 "C?" H 16365 -12904 50  0000 L CNN
+F 1 "C" H 16365 -12995 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 16288 -13100 50  0001 C CNN
+F 3 "~" H 16250 -12950 50  0001 C CNN
+	1    16250 -12950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16500 -12800 16250 -12800
+Wire Wire Line
+	16850 -12800 16500 -12800
+Connection ~ 16500 -12800
+$Comp
+L Device:C C?
+U 1 1 616E5DCD
+P 16500 -12950
+F 0 "C?" H 16615 -12904 50  0000 L CNN
+F 1 "C" H 16615 -12995 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 16538 -13100 50  0001 C CNN
+F 3 "~" H 16500 -12950 50  0001 C CNN
+	1    16500 -12950
+	1    0    0    -1  
+$EndComp
+Text Label 25700 -12900 2    50   ~ 0
+T_5V
+Text Label 25700 -10500 2    50   ~ 0
+T_GND
+Text Label 25700 -12700 2    60   ~ 0
+SCL5
+Text Label 25700 -12600 2    60   ~ 0
+SDA5
+Wire Wire Line
+	27350 -13900 27350 -13850
+Wire Wire Line
+	27250 -13900 27350 -13900
+Wire Wire Line
+	27250 -13900 27250 -13850
+Wire Wire Line
+	27150 -13900 27150 -13850
+Connection ~ 27250 -13900
+Wire Wire Line
+	27250 -13900 27150 -13900
+Wire Wire Line
+	27250 -14050 27250 -13900
+$Comp
+L Device:D D?
+U 1 1 6150CFC9
+P 27250 -14200
+F 0 "D?" H 27250 -14416 50  0000 C CNN
+F 1 "D" H 27250 -14325 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 27250 -14200 50  0001 C CNN
+F 3 "~" H 27250 -14200 50  0001 C CNN
+	1    27250 -14200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6150CFC3
+P 27350 -13700
+F 0 "R?" V 27143 -13700 50  0000 C CNN
+F 1 "10K" V 27234 -13700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 27280 -13700 50  0001 C CNN
+F 3 "~" H 27350 -13700 50  0001 C CNN
+	1    27350 -13700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6150CFBD
+P 27250 -13700
+F 0 "R?" V 27043 -13700 50  0000 C CNN
+F 1 "10K" V 27134 -13700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 27180 -13700 50  0001 C CNN
+F 3 "~" H 27250 -13700 50  0001 C CNN
+	1    27250 -13700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	27350 -13500 27350 -13550
+Wire Wire Line
+	27250 -13500 27250 -13550
+Wire Wire Line
+	27150 -13500 27150 -13550
+$Comp
+L Device:R R?
+U 1 1 6150CFB4
+P 27150 -13700
+F 0 "R?" V 26943 -13700 50  0000 C CNN
+F 1 "10K" V 27034 -13700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 27080 -13700 50  0001 C CNN
+F 3 "~" H 27150 -13700 50  0001 C CNN
+	1    27150 -13700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 6150CFAE
+P 27350 -13300
+F 0 "JP?" H 27350 -13105 50  0000 C CNN
+F 1 "J_HT_AD" H 27350 -13196 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 27350 -13300 50  0001 C CNN
+F 3 "~" H 27350 -13300 50  0001 C CNN
+	1    27350 -13300
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 6150CFA8
+P 27250 -13300
+F 0 "JP?" H 27250 -13105 50  0000 C CNN
+F 1 "J_HT_AD" H 27250 -13196 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 27250 -13300 50  0001 C CNN
+F 3 "~" H 27250 -13300 50  0001 C CNN
+	1    27250 -13300
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 6150CFA2
+P 27150 -13300
+F 0 "JP?" H 27150 -13105 50  0000 C CNN
+F 1 "J_HT_AD" H 27150 -13196 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 27150 -13300 50  0001 C CNN
+F 3 "~" H 27150 -13300 50  0001 C CNN
+	1    27150 -13300
+	0    1    1    0   
+$EndComp
+Text Label 27250 -14350 0    50   ~ 0
+COM_AD2
+Wire Wire Line
+	27350 -12900 27350 -13100
+Wire Wire Line
+	27250 -12800 27000 -12800
+Wire Wire Line
+	27250 -12800 27250 -13100
+Wire Wire Line
+	27150 -12700 29500 -12700
+Wire Wire Line
+	27150 -12700 27150 -13100
+Text Label 27000 -11200 0    50   ~ 0
+COM_AD2
+Wire Wire Line
+	27500 -10700 27000 -10700
+Wire Wire Line
+	27500 -900 27500 -10700
+Wire Wire Line
+	31350 -900 27500 -900
+Wire Wire Line
+	27600 -1000 31300 -1000
+Wire Wire Line
+	27600 -10800 27600 -1000
+Wire Wire Line
+	27000 -10800 27600 -10800
+Wire Wire Line
+	27700 -10900 27000 -10900
+Wire Wire Line
+	27700 -1100 27700 -10900
+Wire Wire Line
+	31250 -1100 27700 -1100
+Wire Wire Line
+	27800 -11000 27000 -11000
+Wire Wire Line
+	27800 -1200 27800 -11000
+Wire Wire Line
+	30650 -1200 27800 -1200
+Wire Wire Line
+	27900 -1300 30600 -1300
+Wire Wire Line
+	27900 -11100 27900 -1300
+Wire Wire Line
+	27000 -11100 27900 -11100
+Wire Wire Line
+	28000 -11200 27000 -11200
+Wire Wire Line
+	28000 -1400 28000 -11200
+Wire Wire Line
+	30550 -1400 28000 -1400
+Wire Wire Line
+	28200 -11400 28200 -1600
+Wire Wire Line
+	27000 -11400 28200 -11400
+Wire Wire Line
+	28300 -11500 28300 -2350
+Wire Wire Line
+	28300 -11500 27000 -11500
+Wire Wire Line
+	28400 -11600 28400 -3100
+Wire Wire Line
+	27000 -11600 28400 -11600
+Wire Wire Line
+	28500 -11700 28500 -3850
+Wire Wire Line
+	27000 -11700 28500 -11700
+Wire Wire Line
+	28600 -11800 28600 -4600
+Wire Wire Line
+	28600 -11800 27000 -11800
+Wire Wire Line
+	28700 -11900 28700 -5350
+Wire Wire Line
+	28700 -11900 27000 -11900
+Wire Wire Line
+	28800 -12000 28800 -6100
+Wire Wire Line
+	28800 -12000 27000 -12000
+Wire Wire Line
+	28900 -12100 28900 -6850
+Wire Wire Line
+	27000 -12100 28900 -12100
+$Comp
+L eurocad:HT16K33 HT?
+U 1 1 6150CF5D
+P 26350 -11750
+F 0 "HT?" H 26350 -10353 60  0000 C CNN
+F 1 "HT16K33" H 26350 -10459 60  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 26350 -10600 60  0001 C CNN
+F 3 "" H 26350 -10600 60  0000 C CNN
+	1    26350 -11750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	29000 -12200 29000 -7650
+Wire Wire Line
+	29000 -12200 27000 -12200
+Wire Wire Line
+	30750 -7650 30750 -8050
+Wire Wire Line
+	30750 -8050 30800 -8050
+Wire Wire Line
+	30100 -8050 30050 -8050
+Wire Wire Line
+	30050 -8050 30050 -7650
+Wire Wire Line
+	30050 -7650 30750 -7650
+Connection ~ 30050 -7650
+Wire Wire Line
+	29000 -7650 30050 -7650
+Wire Wire Line
+	30550 -9000 30550 -8250
+Connection ~ 30550 -8250
+Wire Wire Line
+	30550 -8250 30500 -8250
+Wire Wire Line
+	30600 -8800 30600 -8050
+Wire Wire Line
+	30600 -8050 30500 -8050
+Wire Wire Line
+	30650 -8600 30650 -7850
+Wire Wire Line
+	30650 -7850 30500 -7850
+Wire Wire Line
+	31350 -7850 31200 -7850
+Connection ~ 31300 -8050
+Wire Wire Line
+	31300 -8050 31200 -8050
+Connection ~ 31250 -8250
+Wire Wire Line
+	31200 -8250 31250 -8250
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CF3C
+P 30300 -8050
+F 0 "KLED?" V 30450 -8250 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -7850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -8100 50  0001 C CNN
+F 3 "~" H 30300 -8100 50  0001 C CNN
+	1    30300 -8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CF36
+P 31000 -8050
+F 0 "KLED?" V 31150 -8250 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -7850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -8100 50  0001 C CNN
+F 3 "~" H 31000 -8100 50  0001 C CNN
+	1    31000 -8050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	30750 -1600 30750 -2000
+Wire Wire Line
+	30750 -2000 30800 -2000
+Wire Wire Line
+	30100 -2000 30050 -2000
+Wire Wire Line
+	30050 -2000 30050 -1600
+Wire Wire Line
+	30050 -1600 30750 -1600
+Connection ~ 30050 -1600
+Wire Wire Line
+	28200 -1600 30050 -1600
+Wire Wire Line
+	30550 -2200 30550 -1400
+Connection ~ 30550 -2200
+Wire Wire Line
+	30550 -2200 30500 -2200
+Wire Wire Line
+	30600 -1300 30600 -2000
+Wire Wire Line
+	30600 -2750 30600 -2000
+Connection ~ 30600 -2000
+Wire Wire Line
+	30600 -2000 30500 -2000
+Wire Wire Line
+	30650 -1800 30650 -1200
+Wire Wire Line
+	30650 -2550 30650 -1800
+Connection ~ 30650 -1800
+Wire Wire Line
+	30650 -1800 30500 -1800
+Wire Wire Line
+	31350 -1800 31350 -900
+Connection ~ 31350 -1800
+Wire Wire Line
+	31350 -1800 31200 -1800
+Wire Wire Line
+	31300 -1000 31300 -2000
+Connection ~ 31300 -2000
+Wire Wire Line
+	31300 -2000 31200 -2000
+Wire Wire Line
+	31250 -2200 31250 -1100
+Connection ~ 31250 -2200
+Wire Wire Line
+	31200 -2200 31250 -2200
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CF17
+P 30300 -2000
+F 0 "KLED?" V 30450 -2200 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -1800 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -2050 50  0001 C CNN
+F 3 "~" H 30300 -2050 50  0001 C CNN
+	1    30300 -2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CF11
+P 31000 -2000
+F 0 "KLED?" V 31150 -2200 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -1800 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -2050 50  0001 C CNN
+F 3 "~" H 31000 -2050 50  0001 C CNN
+	1    31000 -2000
+	-1   0    0    1   
+$EndComp
+Connection ~ 27350 -12900
+Wire Wire Line
+	27000 -12900 27350 -12900
+Wire Wire Line
+	29100 -12300 29100 -8400
+Wire Wire Line
+	29200 -12400 29200 -9150
+Wire Wire Line
+	29300 -12500 29300 -9900
+Wire Wire Line
+	29400 -12600 29400 -10650
+Wire Wire Line
+	29500 -12700 29500 -11400
+Wire Wire Line
+	29600 -12800 29600 -12150
+Wire Wire Line
+	27000 -12300 29100 -12300
+Wire Wire Line
+	29200 -12400 27000 -12400
+Wire Wire Line
+	27000 -12500 29300 -12500
+Wire Wire Line
+	29400 -12600 27000 -12600
+Connection ~ 27150 -12700
+Wire Wire Line
+	27000 -12700 27150 -12700
+Connection ~ 27250 -12800
+Wire Wire Line
+	29600 -12800 27250 -12800
+Wire Wire Line
+	30650 -3300 30500 -3300
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEEA
+P 31000 -2750
+F 0 "KLED?" V 31150 -2950 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -2550 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -2800 50  0001 C CNN
+F 3 "~" H 31000 -2800 50  0001 C CNN
+	1    31000 -2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEE4
+P 31000 -3500
+F 0 "KLED?" V 31150 -3700 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -3300 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -3550 50  0001 C CNN
+F 3 "~" H 31000 -3550 50  0001 C CNN
+	1    31000 -3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEDE
+P 31000 -4250
+F 0 "KLED?" V 31150 -4450 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -4050 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -4300 50  0001 C CNN
+F 3 "~" H 31000 -4300 50  0001 C CNN
+	1    31000 -4250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CED8
+P 31000 -5000
+F 0 "KLED?" V 31150 -5200 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -4800 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -5050 50  0001 C CNN
+F 3 "~" H 31000 -5050 50  0001 C CNN
+	1    31000 -5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CED2
+P 31000 -5750
+F 0 "KLED?" V 31150 -5950 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -5550 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -5800 50  0001 C CNN
+F 3 "~" H 31000 -5800 50  0001 C CNN
+	1    31000 -5750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CECC
+P 31000 -6500
+F 0 "KLED?" V 31150 -6700 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -6300 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -6550 50  0001 C CNN
+F 3 "~" H 31000 -6550 50  0001 C CNN
+	1    31000 -6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEC6
+P 31000 -7250
+F 0 "KLED?" V 31150 -7450 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -7050 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -7300 50  0001 C CNN
+F 3 "~" H 31000 -7300 50  0001 C CNN
+	1    31000 -7250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEC0
+P 30300 -2750
+F 0 "KLED?" V 30450 -2950 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -2550 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -2800 50  0001 C CNN
+F 3 "~" H 30300 -2800 50  0001 C CNN
+	1    30300 -2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEBA
+P 30300 -3500
+F 0 "KLED?" V 30450 -3700 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -3300 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -3550 50  0001 C CNN
+F 3 "~" H 30300 -3550 50  0001 C CNN
+	1    30300 -3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEB4
+P 30300 -4250
+F 0 "KLED?" V 30450 -4450 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -4050 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -4300 50  0001 C CNN
+F 3 "~" H 30300 -4300 50  0001 C CNN
+	1    30300 -4250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEAE
+P 30300 -5000
+F 0 "KLED?" V 30450 -5200 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -4800 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -5050 50  0001 C CNN
+F 3 "~" H 30300 -5050 50  0001 C CNN
+	1    30300 -5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEA8
+P 30300 -5750
+F 0 "KLED?" V 30450 -5950 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -5550 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -5800 50  0001 C CNN
+F 3 "~" H 30300 -5800 50  0001 C CNN
+	1    30300 -5750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CEA2
+P 30300 -6500
+F 0 "KLED?" V 30450 -6700 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -6300 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -6550 50  0001 C CNN
+F 3 "~" H 30300 -6550 50  0001 C CNN
+	1    30300 -6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CE9C
+P 30300 -7250
+F 0 "KLED?" V 30450 -7450 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -7050 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -7300 50  0001 C CNN
+F 3 "~" H 30300 -7300 50  0001 C CNN
+	1    30300 -7250
+	-1   0    0    1   
+$EndComp
+Connection ~ 31250 -6700
+Wire Wire Line
+	31200 -6700 31250 -6700
+Connection ~ 31300 -6500
+Wire Wire Line
+	31200 -6500 31300 -6500
+Wire Wire Line
+	31200 -6300 31350 -6300
+Wire Wire Line
+	31250 -6700 31250 -5950
+Connection ~ 31250 -5950
+Wire Wire Line
+	31200 -5950 31250 -5950
+Wire Wire Line
+	31300 -6500 31300 -5750
+Connection ~ 31300 -5750
+Wire Wire Line
+	31200 -5750 31300 -5750
+Wire Wire Line
+	31350 -6300 31350 -5550
+Connection ~ 31350 -5550
+Wire Wire Line
+	31200 -5550 31350 -5550
+Wire Wire Line
+	31250 -5950 31250 -5200
+Connection ~ 31250 -5200
+Wire Wire Line
+	31200 -5200 31250 -5200
+Wire Wire Line
+	31300 -5750 31300 -5000
+Connection ~ 31300 -5000
+Wire Wire Line
+	31200 -5000 31300 -5000
+Wire Wire Line
+	31350 -5550 31350 -4800
+Connection ~ 31350 -4800
+Wire Wire Line
+	31200 -4800 31350 -4800
+Wire Wire Line
+	31250 -5200 31250 -4450
+Connection ~ 31250 -4450
+Wire Wire Line
+	31200 -4450 31250 -4450
+Wire Wire Line
+	31300 -5000 31300 -4250
+Connection ~ 31300 -4250
+Wire Wire Line
+	31200 -4250 31300 -4250
+Wire Wire Line
+	31350 -4800 31350 -4050
+Connection ~ 31350 -4050
+Wire Wire Line
+	31200 -4050 31350 -4050
+Wire Wire Line
+	31250 -4450 31250 -3700
+Connection ~ 31250 -3700
+Wire Wire Line
+	31200 -3700 31250 -3700
+Wire Wire Line
+	31300 -4250 31300 -3500
+Connection ~ 31300 -3500
+Wire Wire Line
+	31200 -3500 31300 -3500
+Wire Wire Line
+	31350 -4050 31350 -3300
+Connection ~ 31350 -3300
+Wire Wire Line
+	31200 -3300 31350 -3300
+Wire Wire Line
+	31250 -2950 31250 -2200
+Wire Wire Line
+	31250 -3700 31250 -2950
+Connection ~ 31250 -2950
+Wire Wire Line
+	31250 -2950 31200 -2950
+Wire Wire Line
+	31300 -2750 31300 -2000
+Wire Wire Line
+	31300 -3500 31300 -2750
+Connection ~ 31300 -2750
+Wire Wire Line
+	31300 -2750 31200 -2750
+Wire Wire Line
+	31350 -2550 31350 -1800
+Wire Wire Line
+	31350 -3300 31350 -2550
+Connection ~ 31350 -2550
+Wire Wire Line
+	31200 -2550 31350 -2550
+Connection ~ 31350 -6300
+Wire Wire Line
+	31350 -7050 31350 -6300
+Wire Wire Line
+	30650 -2550 30500 -2550
+Connection ~ 30650 -2550
+Wire Wire Line
+	30650 -3300 30650 -2550
+Wire Wire Line
+	30600 -2750 30500 -2750
+Connection ~ 30600 -2750
+Wire Wire Line
+	30600 -3500 30600 -2750
+Wire Wire Line
+	30550 -2950 30550 -2200
+Connection ~ 30550 -2950
+Wire Wire Line
+	30550 -2950 30500 -2950
+Connection ~ 30650 -3300
+Wire Wire Line
+	30650 -4050 30650 -3300
+Wire Wire Line
+	30600 -3500 30500 -3500
+Connection ~ 30600 -3500
+Wire Wire Line
+	30600 -4250 30600 -3500
+Wire Wire Line
+	30550 -3700 30550 -2950
+Connection ~ 30550 -3700
+Wire Wire Line
+	30550 -3700 30500 -3700
+Wire Wire Line
+	30650 -4050 30500 -4050
+Connection ~ 30650 -4050
+Wire Wire Line
+	30650 -4800 30650 -4050
+Wire Wire Line
+	30600 -4250 30500 -4250
+Connection ~ 30600 -4250
+Wire Wire Line
+	30600 -5000 30600 -4250
+Wire Wire Line
+	30550 -4450 30550 -3700
+Connection ~ 30550 -4450
+Wire Wire Line
+	30550 -4450 30500 -4450
+Wire Wire Line
+	30650 -4800 30500 -4800
+Connection ~ 30650 -4800
+Wire Wire Line
+	30650 -5550 30650 -4800
+Wire Wire Line
+	30600 -5000 30500 -5000
+Connection ~ 30600 -5000
+Wire Wire Line
+	30600 -5750 30600 -5000
+Wire Wire Line
+	30550 -5200 30550 -4450
+Connection ~ 30550 -5200
+Wire Wire Line
+	30550 -5200 30500 -5200
+Wire Wire Line
+	30650 -5550 30500 -5550
+Connection ~ 30650 -5550
+Wire Wire Line
+	30650 -6300 30650 -5550
+Wire Wire Line
+	30600 -5750 30500 -5750
+Connection ~ 30600 -5750
+Wire Wire Line
+	30600 -6500 30600 -5750
+Wire Wire Line
+	30550 -5950 30550 -5200
+Connection ~ 30550 -5950
+Wire Wire Line
+	30550 -5950 30500 -5950
+Wire Wire Line
+	30750 -6500 30750 -6100
+Wire Wire Line
+	30800 -6500 30750 -6500
+Wire Wire Line
+	28800 -6100 30050 -6100
+Wire Wire Line
+	30050 -6100 30750 -6100
+Connection ~ 30050 -6100
+Wire Wire Line
+	30050 -6500 30050 -6100
+Wire Wire Line
+	30100 -6500 30050 -6500
+Wire Wire Line
+	28700 -5350 30050 -5350
+Wire Wire Line
+	30050 -5350 30750 -5350
+Connection ~ 30050 -5350
+Wire Wire Line
+	30050 -5750 30050 -5350
+Wire Wire Line
+	30100 -5750 30050 -5750
+Wire Wire Line
+	30750 -5750 30750 -5350
+Wire Wire Line
+	30800 -5750 30750 -5750
+Wire Wire Line
+	30750 -5000 30750 -4600
+Wire Wire Line
+	30800 -5000 30750 -5000
+Wire Wire Line
+	28600 -4600 30050 -4600
+Wire Wire Line
+	30050 -4600 30750 -4600
+Connection ~ 30050 -4600
+Wire Wire Line
+	30050 -5000 30050 -4600
+Wire Wire Line
+	30100 -5000 30050 -5000
+Wire Wire Line
+	30750 -4250 30750 -3850
+Wire Wire Line
+	30800 -4250 30750 -4250
+Wire Wire Line
+	28500 -3850 30050 -3850
+Wire Wire Line
+	30050 -3850 30750 -3850
+Connection ~ 30050 -3850
+Wire Wire Line
+	30050 -4250 30050 -3850
+Wire Wire Line
+	30100 -4250 30050 -4250
+Wire Wire Line
+	28400 -3100 30050 -3100
+Wire Wire Line
+	30050 -3100 30750 -3100
+Connection ~ 30050 -3100
+Wire Wire Line
+	30050 -3500 30050 -3100
+Wire Wire Line
+	30100 -3500 30050 -3500
+Wire Wire Line
+	30750 -3500 30800 -3500
+Wire Wire Line
+	30750 -3100 30750 -3500
+Wire Wire Line
+	30750 -2750 30750 -2350
+Wire Wire Line
+	30800 -2750 30750 -2750
+Wire Wire Line
+	28300 -2350 30050 -2350
+Wire Wire Line
+	30050 -2350 30750 -2350
+Connection ~ 30050 -2350
+Wire Wire Line
+	30050 -2750 30050 -2350
+Wire Wire Line
+	30100 -2750 30050 -2750
+Wire Wire Line
+	30650 -6300 30500 -6300
+Connection ~ 30650 -6300
+Wire Wire Line
+	30650 -7050 30650 -6300
+Wire Wire Line
+	30600 -6500 30500 -6500
+Connection ~ 30600 -6500
+Wire Wire Line
+	30600 -7250 30600 -6500
+Wire Wire Line
+	30550 -6700 30550 -5950
+Connection ~ 30550 -6700
+Wire Wire Line
+	30550 -6700 30500 -6700
+Wire Wire Line
+	30750 -7250 30800 -7250
+Wire Wire Line
+	30750 -6850 30750 -7250
+Wire Wire Line
+	28900 -6850 30050 -6850
+Wire Wire Line
+	30050 -6850 30750 -6850
+Connection ~ 30050 -6850
+Wire Wire Line
+	30050 -7250 30050 -6850
+Wire Wire Line
+	30100 -7250 30050 -7250
+Wire Wire Line
+	31350 -7050 31200 -7050
+Connection ~ 31350 -7050
+Connection ~ 31350 -7850
+Wire Wire Line
+	31350 -7850 31350 -7050
+Wire Wire Line
+	31300 -7250 31300 -6500
+Wire Wire Line
+	31300 -7250 31300 -8050
+Connection ~ 31300 -7250
+Wire Wire Line
+	31200 -7250 31300 -7250
+Wire Wire Line
+	31250 -7450 31250 -6700
+Wire Wire Line
+	31250 -7450 31250 -8250
+Connection ~ 31250 -7450
+Wire Wire Line
+	31200 -7450 31250 -7450
+Wire Wire Line
+	30650 -7050 30500 -7050
+Connection ~ 30650 -7050
+Connection ~ 30650 -7850
+Wire Wire Line
+	30650 -7850 30650 -7050
+Wire Wire Line
+	30600 -7250 30500 -7250
+Connection ~ 30600 -7250
+Connection ~ 30600 -8050
+Wire Wire Line
+	30600 -8050 30600 -7250
+Wire Wire Line
+	30550 -7450 30550 -6700
+Wire Wire Line
+	30550 -8250 30550 -7450
+Connection ~ 30550 -7450
+Wire Wire Line
+	30500 -7450 30550 -7450
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDFB
+P 31000 -8800
+F 0 "KLED?" V 31150 -9000 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -8600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -8850 50  0001 C CNN
+F 3 "~" H 31000 -8850 50  0001 C CNN
+	1    31000 -8800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDF5
+P 31000 -9550
+F 0 "KLED?" V 31150 -9750 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -9350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -9600 50  0001 C CNN
+F 3 "~" H 31000 -9600 50  0001 C CNN
+	1    31000 -9550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDEF
+P 31000 -10300
+F 0 "KLED?" V 31150 -10500 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -10100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -10350 50  0001 C CNN
+F 3 "~" H 31000 -10350 50  0001 C CNN
+	1    31000 -10300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDE9
+P 31000 -11050
+F 0 "KLED?" V 31150 -11250 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -10850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -11100 50  0001 C CNN
+F 3 "~" H 31000 -11100 50  0001 C CNN
+	1    31000 -11050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDE3
+P 31000 -11800
+F 0 "KLED?" V 31150 -12000 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -11600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -11850 50  0001 C CNN
+F 3 "~" H 31000 -11850 50  0001 C CNN
+	1    31000 -11800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDDD
+P 31000 -12550
+F 0 "KLED?" V 31150 -12750 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -12350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -12600 50  0001 C CNN
+F 3 "~" H 31000 -12600 50  0001 C CNN
+	1    31000 -12550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDD7
+P 31000 -13300
+F 0 "KLED?" V 31150 -13500 50  0000 C CNN
+F 1 "LED_ARGB" V 31150 -13100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 31000 -13350 50  0001 C CNN
+F 3 "~" H 31000 -13350 50  0001 C CNN
+	1    31000 -13300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDD1
+P 30300 -8800
+F 0 "KLED?" V 30450 -9000 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -8600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -8850 50  0001 C CNN
+F 3 "~" H 30300 -8850 50  0001 C CNN
+	1    30300 -8800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDCB
+P 30300 -9550
+F 0 "KLED?" V 30450 -9750 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -9350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -9600 50  0001 C CNN
+F 3 "~" H 30300 -9600 50  0001 C CNN
+	1    30300 -9550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDC5
+P 30300 -10300
+F 0 "KLED?" V 30450 -10500 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -10100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -10350 50  0001 C CNN
+F 3 "~" H 30300 -10350 50  0001 C CNN
+	1    30300 -10300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDBF
+P 30300 -11050
+F 0 "KLED?" V 30450 -11250 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -10850 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -11100 50  0001 C CNN
+F 3 "~" H 30300 -11100 50  0001 C CNN
+	1    30300 -11050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDB9
+P 30300 -11800
+F 0 "KLED?" V 30450 -12000 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -11600 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -11850 50  0001 C CNN
+F 3 "~" H 30300 -11850 50  0001 C CNN
+	1    30300 -11800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDB3
+P 30300 -12550
+F 0 "KLED?" V 30450 -12750 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -12350 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -12600 50  0001 C CNN
+F 3 "~" H 30300 -12600 50  0001 C CNN
+	1    30300 -12550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 6150CDAD
+P 30300 -13300
+F 0 "KLED?" V 30450 -13500 50  0000 C CNN
+F 1 "LED_ARGB" V 30450 -13100 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 30300 -13350 50  0001 C CNN
+F 3 "~" H 30300 -13350 50  0001 C CNN
+	1    30300 -13300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	31200 -12750 31250 -12750
+Wire Wire Line
+	31200 -12550 31300 -12550
+Wire Wire Line
+	31200 -12350 31350 -12350
+Wire Wire Line
+	31250 -12750 31250 -12000
+Connection ~ 31250 -12000
+Wire Wire Line
+	31200 -12000 31250 -12000
+Wire Wire Line
+	31300 -12550 31300 -11800
+Connection ~ 31300 -11800
+Wire Wire Line
+	31200 -11800 31300 -11800
+Wire Wire Line
+	31350 -12350 31350 -11600
+Connection ~ 31350 -11600
+Wire Wire Line
+	31200 -11600 31350 -11600
+Wire Wire Line
+	31250 -12000 31250 -11250
+Connection ~ 31250 -11250
+Wire Wire Line
+	31200 -11250 31250 -11250
+Wire Wire Line
+	31300 -11800 31300 -11050
+Connection ~ 31300 -11050
+Wire Wire Line
+	31200 -11050 31300 -11050
+Wire Wire Line
+	31350 -11600 31350 -10850
+Connection ~ 31350 -10850
+Wire Wire Line
+	31200 -10850 31350 -10850
+Wire Wire Line
+	31250 -11250 31250 -10500
+Connection ~ 31250 -10500
+Wire Wire Line
+	31200 -10500 31250 -10500
+Wire Wire Line
+	31300 -11050 31300 -10300
+Connection ~ 31300 -10300
+Wire Wire Line
+	31200 -10300 31300 -10300
+Wire Wire Line
+	31350 -10850 31350 -10100
+Connection ~ 31350 -10100
+Wire Wire Line
+	31200 -10100 31350 -10100
+Wire Wire Line
+	31250 -10500 31250 -9750
+Connection ~ 31250 -9750
+Wire Wire Line
+	31200 -9750 31250 -9750
+Wire Wire Line
+	31300 -10300 31300 -9550
+Connection ~ 31300 -9550
+Wire Wire Line
+	31200 -9550 31300 -9550
+Wire Wire Line
+	31350 -10100 31350 -9350
+Connection ~ 31350 -9350
+Wire Wire Line
+	31200 -9350 31350 -9350
+Wire Wire Line
+	31250 -9000 31250 -8250
+Wire Wire Line
+	31250 -9750 31250 -9000
+Connection ~ 31250 -9000
+Wire Wire Line
+	31250 -9000 31200 -9000
+Wire Wire Line
+	31300 -8800 31300 -8050
+Wire Wire Line
+	31300 -9550 31300 -8800
+Connection ~ 31300 -8800
+Wire Wire Line
+	31300 -8800 31200 -8800
+Wire Wire Line
+	31350 -8600 31350 -7850
+Wire Wire Line
+	31350 -9350 31350 -8600
+Connection ~ 31350 -8600
+Wire Wire Line
+	31200 -8600 31350 -8600
+Connection ~ 31350 -12350
+Wire Wire Line
+	31350 -13100 31350 -12350
+Connection ~ 31300 -12550
+Wire Wire Line
+	31300 -13300 31300 -12550
+Connection ~ 31250 -12750
+Wire Wire Line
+	31250 -13500 31250 -12750
+Wire Wire Line
+	30650 -8600 30500 -8600
+Connection ~ 30650 -8600
+Wire Wire Line
+	30650 -9350 30650 -8600
+Wire Wire Line
+	30600 -8800 30500 -8800
+Connection ~ 30600 -8800
+Wire Wire Line
+	30600 -9550 30600 -8800
+Wire Wire Line
+	30550 -9000 30500 -9000
+Connection ~ 30550 -9000
+Wire Wire Line
+	30550 -9750 30550 -9000
+Wire Wire Line
+	30650 -9350 30500 -9350
+Connection ~ 30650 -9350
+Wire Wire Line
+	30650 -10100 30650 -9350
+Wire Wire Line
+	30600 -9550 30500 -9550
+Connection ~ 30600 -9550
+Wire Wire Line
+	30600 -10300 30600 -9550
+Wire Wire Line
+	30550 -9750 30500 -9750
+Connection ~ 30550 -9750
+Wire Wire Line
+	30550 -10500 30550 -9750
+Wire Wire Line
+	30650 -10100 30500 -10100
+Connection ~ 30650 -10100
+Wire Wire Line
+	30650 -10850 30650 -10100
+Wire Wire Line
+	30600 -10300 30500 -10300
+Connection ~ 30600 -10300
+Wire Wire Line
+	30600 -11050 30600 -10300
+Wire Wire Line
+	30550 -10500 30500 -10500
+Connection ~ 30550 -10500
+Wire Wire Line
+	30550 -11250 30550 -10500
+Wire Wire Line
+	30650 -10850 30500 -10850
+Connection ~ 30650 -10850
+Wire Wire Line
+	30650 -11600 30650 -10850
+Wire Wire Line
+	30600 -11050 30500 -11050
+Connection ~ 30600 -11050
+Wire Wire Line
+	30600 -11800 30600 -11050
+Wire Wire Line
+	30550 -11250 30500 -11250
+Connection ~ 30550 -11250
+Wire Wire Line
+	30550 -12000 30550 -11250
+Wire Wire Line
+	30650 -11600 30500 -11600
+Connection ~ 30650 -11600
+Wire Wire Line
+	30650 -12350 30650 -11600
+Wire Wire Line
+	30600 -11800 30500 -11800
+Connection ~ 30600 -11800
+Wire Wire Line
+	30600 -12550 30600 -11800
+Wire Wire Line
+	30550 -12000 30500 -12000
+Connection ~ 30550 -12000
+Wire Wire Line
+	30550 -12750 30550 -12000
+Wire Wire Line
+	30750 -12550 30750 -12150
+Wire Wire Line
+	30800 -12550 30750 -12550
+Wire Wire Line
+	29600 -12150 30050 -12150
+Wire Wire Line
+	30050 -12150 30750 -12150
+Connection ~ 30050 -12150
+Wire Wire Line
+	30050 -12550 30050 -12150
+Wire Wire Line
+	30100 -12550 30050 -12550
+Wire Wire Line
+	29500 -11400 30050 -11400
+Wire Wire Line
+	30050 -11400 30750 -11400
+Connection ~ 30050 -11400
+Wire Wire Line
+	30050 -11800 30050 -11400
+Wire Wire Line
+	30100 -11800 30050 -11800
+Wire Wire Line
+	30750 -11800 30750 -11400
+Wire Wire Line
+	30800 -11800 30750 -11800
+Wire Wire Line
+	30750 -11050 30750 -10650
+Wire Wire Line
+	30800 -11050 30750 -11050
+Wire Wire Line
+	29400 -10650 30050 -10650
+Wire Wire Line
+	30050 -10650 30750 -10650
+Connection ~ 30050 -10650
+Wire Wire Line
+	30050 -11050 30050 -10650
+Wire Wire Line
+	30100 -11050 30050 -11050
+Wire Wire Line
+	30750 -10300 30750 -9900
+Wire Wire Line
+	30800 -10300 30750 -10300
+Wire Wire Line
+	29300 -9900 30050 -9900
+Wire Wire Line
+	30050 -9900 30750 -9900
+Connection ~ 30050 -9900
+Wire Wire Line
+	30050 -10300 30050 -9900
+Wire Wire Line
+	30100 -10300 30050 -10300
+Wire Wire Line
+	29200 -9150 30050 -9150
+Wire Wire Line
+	30050 -9150 30750 -9150
+Connection ~ 30050 -9150
+Wire Wire Line
+	30050 -9550 30050 -9150
+Wire Wire Line
+	30100 -9550 30050 -9550
+Wire Wire Line
+	30750 -9550 30800 -9550
+Wire Wire Line
+	30750 -9150 30750 -9550
+Wire Wire Line
+	30750 -8800 30750 -8400
+Wire Wire Line
+	30800 -8800 30750 -8800
+Wire Wire Line
+	29100 -8400 30050 -8400
+Wire Wire Line
+	30050 -8400 30750 -8400
+Connection ~ 30050 -8400
+Wire Wire Line
+	30050 -8800 30050 -8400
+Wire Wire Line
+	30100 -8800 30050 -8800
+Wire Wire Line
+	30650 -12350 30500 -12350
+Connection ~ 30650 -12350
+Wire Wire Line
+	30650 -13100 30650 -12350
+Wire Wire Line
+	30600 -12550 30500 -12550
+Connection ~ 30600 -12550
+Wire Wire Line
+	30600 -13300 30600 -12550
+Wire Wire Line
+	30550 -12750 30500 -12750
+Connection ~ 30550 -12750
+Wire Wire Line
+	30550 -13500 30550 -12750
+Wire Wire Line
+	30750 -13300 30800 -13300
+Wire Wire Line
+	30750 -12900 30750 -13300
+Wire Wire Line
+	27350 -12900 30050 -12900
+Wire Wire Line
+	30050 -12900 30750 -12900
+Connection ~ 30050 -12900
+Wire Wire Line
+	30050 -13300 30050 -12900
+Wire Wire Line
+	30100 -13300 30050 -13300
+Wire Wire Line
+	31350 -13100 31200 -13100
+Wire Wire Line
+	31200 -13300 31300 -13300
+Wire Wire Line
+	31200 -13500 31250 -13500
+Wire Wire Line
+	30650 -13100 30500 -13100
+Wire Wire Line
+	30600 -13300 30500 -13300
+Wire Wire Line
+	30500 -13500 30550 -13500
+Text Label 16850 -12800 2    50   ~ 0
+T_5V
+Text Label 16850 -10400 2    50   ~ 0
+T_GND
+Text Label 16850 -12600 2    60   ~ 0
+SCL5
+Text Label 16850 -12500 2    60   ~ 0
+SDA5
+Wire Wire Line
+	18500 -13800 18500 -13750
+Wire Wire Line
+	18400 -13800 18500 -13800
+Wire Wire Line
+	18400 -13800 18400 -13750
+Wire Wire Line
+	18300 -13800 18300 -13750
+Connection ~ 18400 -13800
+Wire Wire Line
+	18400 -13800 18300 -13800
+Wire Wire Line
+	18400 -13950 18400 -13800
+$Comp
+L Device:D D?
+U 1 1 61005FF1
+P 18400 -14100
+F 0 "D?" H 18400 -14316 50  0000 C CNN
+F 1 "D" H 18400 -14225 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 18400 -14100 50  0001 C CNN
+F 3 "~" H 18400 -14100 50  0001 C CNN
+	1    18400 -14100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C744FFA
+P 18500 -13600
+F 0 "R?" V 18293 -13600 50  0000 C CNN
+F 1 "10K" V 18384 -13600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 18430 -13600 50  0001 C CNN
+F 3 "~" H 18500 -13600 50  0001 C CNN
+	1    18500 -13600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5C744FF9
+P 18400 -13600
+F 0 "R?" V 18193 -13600 50  0000 C CNN
+F 1 "10K" V 18284 -13600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 18330 -13600 50  0001 C CNN
+F 3 "~" H 18400 -13600 50  0001 C CNN
+	1    18400 -13600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	18500 -13400 18500 -13450
+Wire Wire Line
+	18400 -13400 18400 -13450
+Wire Wire Line
+	18300 -13400 18300 -13450
+$Comp
+L Device:R R?
+U 1 1 5C744FF8
+P 18300 -13600
+F 0 "R?" V 18093 -13600 50  0000 C CNN
+F 1 "10K" V 18184 -13600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 18230 -13600 50  0001 C CNN
+F 3 "~" H 18300 -13600 50  0001 C CNN
+	1    18300 -13600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 60B1B183
+P 18500 -13200
+F 0 "JP?" H 18500 -13005 50  0000 C CNN
+F 1 "J_HT_AD" H 18500 -13096 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 18500 -13200 50  0001 C CNN
+F 3 "~" H 18500 -13200 50  0001 C CNN
+	1    18500 -13200
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 60B1AFEF
+P 18400 -13200
+F 0 "JP?" H 18400 -13005 50  0000 C CNN
+F 1 "J_HT_AD" H 18400 -13096 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 18400 -13200 50  0001 C CNN
+F 3 "~" H 18400 -13200 50  0001 C CNN
+	1    18400 -13200
+	0    1    1    0   
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP?
+U 1 1 5C744FF5
+P 18300 -13200
+F 0 "JP?" H 18300 -13005 50  0000 C CNN
+F 1 "J_HT_AD" H 18300 -13096 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 18300 -13200 50  0001 C CNN
+F 3 "~" H 18300 -13200 50  0001 C CNN
+	1    18300 -13200
+	0    1    1    0   
+$EndComp
+Text Label 18400 -14250 0    50   ~ 0
+COM_AD1
+Wire Wire Line
+	18500 -12800 18500 -13000
+Wire Wire Line
+	18400 -12700 18150 -12700
+Wire Wire Line
+	18400 -12700 18400 -13000
+Wire Wire Line
+	18300 -12600 20650 -12600
+Wire Wire Line
+	18300 -12600 18300 -13000
+Text Label 18150 -11100 0    50   ~ 0
+COM_AD1
+Wire Wire Line
+	18650 -10600 18150 -10600
+Wire Wire Line
+	18650 -800 18650 -10600
+Wire Wire Line
+	22500 -800 18650 -800
+Wire Wire Line
+	18750 -900 22450 -900
+Wire Wire Line
+	18750 -10700 18750 -900
+Wire Wire Line
+	18150 -10700 18750 -10700
+Wire Wire Line
+	18850 -10800 18150 -10800
+Wire Wire Line
+	18850 -1000 18850 -10800
+Wire Wire Line
+	22400 -1000 18850 -1000
+Wire Wire Line
+	18950 -10900 18150 -10900
+Wire Wire Line
+	18950 -1100 18950 -10900
+Wire Wire Line
+	21800 -1100 18950 -1100
+Wire Wire Line
+	19050 -1200 21750 -1200
+Wire Wire Line
+	19050 -11000 19050 -1200
+Wire Wire Line
+	18150 -11000 19050 -11000
+Wire Wire Line
+	19150 -11100 18150 -11100
+Wire Wire Line
+	19150 -1300 19150 -11100
+Wire Wire Line
+	21700 -1300 19150 -1300
+Wire Wire Line
+	19350 -11300 19350 -1500
+Wire Wire Line
+	18150 -11300 19350 -11300
+Wire Wire Line
+	19450 -11400 19450 -2250
+Wire Wire Line
+	19450 -11400 18150 -11400
+Wire Wire Line
+	19550 -11500 19550 -3000
+Wire Wire Line
+	18150 -11500 19550 -11500
+Wire Wire Line
+	19650 -11600 19650 -3750
+Wire Wire Line
+	18150 -11600 19650 -11600
+Wire Wire Line
+	19750 -11700 19750 -4500
+Wire Wire Line
+	19750 -11700 18150 -11700
+Wire Wire Line
+	19850 -11800 19850 -5250
+Wire Wire Line
+	19850 -11800 18150 -11800
+Wire Wire Line
+	19950 -11900 19950 -6000
+Wire Wire Line
+	19950 -11900 18150 -11900
+Wire Wire Line
+	20050 -12000 20050 -6750
+Wire Wire Line
+	18150 -12000 20050 -12000
+$Comp
+L eurocad:HT16K33 HT?
+U 1 1 5C744FF4
+P 17500 -11650
+F 0 "HT?" H 17500 -10253 60  0000 C CNN
+F 1 "HT16K33" H 17500 -10359 60  0000 C CNN
+F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 17500 -10500 60  0001 C CNN
+F 3 "" H 17500 -10500 60  0000 C CNN
+	1    17500 -11650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20150 -12100 20150 -7550
+Wire Wire Line
+	20150 -12100 18150 -12100
+Wire Wire Line
+	21900 -7550 21900 -7950
+Wire Wire Line
+	21900 -7950 21950 -7950
+Wire Wire Line
+	21250 -7950 21200 -7950
+Wire Wire Line
+	21200 -7950 21200 -7550
+Wire Wire Line
+	21200 -7550 21900 -7550
+Connection ~ 21200 -7550
+Wire Wire Line
+	20150 -7550 21200 -7550
+Wire Wire Line
+	21700 -8900 21700 -8150
+Connection ~ 21700 -8150
+Wire Wire Line
+	21700 -8150 21650 -8150
+Wire Wire Line
+	21750 -8700 21750 -7950
+Wire Wire Line
+	21750 -7950 21650 -7950
+Wire Wire Line
+	21800 -8500 21800 -7750
+Wire Wire Line
+	21800 -7750 21650 -7750
+Wire Wire Line
+	22500 -7750 22350 -7750
+Connection ~ 22450 -7950
+Wire Wire Line
+	22450 -7950 22350 -7950
+Connection ~ 22400 -8150
+Wire Wire Line
+	22350 -8150 22400 -8150
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAAD4
+P 21450 -7950
+F 0 "KLED?" V 21600 -8150 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -7750 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -8000 50  0001 C CNN
+F 3 "~" H 21450 -8000 50  0001 C CNN
+	1    21450 -7950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAF6D
+P 22150 -7950
+F 0 "KLED?" V 22300 -8150 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -7750 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -8000 50  0001 C CNN
+F 3 "~" H 22150 -8000 50  0001 C CNN
+	1    22150 -7950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	21900 -1500 21900 -1900
+Wire Wire Line
+	21900 -1900 21950 -1900
+Wire Wire Line
+	21250 -1900 21200 -1900
+Wire Wire Line
+	21200 -1900 21200 -1500
+Wire Wire Line
+	21200 -1500 21900 -1500
+Connection ~ 21200 -1500
+Wire Wire Line
+	19350 -1500 21200 -1500
+Wire Wire Line
+	21700 -2100 21700 -1300
+Connection ~ 21700 -2100
+Wire Wire Line
+	21700 -2100 21650 -2100
+Wire Wire Line
+	21750 -1200 21750 -1900
+Wire Wire Line
+	21750 -2650 21750 -1900
+Connection ~ 21750 -1900
+Wire Wire Line
+	21750 -1900 21650 -1900
+Wire Wire Line
+	21800 -1700 21800 -1100
+Wire Wire Line
+	21800 -2450 21800 -1700
+Connection ~ 21800 -1700
+Wire Wire Line
+	21800 -1700 21650 -1700
+Wire Wire Line
+	22500 -1700 22500 -800
+Connection ~ 22500 -1700
+Wire Wire Line
+	22500 -1700 22350 -1700
+Wire Wire Line
+	22450 -900 22450 -1900
+Connection ~ 22450 -1900
+Wire Wire Line
+	22450 -1900 22350 -1900
+Wire Wire Line
+	22400 -2100 22400 -1000
+Connection ~ 22400 -2100
+Wire Wire Line
+	22350 -2100 22400 -2100
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE3
+P 21450 -1900
+F 0 "KLED?" V 21600 -2100 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -1700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -1950 50  0001 C CNN
+F 3 "~" H 21450 -1950 50  0001 C CNN
+	1    21450 -1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC687
+P 22150 -1900
+F 0 "KLED?" V 22300 -2100 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -1700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -1950 50  0001 C CNN
+F 3 "~" H 22150 -1950 50  0001 C CNN
+	1    22150 -1900
+	-1   0    0    1   
+$EndComp
+Connection ~ 18500 -12800
+Wire Wire Line
+	18150 -12800 18500 -12800
+Wire Wire Line
+	20250 -12200 20250 -8300
+Wire Wire Line
+	20350 -12300 20350 -9050
+Wire Wire Line
+	20450 -12400 20450 -9800
+Wire Wire Line
+	20550 -12500 20550 -10550
+Wire Wire Line
+	20650 -12600 20650 -11300
+Wire Wire Line
+	20750 -12700 20750 -12050
+Wire Wire Line
+	18150 -12200 20250 -12200
+Wire Wire Line
+	20350 -12300 18150 -12300
+Wire Wire Line
+	18150 -12400 20450 -12400
+Wire Wire Line
+	20550 -12500 18150 -12500
+Connection ~ 18300 -12600
+Wire Wire Line
+	18150 -12600 18300 -12600
+Connection ~ 18400 -12700
+Wire Wire Line
+	20750 -12700 18400 -12700
+Wire Wire Line
+	21800 -3200 21650 -3200
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC681
+P 22150 -2650
+F 0 "KLED?" V 22300 -2850 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -2450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -2700 50  0001 C CNN
+F 3 "~" H 22150 -2700 50  0001 C CNN
+	1    22150 -2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB27197
+P 22150 -3400
+F 0 "KLED?" V 22300 -3600 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -3200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -3450 50  0001 C CNN
+F 3 "~" H 22150 -3450 50  0001 C CNN
+	1    22150 -3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC675
+P 22150 -4150
+F 0 "KLED?" V 22300 -4350 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -3950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -4200 50  0001 C CNN
+F 3 "~" H 22150 -4200 50  0001 C CNN
+	1    22150 -4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC66F
+P 22150 -4900
+F 0 "KLED?" V 22300 -5100 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -4700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -4950 50  0001 C CNN
+F 3 "~" H 22150 -4950 50  0001 C CNN
+	1    22150 -4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB27194
+P 22150 -5650
+F 0 "KLED?" V 22300 -5850 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -5450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -5700 50  0001 C CNN
+F 3 "~" H 22150 -5700 50  0001 C CNN
+	1    22150 -5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC663
+P 22150 -6400
+F 0 "KLED?" V 22300 -6600 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -6200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -6450 50  0001 C CNN
+F 3 "~" H 22150 -6450 50  0001 C CNN
+	1    22150 -6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC65D
+P 22150 -7150
+F 0 "KLED?" V 22300 -7350 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -6950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -7200 50  0001 C CNN
+F 3 "~" H 22150 -7200 50  0001 C CNN
+	1    22150 -7150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FE2
+P 21450 -2650
+F 0 "KLED?" V 21600 -2850 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -2450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -2700 50  0001 C CNN
+F 3 "~" H 21450 -2700 50  0001 C CNN
+	1    21450 -2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FF1
+P 21450 -3400
+F 0 "KLED?" V 21600 -3600 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -3200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -3450 50  0001 C CNN
+F 3 "~" H 21450 -3450 50  0001 C CNN
+	1    21450 -3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FF0
+P 21450 -4150
+F 0 "KLED?" V 21600 -4350 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -3950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -4200 50  0001 C CNN
+F 3 "~" H 21450 -4200 50  0001 C CNN
+	1    21450 -4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FEF
+P 21450 -4900
+F 0 "KLED?" V 21600 -5100 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -4700 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -4950 50  0001 C CNN
+F 3 "~" H 21450 -4950 50  0001 C CNN
+	1    21450 -4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC639
+P 21450 -5650
+F 0 "KLED?" V 21600 -5850 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -5450 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -5700 50  0001 C CNN
+F 3 "~" H 21450 -5700 50  0001 C CNN
+	1    21450 -5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC633
+P 21450 -6400
+F 0 "KLED?" V 21600 -6600 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -6200 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -6450 50  0001 C CNN
+F 3 "~" H 21450 -6450 50  0001 C CNN
+	1    21450 -6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FC62D
+P 21450 -7150
+F 0 "KLED?" V 21600 -7350 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -6950 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -7200 50  0001 C CNN
+F 3 "~" H 21450 -7200 50  0001 C CNN
+	1    21450 -7150
+	-1   0    0    1   
+$EndComp
+Connection ~ 22400 -6600
+Wire Wire Line
+	22350 -6600 22400 -6600
+Connection ~ 22450 -6400
+Wire Wire Line
+	22350 -6400 22450 -6400
+Wire Wire Line
+	22350 -6200 22500 -6200
+Wire Wire Line
+	22400 -6600 22400 -5850
+Connection ~ 22400 -5850
+Wire Wire Line
+	22350 -5850 22400 -5850
+Wire Wire Line
+	22450 -6400 22450 -5650
+Connection ~ 22450 -5650
+Wire Wire Line
+	22350 -5650 22450 -5650
+Wire Wire Line
+	22500 -6200 22500 -5450
+Connection ~ 22500 -5450
+Wire Wire Line
+	22350 -5450 22500 -5450
+Wire Wire Line
+	22400 -5850 22400 -5100
+Connection ~ 22400 -5100
+Wire Wire Line
+	22350 -5100 22400 -5100
+Wire Wire Line
+	22450 -5650 22450 -4900
+Connection ~ 22450 -4900
+Wire Wire Line
+	22350 -4900 22450 -4900
+Wire Wire Line
+	22500 -5450 22500 -4700
+Connection ~ 22500 -4700
+Wire Wire Line
+	22350 -4700 22500 -4700
+Wire Wire Line
+	22400 -5100 22400 -4350
+Connection ~ 22400 -4350
+Wire Wire Line
+	22350 -4350 22400 -4350
+Wire Wire Line
+	22450 -4900 22450 -4150
+Connection ~ 22450 -4150
+Wire Wire Line
+	22350 -4150 22450 -4150
+Wire Wire Line
+	22500 -4700 22500 -3950
+Connection ~ 22500 -3950
+Wire Wire Line
+	22350 -3950 22500 -3950
+Wire Wire Line
+	22400 -4350 22400 -3600
+Connection ~ 22400 -3600
+Wire Wire Line
+	22350 -3600 22400 -3600
+Wire Wire Line
+	22450 -4150 22450 -3400
+Connection ~ 22450 -3400
+Wire Wire Line
+	22350 -3400 22450 -3400
+Wire Wire Line
+	22500 -3950 22500 -3200
+Connection ~ 22500 -3200
+Wire Wire Line
+	22350 -3200 22500 -3200
+Wire Wire Line
+	22400 -2850 22400 -2100
+Wire Wire Line
+	22400 -3600 22400 -2850
+Connection ~ 22400 -2850
+Wire Wire Line
+	22400 -2850 22350 -2850
+Wire Wire Line
+	22450 -2650 22450 -1900
+Wire Wire Line
+	22450 -3400 22450 -2650
+Connection ~ 22450 -2650
+Wire Wire Line
+	22450 -2650 22350 -2650
+Wire Wire Line
+	22500 -2450 22500 -1700
+Wire Wire Line
+	22500 -3200 22500 -2450
+Connection ~ 22500 -2450
+Wire Wire Line
+	22350 -2450 22500 -2450
+Connection ~ 22500 -6200
+Wire Wire Line
+	22500 -6950 22500 -6200
+Wire Wire Line
+	21800 -2450 21650 -2450
+Connection ~ 21800 -2450
+Wire Wire Line
+	21800 -3200 21800 -2450
+Wire Wire Line
+	21750 -2650 21650 -2650
+Connection ~ 21750 -2650
+Wire Wire Line
+	21750 -3400 21750 -2650
+Wire Wire Line
+	21700 -2850 21700 -2100
+Connection ~ 21700 -2850
+Wire Wire Line
+	21700 -2850 21650 -2850
+Connection ~ 21800 -3200
+Wire Wire Line
+	21800 -3950 21800 -3200
+Wire Wire Line
+	21750 -3400 21650 -3400
+Connection ~ 21750 -3400
+Wire Wire Line
+	21750 -4150 21750 -3400
+Wire Wire Line
+	21700 -3600 21700 -2850
+Connection ~ 21700 -3600
+Wire Wire Line
+	21700 -3600 21650 -3600
+Wire Wire Line
+	21800 -3950 21650 -3950
+Connection ~ 21800 -3950
+Wire Wire Line
+	21800 -4700 21800 -3950
+Wire Wire Line
+	21750 -4150 21650 -4150
+Connection ~ 21750 -4150
+Wire Wire Line
+	21750 -4900 21750 -4150
+Wire Wire Line
+	21700 -4350 21700 -3600
+Connection ~ 21700 -4350
+Wire Wire Line
+	21700 -4350 21650 -4350
+Wire Wire Line
+	21800 -4700 21650 -4700
+Connection ~ 21800 -4700
+Wire Wire Line
+	21800 -5450 21800 -4700
+Wire Wire Line
+	21750 -4900 21650 -4900
+Connection ~ 21750 -4900
+Wire Wire Line
+	21750 -5650 21750 -4900
+Wire Wire Line
+	21700 -5100 21700 -4350
+Connection ~ 21700 -5100
+Wire Wire Line
+	21700 -5100 21650 -5100
+Wire Wire Line
+	21800 -5450 21650 -5450
+Connection ~ 21800 -5450
+Wire Wire Line
+	21800 -6200 21800 -5450
+Wire Wire Line
+	21750 -5650 21650 -5650
+Connection ~ 21750 -5650
+Wire Wire Line
+	21750 -6400 21750 -5650
+Wire Wire Line
+	21700 -5850 21700 -5100
+Connection ~ 21700 -5850
+Wire Wire Line
+	21700 -5850 21650 -5850
+Wire Wire Line
+	21900 -6400 21900 -6000
+Wire Wire Line
+	21950 -6400 21900 -6400
+Wire Wire Line
+	19950 -6000 21200 -6000
+Wire Wire Line
+	21200 -6000 21900 -6000
+Connection ~ 21200 -6000
+Wire Wire Line
+	21200 -6400 21200 -6000
+Wire Wire Line
+	21250 -6400 21200 -6400
+Wire Wire Line
+	19850 -5250 21200 -5250
+Wire Wire Line
+	21200 -5250 21900 -5250
+Connection ~ 21200 -5250
+Wire Wire Line
+	21200 -5650 21200 -5250
+Wire Wire Line
+	21250 -5650 21200 -5650
+Wire Wire Line
+	21900 -5650 21900 -5250
+Wire Wire Line
+	21950 -5650 21900 -5650
+Wire Wire Line
+	21900 -4900 21900 -4500
+Wire Wire Line
+	21950 -4900 21900 -4900
+Wire Wire Line
+	19750 -4500 21200 -4500
+Wire Wire Line
+	21200 -4500 21900 -4500
+Connection ~ 21200 -4500
+Wire Wire Line
+	21200 -4900 21200 -4500
+Wire Wire Line
+	21250 -4900 21200 -4900
+Wire Wire Line
+	21900 -4150 21900 -3750
+Wire Wire Line
+	21950 -4150 21900 -4150
+Wire Wire Line
+	19650 -3750 21200 -3750
+Wire Wire Line
+	21200 -3750 21900 -3750
+Connection ~ 21200 -3750
+Wire Wire Line
+	21200 -4150 21200 -3750
+Wire Wire Line
+	21250 -4150 21200 -4150
+Wire Wire Line
+	19550 -3000 21200 -3000
+Wire Wire Line
+	21200 -3000 21900 -3000
+Connection ~ 21200 -3000
+Wire Wire Line
+	21200 -3400 21200 -3000
+Wire Wire Line
+	21250 -3400 21200 -3400
+Wire Wire Line
+	21900 -3400 21950 -3400
+Wire Wire Line
+	21900 -3000 21900 -3400
+Wire Wire Line
+	21900 -2650 21900 -2250
+Wire Wire Line
+	21950 -2650 21900 -2650
+Wire Wire Line
+	19450 -2250 21200 -2250
+Wire Wire Line
+	21200 -2250 21900 -2250
+Connection ~ 21200 -2250
+Wire Wire Line
+	21200 -2650 21200 -2250
+Wire Wire Line
+	21250 -2650 21200 -2650
+Wire Wire Line
+	21800 -6200 21650 -6200
+Connection ~ 21800 -6200
+Wire Wire Line
+	21800 -6950 21800 -6200
+Wire Wire Line
+	21750 -6400 21650 -6400
+Connection ~ 21750 -6400
+Wire Wire Line
+	21750 -7150 21750 -6400
+Wire Wire Line
+	21700 -6600 21700 -5850
+Connection ~ 21700 -6600
+Wire Wire Line
+	21700 -6600 21650 -6600
+Wire Wire Line
+	21900 -7150 21950 -7150
+Wire Wire Line
+	21900 -6750 21900 -7150
+Wire Wire Line
+	20050 -6750 21200 -6750
+Wire Wire Line
+	21200 -6750 21900 -6750
+Connection ~ 21200 -6750
+Wire Wire Line
+	21200 -7150 21200 -6750
+Wire Wire Line
+	21250 -7150 21200 -7150
+Wire Wire Line
+	22500 -6950 22350 -6950
+Connection ~ 22500 -6950
+Connection ~ 22500 -7750
+Wire Wire Line
+	22500 -7750 22500 -6950
+Wire Wire Line
+	22450 -7150 22450 -6400
+Wire Wire Line
+	22450 -7150 22450 -7950
+Connection ~ 22450 -7150
+Wire Wire Line
+	22350 -7150 22450 -7150
+Wire Wire Line
+	22400 -7350 22400 -6600
+Wire Wire Line
+	22400 -7350 22400 -8150
+Connection ~ 22400 -7350
+Wire Wire Line
+	22350 -7350 22400 -7350
+Wire Wire Line
+	21800 -6950 21650 -6950
+Connection ~ 21800 -6950
+Connection ~ 21800 -7750
+Wire Wire Line
+	21800 -7750 21800 -6950
+Wire Wire Line
+	21750 -7150 21650 -7150
+Connection ~ 21750 -7150
+Connection ~ 21750 -7950
+Wire Wire Line
+	21750 -7950 21750 -7150
+Wire Wire Line
+	21700 -7350 21700 -6600
+Wire Wire Line
+	21700 -8150 21700 -7350
+Connection ~ 21700 -7350
+Wire Wire Line
+	21650 -7350 21700 -7350
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAEF3
+P 22150 -8700
+F 0 "KLED?" V 22300 -8900 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -8500 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -8750 50  0001 C CNN
+F 3 "~" H 22150 -8750 50  0001 C CNN
+	1    22150 -8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAE77
+P 22150 -9450
+F 0 "KLED?" V 22300 -9650 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -9250 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -9500 50  0001 C CNN
+F 3 "~" H 22150 -9500 50  0001 C CNN
+	1    22150 -9450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAE01
+P 22150 -10200
+F 0 "KLED?" V 22300 -10400 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -10000 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -10250 50  0001 C CNN
+F 3 "~" H 22150 -10250 50  0001 C CNN
+	1    22150 -10200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FACB7
+P 22150 -10950
+F 0 "KLED?" V 22300 -11150 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -10750 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -11000 50  0001 C CNN
+F 3 "~" H 22150 -11000 50  0001 C CNN
+	1    22150 -10950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAC45
+P 22150 -11700
+F 0 "KLED?" V 22300 -11900 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -11500 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -11750 50  0001 C CNN
+F 3 "~" H 22150 -11750 50  0001 C CNN
+	1    22150 -11700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD8
+P 22150 -12450
+F 0 "KLED?" V 22300 -12650 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -12250 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -12500 50  0001 C CNN
+F 3 "~" H 22150 -12500 50  0001 C CNN
+	1    22150 -12450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C5FAB5F
+P 22150 -13200
+F 0 "KLED?" V 22300 -13400 50  0000 C CNN
+F 1 "LED_ARGB" V 22300 -13000 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 22150 -13250 50  0001 C CNN
+F 3 "~" H 22150 -13250 50  0001 C CNN
+	1    22150 -13200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2717E
+P 21450 -8700
+F 0 "KLED?" V 21600 -8900 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -8500 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -8750 50  0001 C CNN
+F 3 "~" H 21450 -8750 50  0001 C CNN
+	1    21450 -8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2717D
+P 21450 -9450
+F 0 "KLED?" V 21600 -9650 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -9250 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -9500 50  0001 C CNN
+F 3 "~" H 21450 -9500 50  0001 C CNN
+	1    21450 -9450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5CB2717C
+P 21450 -10200
+F 0 "KLED?" V 21600 -10400 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -10000 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -10250 50  0001 C CNN
+F 3 "~" H 21450 -10250 50  0001 C CNN
+	1    21450 -10200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FEB
+P 21450 -10950
+F 0 "KLED?" V 21600 -11150 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -10750 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -11000 50  0001 C CNN
+F 3 "~" H 21450 -11000 50  0001 C CNN
+	1    21450 -10950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FEA
+P 21450 -11700
+F 0 "KLED?" V 21600 -11900 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -11500 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -11750 50  0001 C CNN
+F 3 "~" H 21450 -11750 50  0001 C CNN
+	1    21450 -11700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD5
+P 21450 -12450
+F 0 "KLED?" V 21600 -12650 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -12250 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -12500 50  0001 C CNN
+F 3 "~" H 21450 -12500 50  0001 C CNN
+	1    21450 -12450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_ARGB KLED?
+U 1 1 5C744FD3
+P 21450 -13200
+F 0 "KLED?" V 21600 -13400 50  0000 C CNN
+F 1 "LED_ARGB" V 21600 -13000 50  0000 C CNN
+F 2 "chordboard-footprints:LED_D3.0mm-4" H 21450 -13250 50  0001 C CNN
+F 3 "~" H 21450 -13250 50  0001 C CNN
+	1    21450 -13200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	22350 -12650 22400 -12650
+Wire Wire Line
+	22350 -12450 22450 -12450
+Wire Wire Line
+	22350 -12250 22500 -12250
+Wire Wire Line
+	22400 -12650 22400 -11900
+Connection ~ 22400 -11900
+Wire Wire Line
+	22350 -11900 22400 -11900
+Wire Wire Line
+	22450 -12450 22450 -11700
+Connection ~ 22450 -11700
+Wire Wire Line
+	22350 -11700 22450 -11700
+Wire Wire Line
+	22500 -12250 22500 -11500
+Connection ~ 22500 -11500
+Wire Wire Line
+	22350 -11500 22500 -11500
+Wire Wire Line
+	22400 -11900 22400 -11150
+Connection ~ 22400 -11150
+Wire Wire Line
+	22350 -11150 22400 -11150
+Wire Wire Line
+	22450 -11700 22450 -10950
+Connection ~ 22450 -10950
+Wire Wire Line
+	22350 -10950 22450 -10950
+Wire Wire Line
+	22500 -11500 22500 -10750
+Connection ~ 22500 -10750
+Wire Wire Line
+	22350 -10750 22500 -10750
+Wire Wire Line
+	22400 -11150 22400 -10400
+Connection ~ 22400 -10400
+Wire Wire Line
+	22350 -10400 22400 -10400
+Wire Wire Line
+	22450 -10950 22450 -10200
+Connection ~ 22450 -10200
+Wire Wire Line
+	22350 -10200 22450 -10200
+Wire Wire Line
+	22500 -10750 22500 -10000
+Connection ~ 22500 -10000
+Wire Wire Line
+	22350 -10000 22500 -10000
+Wire Wire Line
+	22400 -10400 22400 -9650
+Connection ~ 22400 -9650
+Wire Wire Line
+	22350 -9650 22400 -9650
+Wire Wire Line
+	22450 -10200 22450 -9450
+Connection ~ 22450 -9450
+Wire Wire Line
+	22350 -9450 22450 -9450
+Wire Wire Line
+	22500 -10000 22500 -9250
+Connection ~ 22500 -9250
+Wire Wire Line
+	22350 -9250 22500 -9250
+Wire Wire Line
+	22400 -8900 22400 -8150
+Wire Wire Line
+	22400 -9650 22400 -8900
+Connection ~ 22400 -8900
+Wire Wire Line
+	22400 -8900 22350 -8900
+Wire Wire Line
+	22450 -8700 22450 -7950
+Wire Wire Line
+	22450 -9450 22450 -8700
+Connection ~ 22450 -8700
+Wire Wire Line
+	22450 -8700 22350 -8700
+Wire Wire Line
+	22500 -8500 22500 -7750
+Wire Wire Line
+	22500 -9250 22500 -8500
+Connection ~ 22500 -8500
+Wire Wire Line
+	22350 -8500 22500 -8500
+Connection ~ 22500 -12250
+Wire Wire Line
+	22500 -13000 22500 -12250
+Connection ~ 22450 -12450
+Wire Wire Line
+	22450 -13200 22450 -12450
+Connection ~ 22400 -12650
+Wire Wire Line
+	22400 -13400 22400 -12650
+Wire Wire Line
+	21800 -8500 21650 -8500
+Connection ~ 21800 -8500
+Wire Wire Line
+	21800 -9250 21800 -8500
+Wire Wire Line
+	21750 -8700 21650 -8700
+Connection ~ 21750 -8700
+Wire Wire Line
+	21750 -9450 21750 -8700
+Wire Wire Line
+	21700 -8900 21650 -8900
+Connection ~ 21700 -8900
+Wire Wire Line
+	21700 -9650 21700 -8900
+Wire Wire Line
+	21800 -9250 21650 -9250
+Connection ~ 21800 -9250
+Wire Wire Line
+	21800 -10000 21800 -9250
+Wire Wire Line
+	21750 -9450 21650 -9450
+Connection ~ 21750 -9450
+Wire Wire Line
+	21750 -10200 21750 -9450
+Wire Wire Line
+	21700 -9650 21650 -9650
+Connection ~ 21700 -9650
+Wire Wire Line
+	21700 -10400 21700 -9650
+Wire Wire Line
+	21800 -10000 21650 -10000
+Connection ~ 21800 -10000
+Wire Wire Line
+	21800 -10750 21800 -10000
+Wire Wire Line
+	21750 -10200 21650 -10200
+Connection ~ 21750 -10200
+Wire Wire Line
+	21750 -10950 21750 -10200
+Wire Wire Line
+	21700 -10400 21650 -10400
+Connection ~ 21700 -10400
+Wire Wire Line
+	21700 -11150 21700 -10400
+Wire Wire Line
+	21800 -10750 21650 -10750
+Connection ~ 21800 -10750
+Wire Wire Line
+	21800 -11500 21800 -10750
+Wire Wire Line
+	21750 -10950 21650 -10950
+Connection ~ 21750 -10950
+Wire Wire Line
+	21750 -11700 21750 -10950
+Wire Wire Line
+	21700 -11150 21650 -11150
+Connection ~ 21700 -11150
+Wire Wire Line
+	21700 -11900 21700 -11150
+Wire Wire Line
+	21800 -11500 21650 -11500
+Connection ~ 21800 -11500
+Wire Wire Line
+	21800 -12250 21800 -11500
+Wire Wire Line
+	21750 -11700 21650 -11700
+Connection ~ 21750 -11700
+Wire Wire Line
+	21750 -12450 21750 -11700
+Wire Wire Line
+	21700 -11900 21650 -11900
+Connection ~ 21700 -11900
+Wire Wire Line
+	21700 -12650 21700 -11900
+Wire Wire Line
+	21900 -12450 21900 -12050
+Wire Wire Line
+	21950 -12450 21900 -12450
+Wire Wire Line
+	20750 -12050 21200 -12050
+Wire Wire Line
+	21200 -12050 21900 -12050
+Connection ~ 21200 -12050
+Wire Wire Line
+	21200 -12450 21200 -12050
+Wire Wire Line
+	21250 -12450 21200 -12450
+Wire Wire Line
+	20650 -11300 21200 -11300
+Wire Wire Line
+	21200 -11300 21900 -11300
+Connection ~ 21200 -11300
+Wire Wire Line
+	21200 -11700 21200 -11300
+Wire Wire Line
+	21250 -11700 21200 -11700
+Wire Wire Line
+	21900 -11700 21900 -11300
+Wire Wire Line
+	21950 -11700 21900 -11700
+Wire Wire Line
+	21900 -10950 21900 -10550
+Wire Wire Line
+	21950 -10950 21900 -10950
+Wire Wire Line
+	20550 -10550 21200 -10550
+Wire Wire Line
+	21200 -10550 21900 -10550
+Connection ~ 21200 -10550
+Wire Wire Line
+	21200 -10950 21200 -10550
+Wire Wire Line
+	21250 -10950 21200 -10950
+Wire Wire Line
+	21900 -10200 21900 -9800
+Wire Wire Line
+	21950 -10200 21900 -10200
+Wire Wire Line
+	20450 -9800 21200 -9800
+Wire Wire Line
+	21200 -9800 21900 -9800
+Connection ~ 21200 -9800
+Wire Wire Line
+	21200 -10200 21200 -9800
+Wire Wire Line
+	21250 -10200 21200 -10200
+Wire Wire Line
+	20350 -9050 21200 -9050
+Wire Wire Line
+	21200 -9050 21900 -9050
+Connection ~ 21200 -9050
+Wire Wire Line
+	21200 -9450 21200 -9050
+Wire Wire Line
+	21250 -9450 21200 -9450
+Wire Wire Line
+	21900 -9450 21950 -9450
+Wire Wire Line
+	21900 -9050 21900 -9450
+Wire Wire Line
+	21900 -8700 21900 -8300
+Wire Wire Line
+	21950 -8700 21900 -8700
+Wire Wire Line
+	20250 -8300 21200 -8300
+Wire Wire Line
+	21200 -8300 21900 -8300
+Connection ~ 21200 -8300
+Wire Wire Line
+	21200 -8700 21200 -8300
+Wire Wire Line
+	21250 -8700 21200 -8700
+Wire Wire Line
+	21800 -12250 21650 -12250
+Connection ~ 21800 -12250
+Wire Wire Line
+	21800 -13000 21800 -12250
+Wire Wire Line
+	21750 -12450 21650 -12450
+Connection ~ 21750 -12450
+Wire Wire Line
+	21750 -13200 21750 -12450
+Wire Wire Line
+	21700 -12650 21650 -12650
+Connection ~ 21700 -12650
+Wire Wire Line
+	21700 -13400 21700 -12650
+Wire Wire Line
+	21900 -13200 21950 -13200
+Wire Wire Line
+	21900 -12800 21900 -13200
+Wire Wire Line
+	18500 -12800 21200 -12800
+Wire Wire Line
+	21200 -12800 21900 -12800
+Connection ~ 21200 -12800
+Wire Wire Line
+	21200 -13200 21200 -12800
+Wire Wire Line
+	21250 -13200 21200 -13200
+Wire Wire Line
+	22500 -13000 22350 -13000
+Wire Wire Line
+	22350 -13200 22450 -13200
+Wire Wire Line
+	22350 -13400 22400 -13400
+Wire Wire Line
+	21800 -13000 21650 -13000
+Wire Wire Line
+	21750 -13200 21650 -13200
+Wire Wire Line
+	21650 -13400 21700 -13400
+$EndSCHEMATC
