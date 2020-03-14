@@ -1,0 +1,6 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C31 C32 C33 C34,C,C_Disc_D3.4mm_W2.1mm_P2.50mm,34,~
+2,"16-bit I/O expander, I2C, interrupts, w pull-ups, SOIC-28",MCP23017_SO,IO1 IO2,MCP23017_SO,SOIC-28W_7.5x17.9mm_P1.27mm,2,http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
+3,"Connector, single row, 01x04, pin header",GROVE_I2C,J1 J2,T_I2C0,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,2,
+4,"Jumper, 3-pole, pins 1+2 closed/bridged",Jumper_3_Bridged12,JP1 JP2,Jumper_3_Bridged12,SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,2,~
+5,"Rotary encoder, dual channel, incremental quadrate outputs",Rotary_Encoder,RE1 RE2 RE3 RE4 RE5 RE6 RE7 RE8 RE9 RE10 RE11 RE12 RE13 RE14 RE15 RE16,Rotary_Encoder,RotaryEncoder_Alps_EC11E_Vertical_H20mm,16,~

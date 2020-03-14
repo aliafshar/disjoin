@@ -50,243 +50,196 @@ Text Label 26550 7950 2    50   ~ 0
 T_RX4
 Text Label 26550 8050 2    50   ~ 0
 T_TX4
-Text Label 26550 7650 2    50   ~ 0
-LED_DAT
-Text Label 26550 7750 2    50   ~ 0
-LED_CLK
-Text Label 26550 7850 2    50   ~ 0
-LED_CS
-Wire Wire Line
-	28750 6450 30100 6450
-Wire Wire Line
-	28750 6550 30300 6550
-$Comp
-L chordboard-components:R R33
-U 1 1 5C5B1932
-P 30100 6250
-F 0 "R33" V 30150 6400 50  0000 R CNN
-F 1 "4.7K" V 30150 6150 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 30100 6250 50  0001 C CNN
-F 3 "" H 30100 6250 50  0001 C CNN
-	1    30100 6250
-	-1   0    0    1   
-$EndComp
-$Comp
-L chordboard-components:R R34
-U 1 1 5C5B1BDE
-P 30300 6250
-F 0 "R34" V 30350 6400 50  0000 R CNN
-F 1 "4.7K" V 30350 6150 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 30300 6250 50  0001 C CNN
-F 3 "" H 30300 6250 50  0001 C CNN
-	1    30300 6250
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	30100 6450 30100 6350
-Wire Wire Line
-	30300 6550 30300 6350
-Wire Wire Line
-	30100 6150 30100 5950
-Wire Wire Line
-	30100 5950 30300 5950
-Wire Wire Line
-	30300 5950 30300 6150
-Text Label 30300 5900 0    50   ~ 0
-T_3V3
-Wire Wire Line
-	30300 5900 30300 5950
-Connection ~ 30300 5950
 Text Label 26550 6550 2    50   ~ 0
 MEMCARD_MOSI
 Text Label 26550 7050 2    50   ~ 0
 MEMCARD_MISO
 Text Label 28750 6950 0    50   ~ 0
 MEMCARD_SCK
-Text Label 33650 6800 2    50   ~ 0
+Text Label 39200 3850 2    50   ~ 0
 MEMCARD_MISO
-Text Label 34550 7000 0    50   ~ 0
+Text Label 40100 4050 0    50   ~ 0
 MEMCARD_MOSI
-Text Label 34550 6900 0    50   ~ 0
+Text Label 40100 3950 0    50   ~ 0
 MEMCARD_SCK
-Text Label 33650 6900 2    50   ~ 0
+Text Label 39200 3950 2    50   ~ 0
 T_3V3
-Text Label 34550 6800 0    50   ~ 0
+Text Label 40100 3850 0    50   ~ 0
 T_3V3
-Text Label 34550 6700 0    50   ~ 0
+Text Label 40100 3750 0    50   ~ 0
 T_3V3
-Text Label 33650 7000 2    50   ~ 0
+Text Label 39200 4050 2    50   ~ 0
 T_GND
-Text Label 33650 6700 2    50   ~ 0
+Text Label 39200 3750 2    50   ~ 0
 MEMCARD_CS1
-Text Label 33650 7300 2    50   ~ 0
+Text Label 39200 4350 2    50   ~ 0
 MEMCARD_CS2
-Text Label 33650 7900 2    50   ~ 0
+Text Label 39200 4950 2    50   ~ 0
 MEMCARD_CS3
-Text Label 33650 7400 2    50   ~ 0
+Text Label 39200 4450 2    50   ~ 0
 MEMCARD_MISO
-Text Label 34550 7600 0    50   ~ 0
+Text Label 40100 4650 0    50   ~ 0
 MEMCARD_MOSI
-Text Label 34550 7500 0    50   ~ 0
+Text Label 40100 4550 0    50   ~ 0
 MEMCARD_SCK
-Text Label 33650 7500 2    50   ~ 0
+Text Label 39200 4550 2    50   ~ 0
 T_3V3
-Text Label 34550 7400 0    50   ~ 0
+Text Label 40100 4450 0    50   ~ 0
 T_3V3
-Text Label 34550 7300 0    50   ~ 0
+Text Label 40100 4350 0    50   ~ 0
 T_3V3
-Text Label 33650 7600 2    50   ~ 0
+Text Label 39200 4650 2    50   ~ 0
 T_GND
-Text Label 33650 8000 2    50   ~ 0
+Text Label 39200 5050 2    50   ~ 0
 MEMCARD_MISO
-Text Label 34550 8200 0    50   ~ 0
+Text Label 40100 5250 0    50   ~ 0
 MEMCARD_MOSI
-Text Label 34550 8100 0    50   ~ 0
+Text Label 40100 5150 0    50   ~ 0
 MEMCARD_SCK
-Text Label 33650 8100 2    50   ~ 0
+Text Label 39200 5150 2    50   ~ 0
 T_3V3
-Text Label 34550 8000 0    50   ~ 0
+Text Label 40100 5050 0    50   ~ 0
 T_3V3
-Text Label 34550 7900 0    50   ~ 0
+Text Label 40100 4950 0    50   ~ 0
 T_3V3
-Text Label 33650 8200 2    50   ~ 0
+Text Label 39200 5250 2    50   ~ 0
 T_GND
 Text Label 26550 6350 2    50   ~ 0
 MEMCARD_CS4
-Text Label 33650 8500 2    50   ~ 0
+Text Label 39200 5550 2    50   ~ 0
 MEMCARD_CS4
-Text Label 33650 8600 2    50   ~ 0
+Text Label 39200 5650 2    50   ~ 0
 MEMCARD_MISO
-Text Label 34550 8800 0    50   ~ 0
+Text Label 40100 5850 0    50   ~ 0
 MEMCARD_MOSI
-Text Label 34550 8700 0    50   ~ 0
+Text Label 40100 5750 0    50   ~ 0
 MEMCARD_SCK
-Text Label 33650 8700 2    50   ~ 0
+Text Label 39200 5750 2    50   ~ 0
 T_3V3
-Text Label 34550 8600 0    50   ~ 0
+Text Label 40100 5650 0    50   ~ 0
 T_3V3
-Text Label 34550 8500 0    50   ~ 0
+Text Label 40100 5550 0    50   ~ 0
 T_3V3
-Text Label 33650 8800 2    50   ~ 0
+Text Label 39200 5850 2    50   ~ 0
 T_GND
 Wire Wire Line
-	34550 6700 35300 6700
+	40100 3750 40850 3750
 $Comp
 L Device:C_Small C11
 U 1 1 626F238A
-P 35300 6850
-F 0 "C11" H 35392 6896 50  0000 L CNN
-F 1 "C_Small" H 35392 6805 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 6850 50  0001 C CNN
-F 3 "~" H 35300 6850 50  0001 C CNN
-	1    35300 6850
+P 40850 3900
+F 0 "C11" H 40942 3946 50  0000 L CNN
+F 1 "C_Small" H 40942 3855 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 3900 50  0001 C CNN
+F 3 "~" H 40850 3900 50  0001 C CNN
+	1    40850 3900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	35300 6750 35300 6700
+	40850 3800 40850 3750
 Wire Wire Line
-	35300 6950 35300 7000
-Text Label 35550 7000 0    50   ~ 0
+	40850 4000 40850 4050
+Text Label 41100 4050 0    50   ~ 0
 T_GND
 Wire Wire Line
-	34550 7300 35300 7300
+	40100 4350 40850 4350
 $Comp
 L Device:C_Small C12
 U 1 1 628B970C
-P 35300 7450
-F 0 "C12" H 35392 7496 50  0000 L CNN
-F 1 "C_Small" H 35392 7405 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 7450 50  0001 C CNN
-F 3 "~" H 35300 7450 50  0001 C CNN
-	1    35300 7450
+P 40850 4500
+F 0 "C12" H 40942 4546 50  0000 L CNN
+F 1 "C_Small" H 40942 4455 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 4500 50  0001 C CNN
+F 3 "~" H 40850 4500 50  0001 C CNN
+	1    40850 4500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	35300 7350 35300 7300
+	40850 4400 40850 4350
 Wire Wire Line
-	35300 7550 35300 7600
-Text Label 35550 7600 0    50   ~ 0
+	40850 4600 40850 4650
+Text Label 41100 4650 0    50   ~ 0
 T_GND
 Wire Wire Line
-	34550 7900 35300 7900
+	40100 4950 40850 4950
 $Comp
 L Device:C_Small C13
 U 1 1 629A317E
-P 35300 8050
-F 0 "C13" H 35392 8096 50  0000 L CNN
-F 1 "C_Small" H 35392 8005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 8050 50  0001 C CNN
-F 3 "~" H 35300 8050 50  0001 C CNN
-	1    35300 8050
+P 40850 5100
+F 0 "C13" H 40942 5146 50  0000 L CNN
+F 1 "C_Small" H 40942 5055 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 5100 50  0001 C CNN
+F 3 "~" H 40850 5100 50  0001 C CNN
+	1    40850 5100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	35300 7950 35300 7900
+	40850 5000 40850 4950
 Wire Wire Line
-	35300 8150 35300 8200
-Text Label 35550 8200 0    50   ~ 0
+	40850 5200 40850 5250
+Text Label 41100 5250 0    50   ~ 0
 T_GND
 Wire Wire Line
-	34550 8500 35300 8500
+	40100 5550 40850 5550
 $Comp
 L Device:C_Small C14
 U 1 1 5CB271E0
-P 35300 8650
-F 0 "C14" H 35392 8696 50  0000 L CNN
-F 1 "C_Small" H 35392 8605 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 8650 50  0001 C CNN
-F 3 "~" H 35300 8650 50  0001 C CNN
-	1    35300 8650
+P 40850 5700
+F 0 "C14" H 40942 5746 50  0000 L CNN
+F 1 "C_Small" H 40942 5655 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 5700 50  0001 C CNN
+F 3 "~" H 40850 5700 50  0001 C CNN
+	1    40850 5700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	35300 8550 35300 8500
+	40850 5600 40850 5550
 Wire Wire Line
-	35300 8750 35300 8800
-Text Label 35550 8800 0    50   ~ 0
+	40850 5800 40850 5850
+Text Label 41100 5850 0    50   ~ 0
 T_GND
 $Comp
 L chordboard-components:23LC1024 MEM1
 U 1 1 5CB271EC
-P 34100 6900
-F 0 "MEM1" H 34250 7250 50  0000 C CNN
-F 1 "23LC1024" H 33850 7250 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 6900 50  0001 C CNN
-F 3 "" H 34100 6900 50  0001 C CNN
-	1    34100 6900
+P 39650 3950
+F 0 "MEM1" H 39800 4300 50  0000 C CNN
+F 1 "23LC1024" H 39400 4300 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 3950 50  0001 C CNN
+F 3 "" H 39650 3950 50  0001 C CNN
+	1    39650 3950
 	1    0    0    -1  
 $EndComp
 $Comp
 L chordboard-components:23LC1024 MEM2
 U 1 1 5CB271ED
-P 34100 7500
-F 0 "MEM2" H 34250 7850 50  0000 C CNN
-F 1 "23LC1024" H 33850 7850 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 7500 50  0001 C CNN
-F 3 "" H 34100 7500 50  0001 C CNN
-	1    34100 7500
+P 39650 4550
+F 0 "MEM2" H 39800 4900 50  0000 C CNN
+F 1 "23LC1024" H 39400 4900 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 4550 50  0001 C CNN
+F 3 "" H 39650 4550 50  0001 C CNN
+	1    39650 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L chordboard-components:23LC1024 MEM3
 U 1 1 64CE8B73
-P 34100 8100
-F 0 "MEM3" H 34250 8450 50  0000 C CNN
-F 1 "23LC1024" H 33850 8450 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 8100 50  0001 C CNN
-F 3 "" H 34100 8100 50  0001 C CNN
-	1    34100 8100
+P 39650 5150
+F 0 "MEM3" H 39800 5500 50  0000 C CNN
+F 1 "23LC1024" H 39400 5500 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 5150 50  0001 C CNN
+F 3 "" H 39650 5150 50  0001 C CNN
+	1    39650 5150
 	1    0    0    -1  
 $EndComp
 $Comp
 L chordboard-components:23LC1024 MEM4
 U 1 1 64CE8D6D
-P 34100 8700
-F 0 "MEM4" H 34250 9050 50  0000 C CNN
-F 1 "23LC1024" H 33850 9050 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 8700 50  0001 C CNN
-F 3 "" H 34100 8700 50  0001 C CNN
-	1    34100 8700
+P 39650 5750
+F 0 "MEM4" H 39800 6100 50  0000 C CNN
+F 1 "23LC1024" H 39400 6100 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 5750 50  0001 C CNN
+F 3 "" H 39650 5750 50  0001 C CNN
+	1    39650 5750
 	1    0    0    -1  
 $EndComp
 Text Label 28750 6850 0    50   ~ 0
@@ -353,25 +306,6 @@ Text Label 25750 5850 0    50   ~ 0
 T_RX1
 Text Label 25750 5950 0    50   ~ 0
 T_TX1
-$Comp
-L chordboard-components:GROVE_I2C J9
-U 1 1 66B9ECBA
-P 30950 6600
-F 0 "J9" H 31277 6651 50  0000 L CNN
-F 1 "T_I2C0" H 31277 6560 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 30950 6600 50  0001 C CNN
-F 3 "" H 30950 6600 50  0001 C CNN
-	1    30950 6600
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	30100 6450 30750 6450
-Connection ~ 30100 6450
-Wire Wire Line
-	30300 6550 30750 6550
-Connection ~ 30300 6550
-Text Label 30750 6750 2    50   ~ 0
-T_GND
 $Comp
 L chordboard-components:GROVE_UART J8
 U 1 1 5CB271F5
@@ -581,10 +515,6 @@ Text Label 30500 10450 2    50   ~ 0
 ESP_RST
 Text Label 30500 10550 2    50   ~ 0
 ESP_D0
-Text Label 24800 13200 2    50   ~ 0
-T_TX4
-Text Label 24800 13400 2    50   ~ 0
-T_RX4
 Text Label 31100 10450 0    50   ~ 0
 ESP_GND
 Text Label 31100 10550 0    50   ~ 0
@@ -633,50 +563,6 @@ F 3 "" H 26100 7450 50  0001 C CNN
 	1    26100 7250
 	-1   0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 68454DB9
-P 36300 7300
-F 0 "H7" H 36400 7346 50  0000 L CNN
-F 1 "MountingHole" H 36400 7255 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7300 50  0001 C CNN
-F 3 "~" H 36300 7300 50  0001 C CNN
-	1    36300 7300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H8
-U 1 1 68454DBF
-P 36300 7500
-F 0 "H8" H 36400 7546 50  0000 L CNN
-F 1 "MountingHole" H 36400 7455 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7500 50  0001 C CNN
-F 3 "~" H 36300 7500 50  0001 C CNN
-	1    36300 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H9
-U 1 1 68454DC5
-P 36300 7700
-F 0 "H9" H 36400 7746 50  0000 L CNN
-F 1 "MountingHole" H 36400 7655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7700 50  0001 C CNN
-F 3 "~" H 36300 7700 50  0001 C CNN
-	1    36300 7700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H10
-U 1 1 68454DCB
-P 36300 7900
-F 0 "H10" H 36400 7946 50  0000 L CNN
-F 1 "MountingHole" H 36400 7855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7900 50  0001 C CNN
-F 3 "~" H 36300 7900 50  0001 C CNN
-	1    36300 7900
-	1    0    0    -1  
-$EndComp
 Text Label 29600 12100 0    50   ~ 0
 E_LED_DAT
 Text Label 30000 12800 0    50   ~ 0
@@ -691,10 +577,6 @@ Wire Wire Line
 	30000 12800 28900 12800
 Wire Wire Line
 	28900 12900 30000 12900
-Text Label 27150 12900 2    50   ~ 0
-E_ROTARY_INTA
-Text Label 27150 13000 2    50   ~ 0
-E_ROTARY_INTB
 $Comp
 L Switch:SW_DIP_x02 DIPSW1
 U 1 1 5C552149
@@ -731,40 +613,11 @@ $EndComp
 Wire Wire Line
 	24800 13200 25150 13200
 Wire Wire Line
-	24800 13400 25150 13400
-Wire Wire Line
 	25550 13200 27150 13200
 Wire Wire Line
 	27150 13400 25550 13400
 Text Label 26550 7150 2    50   ~ 0
 T_3V3
-Text Label 30750 6650 2    50   ~ 0
-T_3V3
-$Comp
-L Connector_Generic:Conn_01x07 J11
-U 1 1 5C5789FD
-P 32200 5500
-F 0 "J11" H 32120 6017 50  0000 C CNN
-F 1 "Conn_01x07" H 32120 5926 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 32200 5500 50  0001 C CNN
-F 3 "~" H 32200 5500 50  0001 C CNN
-	1    32200 5500
-	-1   0    0    -1  
-$EndComp
-Text Label 32400 5700 0    50   ~ 0
-MEMCARD_MISO
-Text Label 32400 5200 0    50   ~ 0
-MEMCARD_CS1
-Text Label 32400 5300 0    50   ~ 0
-MEMCARD_CS2
-Text Label 32400 5400 0    50   ~ 0
-MEMCARD_CS3
-Text Label 32400 5500 0    50   ~ 0
-MEMCARD_CS4
-Text Label 32400 5600 0    50   ~ 0
-MEMCARD_MOSI
-Text Label 32400 5800 0    50   ~ 0
-MEMCARD_SCK
 $Comp
 L teensy-36-components:Teensy3.6 TEE1
 U 1 1 5C5A5732
@@ -847,17 +700,6 @@ F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 27000 9800 50  0001 
 F 3 "" H 27000 9800 50  0001 C CNN
 	1    27000 9800
 	-1   0    0    -1  
-$EndComp
-$Comp
-L Regulator_Linear:AZ1117-3.3 U2
-U 1 1 5C502FAF
-P 33250 11800
-F 0 "U2" H 33250 12042 50  0000 C CNN
-F 1 "AZ1117-3.3" H 33250 11951 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 33250 12050 50  0001 C CIN
-F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 33250 11800 50  0001 C CNN
-	1    33250 11800
-	1    0    0    -1  
 $EndComp
 $Comp
 L Device:CP_Small C10
@@ -993,7 +835,586 @@ Wire Wire Line
 	32700 11650 32900 11650
 Connection ~ 32900 11650
 Wire Wire Line
-	32900 11650 32900 11500
+	32900 11650 32900 11550
+Connection ~ 33600 11650
+Wire Wire Line
+	33600 11650 33600 11500
+Text Label 34650 11650 0    50   ~ 0
+T_3V3
+Text Label 28750 6650 0    50   ~ 0
+RE3A
+Text Label 28750 6750 0    50   ~ 0
+RE3B
+Text Label 26550 6450 2    50   ~ 0
+MEMCARD_CS5
+Text Label 26550 6650 2    50   ~ 0
+MEMCARD_CS6
+Text Label 39200 6200 2    50   ~ 0
+MEMCARD_CS5
+Text Label 39200 6300 2    50   ~ 0
+MEMCARD_MISO
+Text Label 40100 6500 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 40100 6400 0    50   ~ 0
+MEMCARD_SCK
+Text Label 39200 6400 2    50   ~ 0
+T_3V3
+Text Label 40100 6300 0    50   ~ 0
+T_3V3
+Text Label 40100 6200 0    50   ~ 0
+T_3V3
+Text Label 39200 6500 2    50   ~ 0
+T_GND
+Wire Wire Line
+	40100 6200 40850 6200
+$Comp
+L Device:C_Small C15
+U 1 1 5C759767
+P 40850 6350
+F 0 "C15" H 40942 6396 50  0000 L CNN
+F 1 "C_Small" H 40942 6305 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 6350 50  0001 C CNN
+F 3 "~" H 40850 6350 50  0001 C CNN
+	1    40850 6350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	40850 6250 40850 6200
+Wire Wire Line
+	40850 6450 40850 6500
+Text Label 41100 6500 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:23LC1024 MEM5
+U 1 1 5C759777
+P 39650 6400
+F 0 "MEM5" H 39800 6750 50  0000 C CNN
+F 1 "23LC1024" H 39400 6750 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 6400 50  0001 C CNN
+F 3 "" H 39650 6400 50  0001 C CNN
+	1    39650 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	40850 6500 41100 6500
+Wire Wire Line
+	40850 5850 41100 5850
+Wire Wire Line
+	40850 5250 41100 5250
+Wire Wire Line
+	40850 4650 41100 4650
+Wire Wire Line
+	40850 4050 41100 4050
+Text Label 39200 6850 2    50   ~ 0
+MEMCARD_CS6
+Text Label 39200 6950 2    50   ~ 0
+MEMCARD_MISO
+Text Label 40100 7150 0    50   ~ 0
+MEMCARD_MOSI
+Text Label 40100 7050 0    50   ~ 0
+MEMCARD_SCK
+Text Label 39200 7050 2    50   ~ 0
+T_3V3
+Text Label 40100 6950 0    50   ~ 0
+T_3V3
+Text Label 40100 6850 0    50   ~ 0
+T_3V3
+Text Label 39200 7150 2    50   ~ 0
+T_GND
+Wire Wire Line
+	40100 6850 40850 6850
+$Comp
+L Device:C_Small C16
+U 1 1 5C9211CC
+P 40850 7000
+F 0 "C16" H 40942 7046 50  0000 L CNN
+F 1 "C_Small" H 40942 6955 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 40850 7000 50  0001 C CNN
+F 3 "~" H 40850 7000 50  0001 C CNN
+	1    40850 7000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	40850 6900 40850 6850
+Wire Wire Line
+	40850 7100 40850 7150
+Text Label 41100 7150 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:23LC1024 MEM6
+U 1 1 5C9211D5
+P 39650 7050
+F 0 "MEM6" H 39800 7400 50  0000 C CNN
+F 1 "23LC1024" H 39400 7400 50  0000 C CNN
+F 2 "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm" H 39650 7050 50  0001 C CNN
+F 3 "" H 39650 7050 50  0001 C CNN
+	1    39650 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	40850 7150 41100 7150
+Wire Wire Line
+	29250 4100 29400 4100
+Wire Wire Line
+	29850 4100 29900 4100
+Text Label 30050 3050 0    60   ~ 0
+T_SCL5
+Wire Wire Line
+	29650 3700 29650 3750
+$Comp
+L chordboard-components:R R36
+U 1 1 5AAABC5D
+P 29400 3900
+F 0 "R36" V 29450 4000 50  0000 L CNN
+F 1 "R" V 29400 3850 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 29400 3900 50  0001 C CNN
+F 3 "" H 29400 3900 50  0001 C CNN
+	1    29400 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:R R38
+U 1 1 5AAABC64
+P 29900 3900
+F 0 "R38" V 29950 4000 50  0000 L CNN
+F 1 "R" V 29900 3850 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 29900 3900 50  0001 C CNN
+F 3 "" H 29900 3900 50  0001 C CNN
+	1    29900 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	29900 4000 29900 4100
+Connection ~ 29900 4100
+Wire Wire Line
+	29400 4000 29400 4100
+Connection ~ 29400 4100
+Wire Wire Line
+	29900 3700 29900 3800
+Wire Wire Line
+	29400 3800 29400 3750
+Wire Wire Line
+	29400 3750 29650 3750
+Connection ~ 29650 3750
+Wire Wire Line
+	29250 3050 29400 3050
+Wire Wire Line
+	29850 3050 29900 3050
+Text Label 30050 4100 0    60   ~ 0
+T_SDA5
+Wire Wire Line
+	29650 2650 29650 2700
+$Comp
+L chordboard-components:R R35
+U 1 1 5AAABC8B
+P 29400 2850
+F 0 "R35" V 29450 2950 50  0000 L CNN
+F 1 "R" V 29400 2800 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 29400 2850 50  0001 C CNN
+F 3 "" H 29400 2850 50  0001 C CNN
+	1    29400 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:R R37
+U 1 1 5AAABC92
+P 29900 2850
+F 0 "R37" V 29950 2950 50  0000 L CNN
+F 1 "R" V 29900 2800 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 29900 2850 50  0001 C CNN
+F 3 "" H 29900 2850 50  0001 C CNN
+	1    29900 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	29900 2950 29900 3050
+Connection ~ 29900 3050
+Wire Wire Line
+	29400 2950 29400 3050
+Connection ~ 29400 3050
+Wire Wire Line
+	29900 2650 29900 2750
+Wire Wire Line
+	29400 2750 29400 2700
+Wire Wire Line
+	29400 2700 29650 2700
+Connection ~ 29650 2700
+Wire Wire Line
+	29900 4100 30050 4100
+Wire Wire Line
+	29400 4100 29450 4100
+Wire Wire Line
+	29650 3750 29650 3800
+Wire Wire Line
+	29900 3050 30050 3050
+Wire Wire Line
+	29400 3050 29450 3050
+Wire Wire Line
+	29650 2700 29650 2750
+Text Label 29650 2650 1    50   ~ 0
+T_3V3
+Text Label 29650 3700 1    50   ~ 0
+T_3V3
+Text Label 29900 2650 1    50   ~ 0
+T_5V
+Text Label 29900 3700 1    50   ~ 0
+T_5V
+Text Label 29250 3050 2    50   ~ 0
+T_SCL
+Text Label 29250 4100 2    50   ~ 0
+T_SDA
+$Comp
+L chordboard-components:GROVE_I2C J12
+U 1 1 5CC17C95
+P 33250 4350
+F 0 "J12" H 33577 4401 50  0000 L CNN
+F 1 "T_I2C0_3V" H 33577 4310 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 33250 4350 50  0001 C CNN
+F 3 "" H 33250 4350 50  0001 C CNN
+	1    33250 4350
+	1    0    0    -1  
+$EndComp
+Text Label 33050 4500 2    50   ~ 0
+T_GND
+Text Label 33050 4400 2    50   ~ 0
+T_3V3
+Text Label 33050 4200 2    50   ~ 0
+T_SCL
+Text Label 33050 4300 2    50   ~ 0
+T_SDA
+$Comp
+L chordboard-components:GROVE_I2C J13
+U 1 1 5E22B536
+P 33700 3550
+F 0 "J13" H 34027 3601 50  0000 L CNN
+F 1 "T_I2C0_5V" H 34027 3510 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 33700 3550 50  0001 C CNN
+F 3 "" H 33700 3550 50  0001 C CNN
+	1    33700 3550
+	1    0    0    -1  
+$EndComp
+Text Label 33500 3700 2    50   ~ 0
+T_GND
+Text Label 33500 3400 2    50   ~ 0
+T_SCL5
+Text Label 33500 3500 2    50   ~ 0
+T_SDA5
+Text Label 33500 3600 2    50   ~ 0
+T_5V
+$Comp
+L chordboard-components:GROVE_I2C J1
+U 1 1 5E22B535
+P 32100 4350
+F 0 "J1" H 32427 4401 50  0000 L CNN
+F 1 "T_I2C0_3V" H 32427 4310 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 32100 4350 50  0001 C CNN
+F 3 "" H 32100 4350 50  0001 C CNN
+	1    32100 4350
+	1    0    0    -1  
+$EndComp
+Text Label 31900 4500 2    50   ~ 0
+T_GND
+Text Label 31900 4400 2    50   ~ 0
+T_3V3
+Text Label 31900 4200 2    50   ~ 0
+T_SCL
+Text Label 31900 4300 2    50   ~ 0
+T_SDA
+$Comp
+L chordboard-components:GROVE_I2C J2
+U 1 1 5CE3402E
+P 32600 3550
+F 0 "J2" H 32927 3601 50  0000 L CNN
+F 1 "T_I2C0_5V" H 32927 3510 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 32600 3550 50  0001 C CNN
+F 3 "" H 32600 3550 50  0001 C CNN
+	1    32600 3550
+	1    0    0    -1  
+$EndComp
+Text Label 32400 3700 2    50   ~ 0
+T_GND
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5D133AA3
+P 36400 8950
+F 0 "H4" H 36500 8996 50  0000 L CNN
+F 1 "MountingHole" H 36500 8905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36400 8950 50  0001 C CNN
+F 3 "~" H 36400 8950 50  0001 C CNN
+	1    36400 8950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5D133AAA
+P 36400 8750
+F 0 "H3" H 36500 8796 50  0000 L CNN
+F 1 "MountingHole" H 36500 8705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36400 8750 50  0001 C CNN
+F 3 "~" H 36400 8750 50  0001 C CNN
+	1    36400 8750
+	1    0    0    -1  
+$EndComp
+Text Label 32400 3400 2    50   ~ 0
+T_SCL5
+Text Label 32400 3500 2    50   ~ 0
+T_SDA5
+Text Label 32400 3600 2    50   ~ 0
+T_5V
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 68454DBF
+P 36300 7500
+F 0 "H8" H 36400 7546 50  0000 L CNN
+F 1 "MountingHole" H 36400 7455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7500 50  0001 C CNN
+F 3 "~" H 36300 7500 50  0001 C CNN
+	1    36300 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 68454DB9
+P 36300 7300
+F 0 "H7" H 36400 7346 50  0000 L CNN
+F 1 "MountingHole" H 36400 7255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7300 50  0001 C CNN
+F 3 "~" H 36300 7300 50  0001 C CNN
+	1    36300 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q2
+U 1 1 5CEA9442
+P 29650 4000
+F 0 "Q2" V 29900 4000 50  0000 C CNN
+F 1 "2N7000" V 29991 4000 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 29850 3925 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 29650 4000 50  0001 L CNN
+	1    29650 4000
+	0    1    1    0   
+$EndComp
+Text Label 28750 7950 0    50   ~ 0
+RX5
+Text Label 28750 8050 0    50   ~ 0
+TX5
+$Comp
+L chordboard-components:GROVE_UART J15
+U 1 1 5CF31DCB
+P 30500 12250
+F 0 "J15" H 30827 12301 50  0000 L CNN
+F 1 "E_UART1" H 30827 12210 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 30500 12250 50  0001 C CNN
+F 3 "" H 30500 12250 50  0001 C CNN
+	1    30500 12250
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	28900 12400 30300 12400
+Wire Wire Line
+	30300 12300 28900 12300
+Text Label 30300 12100 2    50   ~ 0
+T_GND
+Text Label 30300 12200 2    50   ~ 0
+T_3V3
+$Comp
+L chordboard-components:GROVE_UART J11
+U 1 1 5CFC15B7
+P 25500 7900
+F 0 "J11" H 25827 7951 50  0000 L CNN
+F 1 "T_UART4" H 25827 7860 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 25500 7900 50  0001 C CNN
+F 3 "" H 25500 7900 50  0001 C CNN
+	1    25500 7900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	26550 8050 25700 8050
+Wire Wire Line
+	25700 7950 26550 7950
+Text Label 25700 7750 0    50   ~ 0
+T_GND
+$Comp
+L chordboard-components:GROVE_I2C J16
+U 1 1 5D055BDF
+P 31400 3550
+F 0 "J16" H 31727 3601 50  0000 L CNN
+F 1 "T_I2C0_5V" H 31727 3510 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 31400 3550 50  0001 C CNN
+F 3 "" H 31400 3550 50  0001 C CNN
+	1    31400 3550
+	1    0    0    -1  
+$EndComp
+Text Label 31200 3700 2    50   ~ 0
+T_GND
+Text Label 31200 3600 2    50   ~ 0
+T_5V
+Wire Wire Line
+	30050 3500 30050 4100
+Wire Wire Line
+	30050 3500 31200 3500
+Wire Wire Line
+	30050 3400 30050 3050
+Wire Wire Line
+	30050 3400 31200 3400
+$Comp
+L chordboard-components:GROVE_UART J4
+U 1 1 5D0A7484
+P 23400 13250
+F 0 "J4" H 23727 13301 50  0000 L CNN
+F 1 "E_UART2" H 23727 13210 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 23400 13250 50  0001 C CNN
+F 3 "" H 23400 13250 50  0001 C CNN
+	1    23400 13250
+	-1   0    0    1   
+$EndComp
+Text Label 23600 13100 0    50   ~ 0
+ESP_GND
+Text Label 23600 13200 0    50   ~ 0
+ESP_3V
+Wire Wire Line
+	23600 13400 25150 13400
+Wire Wire Line
+	24800 13300 24800 13200
+Wire Wire Line
+	23600 13300 24800 13300
+Text Label 25700 7850 0    50   ~ 0
+T_5V
+Text Label 24800 13400 2    50   ~ 0
+T_RX4
+Text Label 24800 13200 2    50   ~ 0
+T_TX4
+$Comp
+L chordboard-components:DMPCM5102 U3
+U 1 1 5D1B1E66
+P 21700 13150
+F 0 "U3" H 21775 12313 60  0000 C CNN
+F 1 "DMPCM5102" H 21775 12419 60  0000 C CNN
+F 2 "chordboard-footprints:DMPCM5102_BLACK" H 21700 13150 60  0001 C CNN
+F 3 "" H 21700 13150 60  0001 C CNN
+	1    21700 13150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	27150 12800 22250 12800
+Wire Wire Line
+	27150 12900 22250 12900
+Wire Wire Line
+	27150 13000 22250 13000
+Text Label 32100 11550 2    50   ~ 0
+T_5V
+Wire Wire Line
+	32900 11550 32100 11550
+Connection ~ 32900 11550
+Wire Wire Line
+	32900 11550 32900 11500
+Text Label 22250 13600 0    50   ~ 0
+T_5V
+$Comp
+L Connector_Generic:Conn_01x03 J3
+U 1 1 5D1D6E12
+P 20600 13450
+F 0 "J3" H 20520 13767 50  0000 C CNN
+F 1 "Conn_01x03" H 20520 13676 50  0000 C CNN
+F 2 "Connector_JST:JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical" H 20600 13450 50  0001 C CNN
+F 3 "~" H 20600 13450 50  0001 C CNN
+	1    20600 13450
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	20800 13350 21000 13350
+Wire Wire Line
+	21000 13450 20800 13450
+Wire Wire Line
+	20800 13550 21000 13550
+Text Label 22250 13400 0    50   ~ 0
+DAC_GND
+Wire Wire Line
+	22250 13400 22700 13400
+Wire Wire Line
+	22700 13400 22700 13900
+$Comp
+L Jumper:Jumper_2_Bridged JP1
+U 1 1 5D1EB879
+P 22700 14100
+F 0 "JP1" H 22700 14295 50  0000 C CNN
+F 1 "Jumper_2_Bridged" H 22700 14204 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 22700 14100 50  0001 C CNN
+F 3 "~" H 22700 14100 50  0001 C CNN
+	1    22700 14100
+	0    1    1    0   
+$EndComp
+Text Label 22700 14450 2    50   ~ 0
+T_GND
+Wire Wire Line
+	22700 14450 22700 14300
+Text Label 22250 13500 0    50   ~ 0
+DAC_3V3
+Text Label 22250 12600 0    50   ~ 0
+DAC_3V3
+Wire Wire Line
+	22250 12600 22650 12600
+$Comp
+L Jumper:Jumper_2_Open JP2
+U 1 1 5D1FD36D
+P 22850 12600
+F 0 "JP2" H 22850 12835 50  0000 C CNN
+F 1 "Jumper_2_Open" H 22850 12744 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 22850 12600 50  0001 C CNN
+F 3 "~" H 22850 12600 50  0001 C CNN
+	1    22850 12600
+	1    0    0    -1  
+$EndComp
+Text Label 23150 12600 0    50   ~ 0
+T_5V
+Wire Wire Line
+	23150 12600 23050 12600
+Wire Wire Line
+	22250 13300 22700 13300
+Wire Wire Line
+	22700 13300 22700 13400
+Connection ~ 22700 13400
+Wire Wire Line
+	22250 13200 22700 13200
+Wire Wire Line
+	22700 13200 22700 13300
+Connection ~ 22700 13300
+Wire Wire Line
+	22250 13100 22700 13100
+Wire Wire Line
+	22700 13100 22700 13200
+Connection ~ 22700 13200
+Wire Wire Line
+	22250 12700 22700 12700
+Wire Wire Line
+	22700 12700 22700 13100
+Connection ~ 22700 13100
+Wire Wire Line
+	32400 3400 31200 3400
+Connection ~ 31200 3400
+Wire Wire Line
+	31200 3500 32400 3500
+Connection ~ 31200 3500
+Wire Wire Line
+	32400 3600 31200 3600
+Wire Wire Line
+	32400 3700 31200 3700
+Wire Wire Line
+	33500 3400 32400 3400
+Connection ~ 32400 3400
+Wire Wire Line
+	32400 3500 33500 3500
+Connection ~ 32400 3500
+Wire Wire Line
+	33500 3600 32400 3600
+Connection ~ 32400 3600
+Wire Wire Line
+	32400 3700 33500 3700
+Connection ~ 32400 3700
+Wire Wire Line
+	34400 11650 34650 11650
+Wire Wire Line
+	33600 11650 34000 11650
 $Comp
 L Jumper:Jumper_2_Bridged JP13
 U 1 1 5CAB3550
@@ -1005,2052 +1426,72 @@ F 3 "~" H 34200 11650 50  0001 C CNN
 	1    34200 11650
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	33600 11650 34000 11650
-Connection ~ 33600 11650
-Wire Wire Line
-	33600 11650 33600 11500
-Wire Wire Line
-	34400 11650 34650 11650
-Text Label 34650 11650 0    50   ~ 0
-T_3V3
 $Comp
-L Mechanical:MountingHole H6
-U 1 1 5F709CF4
-P 36300 7100
-F 0 "H6" H 36400 7146 50  0000 L CNN
-F 1 "MountingHole" H 36400 7055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7100 50  0001 C CNN
-F 3 "~" H 36300 7100 50  0001 C CNN
-	1    36300 7100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H5
-U 1 1 5F709EF6
-P 36300 6900
-F 0 "H5" H 36400 6946 50  0000 L CNN
-F 1 "MountingHole" H 36400 6855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 6900 50  0001 C CNN
-F 3 "~" H 36300 6900 50  0001 C CNN
-	1    36300 6900
-	1    0    0    -1  
-$EndComp
-Text Label 28750 7650 0    50   ~ 0
-RE1B
-Text Label 28750 7550 0    50   ~ 0
-RE1A
-Text Label 28750 7750 0    50   ~ 0
-RE2A
-Text Label 28750 7850 0    50   ~ 0
-RE2B
-Text Label 28750 6650 0    50   ~ 0
-RE3A
-Text Label 28750 6750 0    50   ~ 0
-RE3B
-$Comp
-L 74xx:74LS126 U3
-U 1 1 5C6762DA
-P 37100 4300
-F 0 "U3" H 37100 4524 50  0000 C CNN
-F 1 "74LS126" H 37100 4615 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 37100 4300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 37100 4300 50  0001 C CNN
-	1    37100 4300
-	1    0    0    1   
-$EndComp
-$Comp
-L 74xx:74LS126 U3
-U 2 1 5C6766B1
-P 37100 4850
-F 0 "U3" H 37100 5074 50  0000 C CNN
-F 1 "74LS126" H 37100 5165 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 37100 4850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 37100 4850 50  0001 C CNN
-	2    37100 4850
-	1    0    0    1   
-$EndComp
-$Comp
-L 74xx:74LS126 U3
-U 3 1 5C6773F3
-P 37100 5500
-F 0 "U3" H 37100 5724 50  0000 C CNN
-F 1 "74LS126" H 37100 5815 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 37100 5500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 37100 5500 50  0001 C CNN
-	3    37100 5500
-	1    0    0    1   
-$EndComp
-$Comp
-L 74xx:74LS126 U3
-U 5 1 5C677690
-P 35700 5400
-F 0 "U3" H 35930 5446 50  0000 L CNN
-F 1 "74LS126" H 35930 5355 50  0000 L CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 35700 5400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 35700 5400 50  0001 C CNN
-	5    35700 5400
-	1    0    0    -1  
-$EndComp
-Text Label 26550 6450 2    50   ~ 0
-MEMCARD_CS5
-Text Label 26550 6650 2    50   ~ 0
-MEMCARD_CS6
-Text Label 33650 9150 2    50   ~ 0
-MEMCARD_CS4
-Text Label 33650 9250 2    50   ~ 0
-MEMCARD_MISO
-Text Label 34550 9450 0    50   ~ 0
-MEMCARD_MOSI
-Text Label 34550 9350 0    50   ~ 0
-MEMCARD_SCK
-Text Label 33650 9350 2    50   ~ 0
-T_3V3
-Text Label 34550 9250 0    50   ~ 0
-T_3V3
-Text Label 34550 9150 0    50   ~ 0
-T_3V3
-Text Label 33650 9450 2    50   ~ 0
-T_GND
-Wire Wire Line
-	34550 9150 35300 9150
-$Comp
-L Device:C_Small C15
-U 1 1 5C759767
-P 35300 9300
-F 0 "C15" H 35392 9346 50  0000 L CNN
-F 1 "C_Small" H 35392 9255 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 9300 50  0001 C CNN
-F 3 "~" H 35300 9300 50  0001 C CNN
-	1    35300 9300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	35300 9200 35300 9150
-Wire Wire Line
-	35300 9400 35300 9450
-Text Label 35550 9450 0    50   ~ 0
-T_GND
-$Comp
-L chordboard-components:23LC1024 MEM5
-U 1 1 5C759777
-P 34100 9350
-F 0 "MEM5" H 34250 9700 50  0000 C CNN
-F 1 "23LC1024" H 33850 9700 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 9350 50  0001 C CNN
-F 3 "" H 34100 9350 50  0001 C CNN
-	1    34100 9350
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	35300 9450 35550 9450
-Wire Wire Line
-	35300 8800 35550 8800
-Wire Wire Line
-	35300 8200 35550 8200
-Wire Wire Line
-	35300 7600 35550 7600
-Wire Wire Line
-	35300 7000 35550 7000
-$Comp
-L 74xx:74LS126 U3
-U 4 1 5C91F99F
-P 37100 6150
-F 0 "U3" H 37100 6374 50  0000 C CNN
-F 1 "74LS126" H 37100 6465 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 37100 6150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS126" H 37100 6150 50  0001 C CNN
-	4    37100 6150
-	1    0    0    1   
-$EndComp
-Text Label 33650 9800 2    50   ~ 0
-MEMCARD_CS4
-Text Label 33650 9900 2    50   ~ 0
-MEMCARD_MISO
-Text Label 34550 10100 0    50   ~ 0
-MEMCARD_MOSI
-Text Label 34550 10000 0    50   ~ 0
-MEMCARD_SCK
-Text Label 33650 10000 2    50   ~ 0
-T_3V3
-Text Label 34550 9900 0    50   ~ 0
-T_3V3
-Text Label 34550 9800 0    50   ~ 0
-T_3V3
-Text Label 33650 10100 2    50   ~ 0
-T_GND
-Wire Wire Line
-	34550 9800 35300 9800
-$Comp
-L Device:C_Small C16
-U 1 1 5C9211CC
-P 35300 9950
-F 0 "C16" H 35392 9996 50  0000 L CNN
-F 1 "C_Small" H 35392 9905 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 35300 9950 50  0001 C CNN
-F 3 "~" H 35300 9950 50  0001 C CNN
-	1    35300 9950
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	35300 9850 35300 9800
-Wire Wire Line
-	35300 10050 35300 10100
-Text Label 35550 10100 0    50   ~ 0
-T_GND
-$Comp
-L chordboard-components:23LC1024 MEM6
-U 1 1 5C9211D5
-P 34100 10000
-F 0 "MEM6" H 34250 10350 50  0000 C CNN
-F 1 "23LC1024" H 33850 10350 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 34100 10000 50  0001 C CNN
-F 3 "" H 34100 10000 50  0001 C CNN
-	1    34100 10000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	35300 10100 35550 10100
-$Comp
-L Battery_Management:MCP73832-2-OT U4
-U 1 1 5CA01B8F
-P 38700 8750
-F 0 "U4" H 38700 9228 50  0000 C CNN
-F 1 "MCP73832-2-OT" H 38700 9137 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-5" H 38750 8500 50  0001 L CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 38550 8700 50  0001 C CNN
-	1    38700 8750
-	1    0    0    -1  
-$EndComp
-$Comp
-L chordboard-rescue:BSS138-Transistor-leftpad-rescue Q2
-U 1 1 5AAABC4B
-P 36650 16600
-F 0 "Q2" H 36850 16675 50  0000 L CNN
-F 1 "BSS138" H 36850 16600 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 36850 16525 50  0001 L CIN
-F 3 "" H 36650 16600 50  0001 L CNN
-	1    36650 16600
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	36250 16700 36400 16700
-Wire Wire Line
-	36850 16700 36900 16700
-Text Label 37050 16700 0    60   ~ 0
-SCL5
-Wire Wire Line
-	36650 16300 36650 16350
-$Comp
-L chordboard-rescue:+3.3V-leftpad-rescue-leftpad-rescue #PWR0104
-U 1 1 5AAABC57
-P 36650 16300
-F 0 "#PWR0104" H 36650 16150 50  0001 C CNN
-F 1 "+3.3V" H 36650 16440 50  0000 C CNN
-F 2 "" H 36650 16300 50  0001 C CNN
-F 3 "" H 36650 16300 50  0001 C CNN
-	1    36650 16300
-	1    0    0    1   
-$EndComp
-$Comp
-L chordboard-components:R R36
-U 1 1 5AAABC5D
-P 36400 16500
-F 0 "R36" V 36450 16600 50  0000 L CNN
-F 1 "R" V 36400 16450 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 36400 16500 50  0001 C CNN
-F 3 "" H 36400 16500 50  0001 C CNN
-	1    36400 16500
-	1    0    0    -1  
-$EndComp
-$Comp
-L chordboard-components:R R38
-U 1 1 5AAABC64
-P 36900 16500
-F 0 "R38" V 36950 16600 50  0000 L CNN
-F 1 "R" V 36900 16450 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 36900 16500 50  0001 C CNN
-F 3 "" H 36900 16500 50  0001 C CNN
-	1    36900 16500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	36900 16600 36900 16700
-Connection ~ 36900 16700
-Wire Wire Line
-	36400 16600 36400 16700
-Connection ~ 36400 16700
-Wire Wire Line
-	36900 16300 36900 16400
-Wire Wire Line
-	36400 16400 36400 16350
-Wire Wire Line
-	36400 16350 36650 16350
-Connection ~ 36650 16350
-$Comp
-L chordboard-rescue:BSS138-Transistor-leftpad-rescue Q1
-U 1 1 5AAABC79
-P 36650 15550
-F 0 "Q1" H 36850 15625 50  0000 L CNN
-F 1 "BSS138" H 36850 15550 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23" H 36850 15475 50  0001 L CIN
-F 3 "" H 36650 15550 50  0001 L CNN
-	1    36650 15550
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	36250 15650 36400 15650
-Wire Wire Line
-	36850 15650 36900 15650
-Text Label 37050 15650 0    60   ~ 0
-SDA5
-Wire Wire Line
-	36650 15250 36650 15300
-$Comp
-L chordboard-rescue:+3.3V-leftpad-rescue-leftpad-rescue #PWR0105
-U 1 1 5AAABC85
-P 36650 15250
-F 0 "#PWR0105" H 36650 15100 50  0001 C CNN
-F 1 "+3.3V" H 36650 15390 50  0000 C CNN
-F 2 "" H 36650 15250 50  0001 C CNN
-F 3 "" H 36650 15250 50  0001 C CNN
-	1    36650 15250
-	1    0    0    1   
-$EndComp
-$Comp
-L chordboard-components:R R35
-U 1 1 5AAABC8B
-P 36400 15450
-F 0 "R35" V 36450 15550 50  0000 L CNN
-F 1 "R" V 36400 15400 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 36400 15450 50  0001 C CNN
-F 3 "" H 36400 15450 50  0001 C CNN
-	1    36400 15450
-	1    0    0    -1  
-$EndComp
-$Comp
-L chordboard-components:R R37
-U 1 1 5AAABC92
-P 36900 15450
-F 0 "R37" V 36950 15550 50  0000 L CNN
-F 1 "R" V 36900 15400 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 36900 15450 50  0001 C CNN
-F 3 "" H 36900 15450 50  0001 C CNN
-	1    36900 15450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	36900 15550 36900 15650
-Connection ~ 36900 15650
-Wire Wire Line
-	36400 15550 36400 15650
-Connection ~ 36400 15650
-Wire Wire Line
-	36900 15250 36900 15350
-Wire Wire Line
-	36400 15350 36400 15300
-Wire Wire Line
-	36400 15300 36650 15300
-Connection ~ 36650 15300
-Wire Wire Line
-	36900 16700 37050 16700
-Wire Wire Line
-	36400 16700 36450 16700
-Wire Wire Line
-	36650 16350 36650 16400
-Wire Wire Line
-	36900 15650 37050 15650
-Wire Wire Line
-	36400 15650 36450 15650
-Wire Wire Line
-	36650 15300 36650 15350
-Text Label 36650 15250 1    50   ~ 0
-T_3V3
-Text Label 36650 16300 1    50   ~ 0
-T_3V3
-Text Label 36900 15250 1    50   ~ 0
-T_5V
-Text Label 36900 16300 1    50   ~ 0
-T_5V
-Text Label 36250 15650 2    50   ~ 0
-T_SCL
-Text Label 36250 16700 2    50   ~ 0
-T_SDA
-$Comp
-L chordboard-components:GROVE_I2C J12
-U 1 1 5CC17C95
-P 41700 18900
-F 0 "J12" H 42027 18951 50  0000 L CNN
-F 1 "T_I2C0" H 42027 18860 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 41700 18900 50  0001 C CNN
-F 3 "" H 41700 18900 50  0001 C CNN
-	1    41700 18900
-	1    0    0    -1  
-$EndComp
-Text Label 41500 19050 2    50   ~ 0
-T_GND
-Text Label 41500 18950 2    50   ~ 0
-T_3V3
-Text Label 41500 18750 2    50   ~ 0
-T_SCL
-Text Label 41500 18850 2    50   ~ 0
-T_SDA
-$Comp
-L chordboard-components:GROVE_I2C J13
-U 1 1 5E22B536
-P 41700 19450
-F 0 "J13" H 42027 19501 50  0000 L CNN
-F 1 "T_I2C0" H 42027 19410 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 41700 19450 50  0001 C CNN
-F 3 "" H 41700 19450 50  0001 C CNN
-	1    41700 19450
-	1    0    0    -1  
-$EndComp
-Text Label 41500 19600 2    50   ~ 0
-T_GND
-$Comp
-L Mechanical:MountingHole H14
-U 1 1 5E22B537
-P 40500 16350
-F 0 "H14" H 40600 16396 50  0000 L CNN
-F 1 "MountingHole" H 40600 16305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 40500 16350 50  0001 C CNN
-F 3 "~" H 40500 16350 50  0001 C CNN
-	1    40500 16350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H13
-U 1 1 5E22B538
-P 40500 16150
-F 0 "H13" H 40600 16196 50  0000 L CNN
-F 1 "MountingHole" H 40600 16105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 40500 16150 50  0001 C CNN
-F 3 "~" H 40500 16150 50  0001 C CNN
-	1    40500 16150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H12
-U 1 1 5E22B539
-P 40500 15950
-F 0 "H12" H 40600 15996 50  0000 L CNN
-F 1 "MountingHole" H 40600 15905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 40500 15950 50  0001 C CNN
-F 3 "~" H 40500 15950 50  0001 C CNN
-	1    40500 15950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H11
-U 1 1 5E22B53A
-P 40500 15750
-F 0 "H11" H 40600 15796 50  0000 L CNN
-F 1 "MountingHole" H 40600 15705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 40500 15750 50  0001 C CNN
-F 3 "~" H 40500 15750 50  0001 C CNN
-	1    40500 15750
-	1    0    0    -1  
-$EndComp
-Text Label 41500 19300 2    50   ~ 0
-T_SCL5
-Text Label 41500 19400 2    50   ~ 0
-T_SDA5
-Text Label 41500 19500 2    50   ~ 0
-T_5V
-$Comp
-L Device:Rotary_Encoder RE7
-U 1 1 5E22B546
-P 41850 20650
-F 0 "RE7" H 42079 20696 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 20605 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 20810 50  0001 C CNN
-F 3 "~" H 41850 20910 50  0001 C CNN
-	1    41850 20650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE8
-U 1 1 5C57B090
-P 41850 21200
-F 0 "RE8" H 42079 21246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 21155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 21360 50  0001 C CNN
-F 3 "~" H 41850 21460 50  0001 C CNN
-	1    41850 21200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE9
-U 1 1 5C57B1A0
-P 41850 21700
-F 0 "RE9" H 42079 21746 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 21655 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 21860 50  0001 C CNN
-F 3 "~" H 41850 21960 50  0001 C CNN
-	1    41850 21700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE10
-U 1 1 5C57B2B8
-P 41850 22200
-F 0 "RE10" H 42079 22246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 22155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 22360 50  0001 C CNN
-F 3 "~" H 41850 22460 50  0001 C CNN
-	1    41850 22200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	39700 20550 41550 20550
-Wire Wire Line
-	41250 20650 39700 20650
-Wire Wire Line
-	39700 21850 39900 21850
-Wire Wire Line
-	39700 21950 39900 21950
-Wire Wire Line
-	39900 22050 39700 22050
-Wire Wire Line
-	39700 22150 39900 22150
-Text Label 41550 20650 2    50   ~ 0
-T_GND
-Text Label 38300 20650 2    50   ~ 0
-T_SCL
-Text Label 38300 20550 2    50   ~ 0
-T_SDA
-Text Label 39000 20250 0    50   ~ 0
-T_3V3
-Text Label 39000 22450 0    50   ~ 0
-T_GND
-Text Label 38300 21450 2    50   ~ 0
-T_3V3
-Wire Wire Line
-	39000 20050 39600 20050
-$Comp
-L Device:C_Small C17
-U 1 1 5C57BC56
-P 39600 20200
-F 0 "C17" H 39692 20246 50  0000 L CNN
-F 1 "C_Small" H 39692 20155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 39600 20200 50  0001 C CNN
-F 3 "~" H 39600 20200 50  0001 C CNN
-	1    39600 20200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	39600 20100 39600 20050
-Wire Wire Line
-	39600 20050 39800 20050
-Wire Wire Line
-	39800 20050 39800 20100
-Connection ~ 39600 20050
-Wire Wire Line
-	39600 20300 39600 20350
-Wire Wire Line
-	39600 20350 39800 20350
-Wire Wire Line
-	39800 20350 39800 20300
-Text Label 39850 20350 0    50   ~ 0
-T_GND
-Wire Wire Line
-	39850 20350 39800 20350
-Connection ~ 39800 20350
-Wire Wire Line
-	39000 20050 39000 20250
-Text Label 38300 22150 2    50   ~ 0
-T_GND
-$Comp
-L Interface_Expansion:MCP23017_SO IO2
-U 1 1 5C57BC68
-P 39000 21350
-F 0 "IO2" H 38550 22300 50  0000 C CNN
-F 1 "MCP23017_SO" H 38850 21750 50  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 39200 20350 50  0001 L CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 39200 20250 50  0001 L CNN
-	1    39000 21350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C18
-U 1 1 5E22B52B
-P 39800 20200
-F 0 "C18" H 39892 20246 50  0000 L CNN
-F 1 "C_Small" H 39892 20155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 39800 20200 50  0001 C CNN
-F 3 "~" H 39800 20200 50  0001 C CNN
-	1    39800 20200
-	1    0    0    -1  
-$EndComp
-Text Label 41550 21200 2    50   ~ 0
-T_GND
-Text Label 41550 21700 2    50   ~ 0
-T_GND
-Text Label 41550 22200 2    50   ~ 0
-T_GND
-Wire Wire Line
-	41250 20650 41250 20750
-Wire Wire Line
-	41250 20750 41550 20750
-Wire Wire Line
-	41550 21100 41150 21100
-Wire Wire Line
-	41150 21100 41150 20750
-Wire Wire Line
-	39700 20750 41150 20750
-Wire Wire Line
-	41050 20850 41050 21300
-Wire Wire Line
-	41050 21300 41550 21300
-Wire Wire Line
-	39700 20850 41050 20850
-Wire Wire Line
-	40950 20950 40950 21600
-Wire Wire Line
-	40950 21600 41550 21600
-Wire Wire Line
-	39700 20950 40950 20950
-Wire Wire Line
-	41550 21800 40850 21800
-Wire Wire Line
-	40850 21800 40850 21050
-Wire Wire Line
-	39700 21050 40850 21050
-Wire Wire Line
-	40750 21150 40750 22100
-Wire Wire Line
-	40750 22100 41550 22100
-Wire Wire Line
-	39700 21150 40750 21150
-Wire Wire Line
-	41550 22300 40650 22300
-Wire Wire Line
-	40650 22300 40650 21250
-Wire Wire Line
-	39700 21250 40650 21250
-$Comp
-L Device:Rotary_Encoder RE11
-U 1 1 5CBC5B63
-P 41850 22700
-F 0 "RE11" H 42079 22746 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 22655 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 22860 50  0001 C CNN
-F 3 "~" H 41850 22960 50  0001 C CNN
-	1    41850 22700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE12
-U 1 1 5CBC5B69
-P 41850 23200
-F 0 "RE12" H 42079 23246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 42079 23155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 41700 23360 50  0001 C CNN
-F 3 "~" H 41850 23460 50  0001 C CNN
-	1    41850 23200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	40550 21450 40550 22600
-Wire Wire Line
-	40550 22600 41550 22600
-Wire Wire Line
-	39700 21450 40550 21450
-Wire Wire Line
-	41550 22800 40450 22800
-Wire Wire Line
-	40450 22800 40450 21550
-Wire Wire Line
-	39700 21550 40450 21550
-Wire Wire Line
-	40350 21650 40350 23100
-Wire Wire Line
-	40350 23100 41550 23100
-Wire Wire Line
-	39700 21650 40350 21650
-Wire Wire Line
-	41550 23300 40250 23300
-Wire Wire Line
-	40250 23300 40250 21750
-Wire Wire Line
-	39700 21750 40250 21750
-Text Label 41550 22700 2    50   ~ 0
-T_GND
-Text Label 41550 23200 2    50   ~ 0
-T_GND
-Text Label 47050 11550 2    50   ~ 0
-T_3V3
-Text Label 47050 11650 2    50   ~ 0
-T_GND
-Text Label 47050 11450 2    50   ~ 0
-T_GND
-Wire Wire Line
-	47750 9550 47750 9750
-Wire Wire Line
-	48600 9850 48550 9850
-Text Label 48600 9850 0    50   ~ 0
-T_GND
-Wire Wire Line
-	48550 9850 48550 9800
-Connection ~ 48550 9850
-Wire Wire Line
-	48350 9850 48550 9850
-Wire Wire Line
-	48350 9800 48350 9850
-Wire Wire Line
-	48550 9550 48550 9600
-Wire Wire Line
-	48350 9550 48550 9550
-Wire Wire Line
-	48350 9600 48350 9550
-$Comp
-L Device:C_Small C19
-U 1 1 5DA49C2C
-P 48350 9700
-F 0 "C19" H 48442 9746 50  0000 L CNN
-F 1 "C_Small" H 48442 9655 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 48350 9700 50  0001 C CNN
-F 3 "~" H 48350 9700 50  0001 C CNN
-	1    48350 9700
-	1    0    0    -1  
-$EndComp
-Connection ~ 48350 9550
-Wire Wire Line
-	47750 9550 48350 9550
-Connection ~ 47750 9550
-Wire Wire Line
-	47750 9500 47750 9550
-Text Label 47050 10950 2    50   ~ 0
-T_3V3
-Text Label 47750 11950 0    50   ~ 0
-T_GND
-Text Label 47750 9750 0    50   ~ 0
-T_3V3
-Text Label 47050 10050 2    50   ~ 0
-T_SDA
-Text Label 47050 10150 2    50   ~ 0
-T_SCL
-$Comp
-L Interface_Expansion:MCP23017_SP MCP1
-U 1 1 5DA49C3C
-P 47750 10850
-F 0 "MCP1" H 47750 12128 50  0000 C CNN
-F 1 "MCP23017_SP" H 47750 12037 50  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 47950 9850 50  0001 L CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 47950 9750 50  0001 L CNN
-	1    47750 10850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	48450 11650 48650 11650
-Wire Wire Line
-	48650 11550 48450 11550
-Wire Wire Line
-	48450 11450 48650 11450
-Wire Wire Line
-	48450 11350 48650 11350
-Wire Wire Line
-	48450 11250 48650 11250
-Wire Wire Line
-	48450 11150 48650 11150
-Wire Wire Line
-	48450 11050 48650 11050
-Wire Wire Line
-	48650 10950 48450 10950
-Wire Wire Line
-	48450 10750 48650 10750
-Wire Wire Line
-	48650 10650 48450 10650
-Wire Wire Line
-	48450 10550 48650 10550
-Wire Wire Line
-	48450 10450 48650 10450
-Wire Wire Line
-	48650 10350 48450 10350
-Wire Wire Line
-	48450 10250 48650 10250
-Wire Wire Line
-	48650 10150 48450 10150
-Wire Wire Line
-	48450 10050 48650 10050
-Wire Wire Line
-	11850 15200 11900 15200
-Wire Wire Line
-	16650 15300 13100 15300
-Wire Wire Line
-	11850 15400 13200 15400
-Wire Wire Line
-	16650 15500 13300 15500
-Wire Wire Line
-	11850 15600 13400 15600
-Wire Wire Line
-	11850 15000 12100 15000
-$Comp
-L eurocad:HT16K33 HT1
-U 1 1 5E22B53B
-P 11200 16150
-F 0 "HT1" H 11200 17547 60  0000 C CNN
-F 1 "HT16K33" H 11200 17441 60  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 11200 17300 60  0001 C CNN
-F 3 "" H 11200 17300 60  0000 C CNN
-	1    11200 16150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11850 15800 13600 15800
-Wire Wire Line
-	16650 15900 13700 15900
-Wire Wire Line
-	16650 16000 13800 16000
-Wire Wire Line
-	16650 16100 13900 16100
-Wire Wire Line
-	11850 16200 14000 16200
-Wire Wire Line
-	11900 15200 11900 14800
-Wire Wire Line
-	12000 15100 12000 14800
-Wire Wire Line
-	12000 15100 11850 15100
-Wire Wire Line
-	12100 15000 12100 14800
-$Comp
-L Jumper:Jumper_2_Bridged JP1
-U 1 1 5E22B547
-P 11900 14600
-F 0 "JP1" H 11900 14795 50  0000 C CNN
-F 1 "J_HT_AD" H 11900 14704 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 11900 14600 50  0001 C CNN
-F 3 "~" H 11900 14600 50  0001 C CNN
-	1    11900 14600
+L Transistor_FET:2N7000 Q1
+U 1 1 5CEA8A21
+P 29650 2950
+F 0 "Q1" V 29900 2950 50  0000 C CNN
+F 1 "2N7000" V 29991 2950 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 29850 2875 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 29650 2950 50  0001 L CNN
+	1    29650 2950
 	0    1    1    0   
 $EndComp
 $Comp
-L Jumper:Jumper_2_Bridged JP3
-U 1 1 60B1AFEF
-P 12000 14600
-F 0 "JP3" H 12000 14795 50  0000 C CNN
-F 1 "J_HT_AD" H 12000 14704 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 12000 14600 50  0001 C CNN
-F 3 "~" H 12000 14600 50  0001 C CNN
-	1    12000 14600
-	0    1    1    0   
-$EndComp
-$Comp
-L Jumper:Jumper_2_Bridged JP5
-U 1 1 60B1B183
-P 12100 14600
-F 0 "JP5" H 12100 14795 50  0000 C CNN
-F 1 "J_HT_AD" H 12100 14704 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 12100 14600 50  0001 C CNN
-F 3 "~" H 12100 14600 50  0001 C CNN
-	1    12100 14600
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R1
-U 1 1 5E22B548
-P 11900 14200
-F 0 "R1" V 11693 14200 50  0000 C CNN
-F 1 "10K" V 11784 14200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 11830 14200 50  0001 C CNN
-F 3 "~" H 11900 14200 50  0001 C CNN
-	1    11900 14200
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	11900 14400 11900 14350
-Wire Wire Line
-	12000 14400 12000 14350
-Wire Wire Line
-	12100 14400 12100 14350
-$Comp
-L Device:R R3
-U 1 1 5E22B549
-P 12000 14200
-F 0 "R3" V 11793 14200 50  0000 C CNN
-F 1 "10K" V 11884 14200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 11930 14200 50  0001 C CNN
-F 3 "~" H 12000 14200 50  0001 C CNN
-	1    12000 14200
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R5
-U 1 1 5E22B54A
-P 12100 14200
-F 0 "R5" V 11893 14200 50  0000 C CNN
-F 1 "10K" V 11984 14200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 12030 14200 50  0001 C CNN
-F 3 "~" H 12100 14200 50  0001 C CNN
-	1    12100 14200
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:D D1
-U 1 1 61005FF1
-P 12000 13700
-F 0 "D1" H 12000 13484 50  0000 C CNN
-F 1 "D" H 12000 13575 50  0000 C CNN
-F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 12000 13700 50  0001 C CNN
-F 3 "~" H 12000 13700 50  0001 C CNN
-	1    12000 13700
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	12000 13850 12000 14000
-Wire Wire Line
-	12000 14000 11900 14000
-Wire Wire Line
-	11900 14000 11900 14050
-Wire Wire Line
-	12000 14000 12000 14050
-Connection ~ 12000 14000
-Wire Wire Line
-	12000 14000 12100 14000
-Wire Wire Line
-	12100 14000 12100 14050
-Text Label 10550 15300 2    60   ~ 0
-SDA5
-Text Label 10550 15200 2    60   ~ 0
-SCL5
-Text Label 10550 17400 2    50   ~ 0
-T_GND
-Text Label 10550 15000 2    50   ~ 0
-T_5V
-$Comp
-L Device:C C5
-U 1 1 616E5DCD
-P 10200 14850
-F 0 "C5" H 10315 14896 50  0000 L CNN
-F 1 "C" H 10315 14805 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 10238 14700 50  0001 C CNN
-F 3 "~" H 10200 14850 50  0001 C CNN
-	1    10200 14850
+L Regulator_Linear:AZ1117-3.3 U2
+U 1 1 5C502FAF
+P 33250 11800
+F 0 "U2" H 33250 12042 50  0000 C CNN
+F 1 "AZ1117-3.3" H 33250 11951 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 33250 12050 50  0001 C CIN
+F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 33250 11800 50  0001 C CNN
+	1    33250 11800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C3
-U 1 1 616E6E8F
-P 9950 14850
-F 0 "C3" H 10065 14896 50  0000 L CNN
-F 1 "C" H 10065 14805 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 9988 14700 50  0001 C CNN
-F 3 "~" H 9950 14850 50  0001 C CNN
-	1    9950 14850
+L Connector_Generic:Conn_01x08 J14
+U 1 1 5D2AD40E
+P 29150 7450
+F 0 "J14" H 29230 7442 50  0000 L CNN
+F 1 "Conn_01x08" H 29230 7351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 29150 7450 50  0001 C CNN
+F 3 "~" H 29150 7450 50  0001 C CNN
+	1    29150 7450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10550 15000 10200 15000
-Connection ~ 10200 15000
+	28750 7150 28950 7150
 Wire Wire Line
-	10200 15000 9950 15000
+	28950 7250 28750 7250
 Wire Wire Line
-	10200 14700 9950 14700
-Connection ~ 9950 14700
+	28750 7350 28950 7350
 Wire Wire Line
-	9950 14700 9750 14700
-Text Label 9750 14700 2    50   ~ 0
-T_GND
+	28950 7450 28750 7450
+Wire Wire Line
+	28750 7550 28950 7550
+Wire Wire Line
+	28950 7650 28750 7650
+Wire Wire Line
+	28750 7750 28950 7750
+Wire Wire Line
+	28950 7850 28750 7850
 $Comp
-L chordboard-components:GROVE_I2C J1
-U 1 1 5E22B535
-P 11150 7900
-F 0 "J1" H 11477 7951 50  0000 L CNN
-F 1 "T_I2C0" H 11477 7860 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 11150 7900 50  0001 C CNN
-F 3 "" H 11150 7900 50  0001 C CNN
-	1    11150 7900
-	1    0    0    -1  
-$EndComp
-Text Label 10950 8050 2    50   ~ 0
-T_GND
-Text Label 10950 7950 2    50   ~ 0
-T_3V3
-Text Label 10950 7750 2    50   ~ 0
-T_SCL
-Text Label 10950 7850 2    50   ~ 0
-T_SDA
-$Comp
-L chordboard-components:GROVE_I2C J2
-U 1 1 5CE3402E
-P 11150 8450
-F 0 "J2" H 11477 8501 50  0000 L CNN
-F 1 "T_I2C0" H 11477 8410 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 11150 8450 50  0001 C CNN
-F 3 "" H 11150 8450 50  0001 C CNN
-	1    11150 8450
-	1    0    0    -1  
-$EndComp
-Text Label 10950 8600 2    50   ~ 0
-T_GND
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 5D133AA3
-P 17000 8650
-F 0 "H4" H 17100 8696 50  0000 L CNN
-F 1 "MountingHole" H 17100 8605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 17000 8650 50  0001 C CNN
-F 3 "~" H 17000 8650 50  0001 C CNN
-	1    17000 8650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 5D133AAA
-P 17000 8450
-F 0 "H3" H 17100 8496 50  0000 L CNN
-F 1 "MountingHole" H 17100 8405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 17000 8450 50  0001 C CNN
-F 3 "~" H 17000 8450 50  0001 C CNN
-	1    17000 8450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 5D133AB1
-P 17000 8250
-F 0 "H2" H 17100 8296 50  0000 L CNN
-F 1 "MountingHole" H 17100 8205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 17000 8250 50  0001 C CNN
-F 3 "~" H 17000 8250 50  0001 C CNN
-	1    17000 8250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 5D133AB8
-P 17000 8050
-F 0 "H1" H 17100 8096 50  0000 L CNN
-F 1 "MountingHole" H 17100 8005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 17000 8050 50  0001 C CNN
-F 3 "~" H 17000 8050 50  0001 C CNN
-	1    17000 8050
-	1    0    0    -1  
-$EndComp
-Text Label 10950 8300 2    50   ~ 0
-T_SCL5
-Text Label 10950 8400 2    50   ~ 0
-T_SDA5
-Text Label 10950 8500 2    50   ~ 0
-T_5V
-$Comp
-L Device:Rotary_Encoder RE1
-U 1 1 603EFEE7
-P 11300 9650
-F 0 "RE1" H 11529 9696 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 9605 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 9810 50  0001 C CNN
-F 3 "~" H 11300 9910 50  0001 C CNN
-	1    11300 9650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE2
-U 1 1 5E22B526
-P 11300 10200
-F 0 "RE2" H 11529 10246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 10155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 10360 50  0001 C CNN
-F 3 "~" H 11300 10460 50  0001 C CNN
-	1    11300 10200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE3
-U 1 1 5E22B527
-P 11300 10700
-F 0 "RE3" H 11529 10746 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 10655 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 10860 50  0001 C CNN
-F 3 "~" H 11300 10960 50  0001 C CNN
-	1    11300 10700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE4
-U 1 1 5E22B528
-P 11300 11200
-F 0 "RE4" H 11529 11246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 11155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 11360 50  0001 C CNN
-F 3 "~" H 11300 11460 50  0001 C CNN
-	1    11300 11200
-	1    0    0    -1  
+L Connector_Generic:Conn_01x04 J9
+U 1 1 5D2E34F0
+P 26050 7650
+F 0 "J9" H 25970 7967 50  0000 C CNN
+F 1 "Conn_01x04" H 25970 7876 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 26050 7650 50  0001 C CNN
+F 3 "~" H 26050 7650 50  0001 C CNN
+	1    26050 7650
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	9150 9550 11000 9550
+	26250 7550 26550 7550
 Wire Wire Line
-	10700 9650 9150 9650
+	26550 7650 26250 7650
 Wire Wire Line
-	9150 10850 9350 10850
+	26250 7750 26550 7750
 Wire Wire Line
-	9150 10950 9350 10950
-Wire Wire Line
-	9350 11050 9150 11050
-Wire Wire Line
-	9150 11150 9350 11150
-Text Label 11000 9650 2    50   ~ 0
-T_GND
-Text Label 7750 9650 2    50   ~ 0
-T_SCL
-Text Label 7750 9550 2    50   ~ 0
-T_SDA
-Text Label 8450 9250 0    50   ~ 0
-T_3V3
-Text Label 8450 11450 0    50   ~ 0
-T_GND
-Text Label 7750 10450 2    50   ~ 0
-T_3V3
-Wire Wire Line
-	8450 9050 9050 9050
-$Comp
-L Device:C_Small C1
-U 1 1 5E22B529
-P 9050 9200
-F 0 "C1" H 9142 9246 50  0000 L CNN
-F 1 "C_Small" H 9142 9155 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 9050 9200 50  0001 C CNN
-F 3 "~" H 9050 9200 50  0001 C CNN
-	1    9050 9200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9050 9100 9050 9050
-Wire Wire Line
-	9050 9050 9250 9050
-Wire Wire Line
-	9250 9050 9250 9100
-Connection ~ 9050 9050
-Wire Wire Line
-	9050 9300 9050 9350
-Wire Wire Line
-	9050 9350 9250 9350
-Wire Wire Line
-	9250 9350 9250 9300
-Text Label 9300 9350 0    50   ~ 0
-T_GND
-Wire Wire Line
-	9300 9350 9250 9350
-Connection ~ 9250 9350
-Wire Wire Line
-	8450 9050 8450 9250
-Text Label 7750 11150 2    50   ~ 0
-T_GND
-$Comp
-L Interface_Expansion:MCP23017_SO IO1
-U 1 1 5E22B52A
-P 8450 10350
-F 0 "IO1" H 8000 11300 50  0000 C CNN
-F 1 "MCP23017_SO" H 8300 10750 50  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 8650 9350 50  0001 L CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 8650 9250 50  0001 L CNN
-	1    8450 10350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C2
-U 1 1 5C57BC6E
-P 9250 9200
-F 0 "C2" H 9342 9246 50  0000 L CNN
-F 1 "C_Small" H 9342 9155 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 9250 9200 50  0001 C CNN
-F 3 "~" H 9250 9200 50  0001 C CNN
-	1    9250 9200
-	1    0    0    -1  
-$EndComp
-Text Label 11000 10200 2    50   ~ 0
-T_GND
-Text Label 11000 10700 2    50   ~ 0
-T_GND
-Text Label 11000 11200 2    50   ~ 0
-T_GND
-Wire Wire Line
-	10700 9650 10700 9750
-Wire Wire Line
-	10700 9750 11000 9750
-Wire Wire Line
-	11000 10100 10600 10100
-Wire Wire Line
-	10600 10100 10600 9750
-Wire Wire Line
-	9150 9750 10600 9750
-Wire Wire Line
-	10500 9850 10500 10300
-Wire Wire Line
-	10500 10300 11000 10300
-Wire Wire Line
-	9150 9850 10500 9850
-Wire Wire Line
-	10400 9950 10400 10600
-Wire Wire Line
-	10400 10600 11000 10600
-Wire Wire Line
-	9150 9950 10400 9950
-Wire Wire Line
-	11000 10800 10300 10800
-Wire Wire Line
-	10300 10800 10300 10050
-Wire Wire Line
-	9150 10050 10300 10050
-Wire Wire Line
-	10200 10150 10200 11100
-Wire Wire Line
-	10200 11100 11000 11100
-Wire Wire Line
-	9150 10150 10200 10150
-Wire Wire Line
-	11000 11300 10100 11300
-Wire Wire Line
-	10100 11300 10100 10250
-Wire Wire Line
-	9150 10250 10100 10250
-$Comp
-L Device:Rotary_Encoder RE5
-U 1 1 5E22B533
-P 11300 11700
-F 0 "RE5" H 11529 11746 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 11655 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 11860 50  0001 C CNN
-F 3 "~" H 11300 11960 50  0001 C CNN
-	1    11300 11700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder RE6
-U 1 1 5E22B534
-P 11300 12200
-F 0 "RE6" H 11529 12246 50  0000 L CNN
-F 1 "Rotary_Encoder" H 11529 12155 50  0000 L CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 11150 12360 50  0001 C CNN
-F 3 "~" H 11300 12460 50  0001 C CNN
-	1    11300 12200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 10450 10000 11600
-Wire Wire Line
-	10000 11600 11000 11600
-Wire Wire Line
-	9150 10450 10000 10450
-Wire Wire Line
-	11000 11800 9900 11800
-Wire Wire Line
-	9900 11800 9900 10550
-Wire Wire Line
-	9150 10550 9900 10550
-Wire Wire Line
-	9800 10650 9800 12100
-Wire Wire Line
-	9800 12100 11000 12100
-Wire Wire Line
-	9150 10650 9800 10650
-Wire Wire Line
-	11000 12300 9700 12300
-Wire Wire Line
-	9700 12300 9700 10750
-Wire Wire Line
-	9150 10750 9700 10750
-Text Label 11000 11700 2    50   ~ 0
-T_GND
-Text Label 11000 12200 2    50   ~ 0
-T_GND
-Wire Wire Line
-	13100 15300 13100 14750
-Wire Wire Line
-	13100 15300 11850 15300
-Wire Wire Line
-	13200 15400 13200 14750
-Wire Wire Line
-	13200 15400 16650 15400
-Wire Wire Line
-	13300 15500 13300 14750
-Wire Wire Line
-	13300 15500 11850 15500
-Wire Wire Line
-	13400 15600 13400 14750
-Wire Wire Line
-	13400 15600 16650 15600
-Wire Wire Line
-	13500 15700 13500 14750
-Wire Wire Line
-	13500 15700 11850 15700
-Wire Wire Line
-	13600 15800 13600 14750
-Wire Wire Line
-	13600 15800 16650 15800
-Wire Wire Line
-	13700 15900 13700 14750
-Wire Wire Line
-	13700 15900 11850 15900
-Wire Wire Line
-	13800 16000 13800 14750
-Wire Wire Line
-	13800 16000 11850 16000
-Wire Wire Line
-	13900 16100 13900 14750
-Wire Wire Line
-	13900 16100 11850 16100
-Wire Wire Line
-	14000 16200 14000 14750
-Wire Wire Line
-	14000 16200 16650 16200
-$Comp
-L Device:R R7
-U 1 1 5E22B53C
-P 13100 14600
-F 0 "R7" V 13150 14450 50  0000 C CNN
-F 1 "39K" V 13150 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13030 14600 50  0001 C CNN
-F 3 "~" H 13100 14600 50  0001 C CNN
-	1    13100 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R9
-U 1 1 5E22B53D
-P 13200 14600
-F 0 "R9" V 13250 14450 50  0000 C CNN
-F 1 "39K" V 13250 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13130 14600 50  0001 C CNN
-F 3 "~" H 13200 14600 50  0001 C CNN
-	1    13200 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R11
-U 1 1 5E22B53E
-P 13300 14600
-F 0 "R11" V 13350 14450 50  0000 C CNN
-F 1 "39K" V 13350 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13230 14600 50  0001 C CNN
-F 3 "~" H 13300 14600 50  0001 C CNN
-	1    13300 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R13
-U 1 1 5E22B53F
-P 13400 14600
-F 0 "R13" V 13450 14450 50  0000 C CNN
-F 1 "39K" V 13450 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13330 14600 50  0001 C CNN
-F 3 "~" H 13400 14600 50  0001 C CNN
-	1    13400 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R15
-U 1 1 5D92F562
-P 13500 14600
-F 0 "R15" V 13550 14450 50  0000 C CNN
-F 1 "39K" V 13550 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13430 14600 50  0001 C CNN
-F 3 "~" H 13500 14600 50  0001 C CNN
-	1    13500 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R17
-U 1 1 5D92F6C6
-P 13600 14600
-F 0 "R17" V 13650 14450 50  0000 C CNN
-F 1 "39K" V 13650 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13530 14600 50  0001 C CNN
-F 3 "~" H 13600 14600 50  0001 C CNN
-	1    13600 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R19
-U 1 1 5E22B542
-P 13700 14600
-F 0 "R19" V 13750 14450 50  0000 C CNN
-F 1 "39K" V 13750 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13630 14600 50  0001 C CNN
-F 3 "~" H 13700 14600 50  0001 C CNN
-	1    13700 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R21
-U 1 1 5E22B543
-P 13800 14600
-F 0 "R21" V 13850 14450 50  0000 C CNN
-F 1 "39K" V 13850 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13730 14600 50  0001 C CNN
-F 3 "~" H 13800 14600 50  0001 C CNN
-	1    13800 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R23
-U 1 1 5D92FD10
-P 13900 14600
-F 0 "R23" V 13950 14450 50  0000 C CNN
-F 1 "39K" V 13950 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13830 14600 50  0001 C CNN
-F 3 "~" H 13900 14600 50  0001 C CNN
-	1    13900 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R25
-U 1 1 5D92FE7C
-P 14000 14600
-F 0 "R25" V 14050 14450 50  0000 C CNN
-F 1 "39K" V 14050 14800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13930 14600 50  0001 C CNN
-F 3 "~" H 14000 14600 50  0001 C CNN
-	1    14000 14600
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector_Generic:Conn_02x20_Odd_Even J3
-U 1 1 608B8C25
-P 16850 15900
-F 0 "J3" H 16900 17017 50  0000 C CNN
-F 1 "Conn_02x20_Odd_Even" H 16900 16926 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical" H 16850 15900 50  0001 C CNN
-F 3 "~" H 16850 15900 50  0001 C CNN
-	1    16850 15900
-	1    0    0    -1  
-$EndComp
-Connection ~ 14000 16200
-Connection ~ 13900 16100
-Connection ~ 13800 16000
-Connection ~ 13700 15900
-Connection ~ 13600 15800
-Connection ~ 13400 15600
-Connection ~ 13300 15500
-Connection ~ 13200 15400
-Connection ~ 13100 15300
-Wire Wire Line
-	16650 16400 14900 16400
-Wire Wire Line
-	14900 16400 14900 16700
-Wire Wire Line
-	15000 16800 15000 16500
-Wire Wire Line
-	15000 16500 16650 16500
-Wire Wire Line
-	11850 16800 15000 16800
-Wire Wire Line
-	15100 16900 15100 16600
-Wire Wire Line
-	15100 16600 16650 16600
-Wire Wire Line
-	11850 16900 15100 16900
-Wire Wire Line
-	16650 16700 15200 16700
-Wire Wire Line
-	15200 16700 15200 17000
-Wire Wire Line
-	11850 17000 15200 17000
-Wire Wire Line
-	15300 17100 15300 16800
-Wire Wire Line
-	15300 16800 16650 16800
-Wire Wire Line
-	11850 17100 15300 17100
-Wire Wire Line
-	16650 16900 15400 16900
-Wire Wire Line
-	15400 16900 15400 17200
-Wire Wire Line
-	11850 17200 15400 17200
-Wire Wire Line
-	11900 15200 16650 15200
-Connection ~ 11900 15200
-Wire Wire Line
-	12000 15100 16650 15100
-Connection ~ 12000 15100
-Wire Wire Line
-	12100 15000 16650 15000
-Connection ~ 12100 15000
-Wire Wire Line
-	11850 16300 16650 16300
-Wire Wire Line
-	14000 14450 14000 14200
-Wire Wire Line
-	14000 14200 18350 14200
-Wire Wire Line
-	18350 14200 18350 15900
-Wire Wire Line
-	18350 15900 17150 15900
-Wire Wire Line
-	17150 15800 18250 15800
-Wire Wire Line
-	18250 14100 13900 14100
-Wire Wire Line
-	13900 14100 13900 14450
-Wire Wire Line
-	18250 14100 18250 15800
-Wire Wire Line
-	13800 14450 13800 14000
-Wire Wire Line
-	13800 14000 18150 14000
-Wire Wire Line
-	18150 14000 18150 15700
-Wire Wire Line
-	18150 15700 17150 15700
-Wire Wire Line
-	17150 15600 18050 15600
-Wire Wire Line
-	17150 15500 17950 15500
-Wire Wire Line
-	17150 15400 17850 15400
-Wire Wire Line
-	17150 15300 17750 15300
-Wire Wire Line
-	17150 15200 17650 15200
-Wire Wire Line
-	17150 15100 17550 15100
-Wire Wire Line
-	17150 15000 17450 15000
-Wire Wire Line
-	11850 16700 12550 16700
-Wire Wire Line
-	12550 16700 12550 13400
-Wire Wire Line
-	12550 13400 12000 13400
-Wire Wire Line
-	12000 13400 12000 13550
-Connection ~ 12550 16700
-Wire Wire Line
-	12550 16700 14900 16700
-Wire Wire Line
-	18050 15600 18050 13900
-Wire Wire Line
-	17950 15500 17950 13800
-Wire Wire Line
-	17850 15400 17850 13700
-Wire Wire Line
-	17750 13600 17750 15300
-Wire Wire Line
-	17650 15200 17650 13500
-Wire Wire Line
-	17550 13400 17550 15100
-Wire Wire Line
-	17450 15000 17450 13300
-Wire Wire Line
-	13700 13900 13700 14450
-Wire Wire Line
-	13600 14450 13600 13800
-Wire Wire Line
-	13600 13800 17950 13800
-Wire Wire Line
-	13700 13900 18050 13900
-Wire Wire Line
-	17850 13700 13500 13700
-Wire Wire Line
-	13500 13700 13500 14450
-Wire Wire Line
-	13400 14450 13400 13600
-Wire Wire Line
-	13400 13600 17750 13600
-Wire Wire Line
-	17650 13500 13300 13500
-Wire Wire Line
-	13300 13500 13300 14450
-Wire Wire Line
-	13200 14450 13200 13400
-Wire Wire Line
-	13200 13400 17550 13400
-Wire Wire Line
-	17450 13300 13100 13300
-Wire Wire Line
-	13100 13300 13100 14450
-Connection ~ 13500 15700
-Wire Wire Line
-	16650 15700 13500 15700
-Wire Wire Line
-	11850 20100 11900 20100
-Wire Wire Line
-	16650 20200 13100 20200
-Wire Wire Line
-	11850 20300 13200 20300
-Wire Wire Line
-	16650 20400 13300 20400
-Wire Wire Line
-	11850 20500 13400 20500
-Wire Wire Line
-	11850 19900 12100 19900
-$Comp
-L eurocad:HT16K33 HT2
-U 1 1 66B433C5
-P 11200 21050
-F 0 "HT2" H 11200 22447 60  0000 C CNN
-F 1 "HT16K33" H 11200 22341 60  0000 C CNN
-F 2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" H 11200 22200 60  0001 C CNN
-F 3 "" H 11200 22200 60  0000 C CNN
-	1    11200 21050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11850 20700 13600 20700
-Wire Wire Line
-	16650 20800 13700 20800
-Wire Wire Line
-	16650 20900 13800 20900
-Wire Wire Line
-	16650 21000 13900 21000
-Wire Wire Line
-	11850 21100 14000 21100
-Wire Wire Line
-	11900 20100 11900 19700
-Wire Wire Line
-	12000 20000 12000 19700
-Wire Wire Line
-	12000 20000 11850 20000
-Wire Wire Line
-	12100 19900 12100 19700
-$Comp
-L Jumper:Jumper_2_Bridged JP2
-U 1 1 66B433D4
-P 11900 19500
-F 0 "JP2" H 11900 19695 50  0000 C CNN
-F 1 "J_HT_AD" H 11900 19604 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 11900 19500 50  0001 C CNN
-F 3 "~" H 11900 19500 50  0001 C CNN
-	1    11900 19500
-	0    1    1    0   
-$EndComp
-$Comp
-L Jumper:Jumper_2_Bridged JP4
-U 1 1 66B433DA
-P 12000 19500
-F 0 "JP4" H 12000 19695 50  0000 C CNN
-F 1 "J_HT_AD" H 12000 19604 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 12000 19500 50  0001 C CNN
-F 3 "~" H 12000 19500 50  0001 C CNN
-	1    12000 19500
-	0    1    1    0   
-$EndComp
-$Comp
-L Jumper:Jumper_2_Bridged JP6
-U 1 1 66B433E0
-P 12100 19500
-F 0 "JP6" H 12100 19695 50  0000 C CNN
-F 1 "J_HT_AD" H 12100 19604 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 12100 19500 50  0001 C CNN
-F 3 "~" H 12100 19500 50  0001 C CNN
-	1    12100 19500
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R2
-U 1 1 66B433E6
-P 11900 19100
-F 0 "R2" V 11693 19100 50  0000 C CNN
-F 1 "10K" V 11784 19100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 11830 19100 50  0001 C CNN
-F 3 "~" H 11900 19100 50  0001 C CNN
-	1    11900 19100
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	11900 19300 11900 19250
-Wire Wire Line
-	12000 19300 12000 19250
-Wire Wire Line
-	12100 19300 12100 19250
-$Comp
-L Device:R R4
-U 1 1 66B433EF
-P 12000 19100
-F 0 "R4" V 11793 19100 50  0000 C CNN
-F 1 "10K" V 11884 19100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 11930 19100 50  0001 C CNN
-F 3 "~" H 12000 19100 50  0001 C CNN
-	1    12000 19100
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R6
-U 1 1 66B433F5
-P 12100 19100
-F 0 "R6" V 11893 19100 50  0000 C CNN
-F 1 "10K" V 11984 19100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 12030 19100 50  0001 C CNN
-F 3 "~" H 12100 19100 50  0001 C CNN
-	1    12100 19100
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:D D2
-U 1 1 66B433FB
-P 12000 18600
-F 0 "D2" H 12000 18384 50  0000 C CNN
-F 1 "D" H 12000 18475 50  0000 C CNN
-F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 12000 18600 50  0001 C CNN
-F 3 "~" H 12000 18600 50  0001 C CNN
-	1    12000 18600
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	12000 18750 12000 18900
-Wire Wire Line
-	12000 18900 11900 18900
-Wire Wire Line
-	11900 18900 11900 18950
-Wire Wire Line
-	12000 18900 12000 18950
-Connection ~ 12000 18900
-Wire Wire Line
-	12000 18900 12100 18900
-Wire Wire Line
-	12100 18900 12100 18950
-Text Label 10550 20200 2    60   ~ 0
-SDA5
-Text Label 10550 20100 2    60   ~ 0
-SCL5
-Text Label 10550 22300 2    50   ~ 0
-T_GND
-Text Label 10550 19900 2    50   ~ 0
-T_5V
-$Comp
-L Device:C C6
-U 1 1 66B4340C
-P 10200 19750
-F 0 "C6" H 10315 19796 50  0000 L CNN
-F 1 "C" H 10315 19705 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 10238 19600 50  0001 C CNN
-F 3 "~" H 10200 19750 50  0001 C CNN
-	1    10200 19750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C4
-U 1 1 66B43412
-P 9950 19750
-F 0 "C4" H 10065 19796 50  0000 L CNN
-F 1 "C" H 10065 19705 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 9988 19600 50  0001 C CNN
-F 3 "~" H 9950 19750 50  0001 C CNN
-	1    9950 19750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10550 19900 10200 19900
-Connection ~ 10200 19900
-Wire Wire Line
-	10200 19900 9950 19900
-Wire Wire Line
-	10200 19600 9950 19600
-Connection ~ 9950 19600
-Wire Wire Line
-	9950 19600 9750 19600
-Text Label 9750 19600 2    50   ~ 0
-T_GND
-Wire Wire Line
-	13100 20200 13100 19650
-Wire Wire Line
-	13100 20200 11850 20200
-Wire Wire Line
-	13200 20300 13200 19650
-Wire Wire Line
-	13200 20300 16650 20300
-Wire Wire Line
-	13300 20400 13300 19650
-Wire Wire Line
-	13300 20400 11850 20400
-Wire Wire Line
-	13400 20500 13400 19650
-Wire Wire Line
-	13400 20500 16650 20500
-Wire Wire Line
-	13500 20600 13500 19650
-Wire Wire Line
-	13500 20600 11850 20600
-Wire Wire Line
-	13600 20700 13600 19650
-Wire Wire Line
-	13600 20700 16650 20700
-Wire Wire Line
-	13700 20800 13700 19650
-Wire Wire Line
-	13700 20800 11850 20800
-Wire Wire Line
-	13800 20900 13800 19650
-Wire Wire Line
-	13800 20900 11850 20900
-Wire Wire Line
-	13900 21000 13900 19650
-Wire Wire Line
-	13900 21000 11850 21000
-Wire Wire Line
-	14000 21100 14000 19650
-Wire Wire Line
-	14000 21100 16650 21100
-$Comp
-L Device:R R8
-U 1 1 66B43433
-P 13100 19500
-F 0 "R8" V 13150 19350 50  0000 C CNN
-F 1 "39K" V 13150 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13030 19500 50  0001 C CNN
-F 3 "~" H 13100 19500 50  0001 C CNN
-	1    13100 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R10
-U 1 1 66B43439
-P 13200 19500
-F 0 "R10" V 13250 19350 50  0000 C CNN
-F 1 "39K" V 13250 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13130 19500 50  0001 C CNN
-F 3 "~" H 13200 19500 50  0001 C CNN
-	1    13200 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R12
-U 1 1 66B4343F
-P 13300 19500
-F 0 "R12" V 13350 19350 50  0000 C CNN
-F 1 "39K" V 13350 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13230 19500 50  0001 C CNN
-F 3 "~" H 13300 19500 50  0001 C CNN
-	1    13300 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R14
-U 1 1 66B43445
-P 13400 19500
-F 0 "R14" V 13450 19350 50  0000 C CNN
-F 1 "39K" V 13450 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13330 19500 50  0001 C CNN
-F 3 "~" H 13400 19500 50  0001 C CNN
-	1    13400 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R16
-U 1 1 66B4344B
-P 13500 19500
-F 0 "R16" V 13550 19350 50  0000 C CNN
-F 1 "39K" V 13550 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13430 19500 50  0001 C CNN
-F 3 "~" H 13500 19500 50  0001 C CNN
-	1    13500 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R18
-U 1 1 66B43451
-P 13600 19500
-F 0 "R18" V 13650 19350 50  0000 C CNN
-F 1 "39K" V 13650 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13530 19500 50  0001 C CNN
-F 3 "~" H 13600 19500 50  0001 C CNN
-	1    13600 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R20
-U 1 1 66B43457
-P 13700 19500
-F 0 "R20" V 13750 19350 50  0000 C CNN
-F 1 "39K" V 13750 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13630 19500 50  0001 C CNN
-F 3 "~" H 13700 19500 50  0001 C CNN
-	1    13700 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R22
-U 1 1 66B4345D
-P 13800 19500
-F 0 "R22" V 13850 19350 50  0000 C CNN
-F 1 "39K" V 13850 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13730 19500 50  0001 C CNN
-F 3 "~" H 13800 19500 50  0001 C CNN
-	1    13800 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R24
-U 1 1 66B43463
-P 13900 19500
-F 0 "R24" V 13950 19350 50  0000 C CNN
-F 1 "39K" V 13950 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13830 19500 50  0001 C CNN
-F 3 "~" H 13900 19500 50  0001 C CNN
-	1    13900 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R26
-U 1 1 66B43469
-P 14000 19500
-F 0 "R26" V 14050 19350 50  0000 C CNN
-F 1 "39K" V 14050 19700 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13930 19500 50  0001 C CNN
-F 3 "~" H 14000 19500 50  0001 C CNN
-	1    14000 19500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector_Generic:Conn_02x20_Odd_Even J4
-U 1 1 66B4346F
-P 16850 20800
-F 0 "J4" H 16900 21917 50  0000 C CNN
-F 1 "Conn_02x20_Odd_Even" H 16900 21826 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical" H 16850 20800 50  0001 C CNN
-F 3 "~" H 16850 20800 50  0001 C CNN
-	1    16850 20800
-	1    0    0    -1  
-$EndComp
-Connection ~ 14000 21100
-Connection ~ 13900 21000
-Connection ~ 13800 20900
-Connection ~ 13700 20800
-Connection ~ 13600 20700
-Connection ~ 13400 20500
-Connection ~ 13300 20400
-Connection ~ 13200 20300
-Connection ~ 13100 20200
-Wire Wire Line
-	16650 21300 14900 21300
-Wire Wire Line
-	14900 21300 14900 21600
-Wire Wire Line
-	15000 21700 15000 21400
-Wire Wire Line
-	15000 21400 16650 21400
-Wire Wire Line
-	11850 21700 15000 21700
-Wire Wire Line
-	15100 21800 15100 21500
-Wire Wire Line
-	15100 21500 16650 21500
-Wire Wire Line
-	11850 21800 15100 21800
-Wire Wire Line
-	16650 21600 15200 21600
-Wire Wire Line
-	15200 21600 15200 21900
-Wire Wire Line
-	11850 21900 15200 21900
-Wire Wire Line
-	15300 22000 15300 21700
-Wire Wire Line
-	15300 21700 16650 21700
-Wire Wire Line
-	11850 22000 15300 22000
-Wire Wire Line
-	16650 21800 15400 21800
-Wire Wire Line
-	15400 21800 15400 22100
-Wire Wire Line
-	11850 22100 15400 22100
-Wire Wire Line
-	11900 20100 16650 20100
-Connection ~ 11900 20100
-Wire Wire Line
-	12000 20000 16650 20000
-Connection ~ 12000 20000
-Wire Wire Line
-	12100 19900 16650 19900
-Connection ~ 12100 19900
-Wire Wire Line
-	11850 21200 16650 21200
-Wire Wire Line
-	14000 19350 14000 19100
-Wire Wire Line
-	14000 19100 18350 19100
-Wire Wire Line
-	18350 19100 18350 20800
-Wire Wire Line
-	18350 20800 17150 20800
-Wire Wire Line
-	17150 20700 18250 20700
-Wire Wire Line
-	18250 19000 13900 19000
-Wire Wire Line
-	13900 19000 13900 19350
-Wire Wire Line
-	18250 19000 18250 20700
-Wire Wire Line
-	13800 19350 13800 18900
-Wire Wire Line
-	13800 18900 18150 18900
-Wire Wire Line
-	18150 18900 18150 20600
-Wire Wire Line
-	18150 20600 17150 20600
-Wire Wire Line
-	17150 20500 18050 20500
-Wire Wire Line
-	17150 20400 17950 20400
-Wire Wire Line
-	17150 20300 17850 20300
-Wire Wire Line
-	17150 20200 17750 20200
-Wire Wire Line
-	17150 20100 17650 20100
-Wire Wire Line
-	17150 20000 17550 20000
-Wire Wire Line
-	17150 19900 17450 19900
-Wire Wire Line
-	11850 21600 12550 21600
-Wire Wire Line
-	12550 21600 12550 18300
-Wire Wire Line
-	12550 18300 12000 18300
-Wire Wire Line
-	12000 18300 12000 18450
-Connection ~ 12550 21600
-Wire Wire Line
-	12550 21600 14900 21600
-Wire Wire Line
-	18050 20500 18050 18800
-Wire Wire Line
-	17950 20400 17950 18700
-Wire Wire Line
-	17850 20300 17850 18600
-Wire Wire Line
-	17750 18500 17750 20200
-Wire Wire Line
-	17650 20100 17650 18400
-Wire Wire Line
-	17550 18300 17550 20000
-Wire Wire Line
-	17450 19900 17450 18200
-Wire Wire Line
-	13700 18800 13700 19350
-Wire Wire Line
-	13600 19350 13600 18700
-Wire Wire Line
-	13600 18700 17950 18700
-Wire Wire Line
-	13700 18800 18050 18800
-Wire Wire Line
-	17850 18600 13500 18600
-Wire Wire Line
-	13500 18600 13500 19350
-Wire Wire Line
-	13400 19350 13400 18500
-Wire Wire Line
-	13400 18500 17750 18500
-Wire Wire Line
-	17650 18400 13300 18400
-Wire Wire Line
-	13300 18400 13300 19350
-Wire Wire Line
-	13200 19350 13200 18300
-Wire Wire Line
-	13200 18300 17550 18300
-Wire Wire Line
-	17450 18200 13100 18200
-Wire Wire Line
-	13100 18200 13100 19350
-Connection ~ 13500 20600
-Wire Wire Line
-	16650 20600 13500 20600
+	26550 7850 26250 7850
 $EndSCHEMATC

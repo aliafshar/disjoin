@@ -1,0 +1,97 @@
+
+(rules PCB chordboard
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout on)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 981)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 3.4)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.4)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_600:400_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:400_um" "Via[0-1]_600:400_um" default
+  )
+  (via 
+    "Via[0-1]_600:400_um-kicad_default" "Via[0-1]_600:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_600:400_um-fat" "Via[0-1]_600:400_um" fat
+  )
+  (via_rule
+    default "Via[0-1]_600:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_600:400_um-kicad_default"
+  )
+  (via_rule
+    fat "Via[0-1]_600:400_um-fat"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    /RE1A /RE1B "Net-(K1-Pad2)" "Net-(K2-Pad2)" "Net-(K3-Pad2)" "Net-(K4-Pad2)" "Net-(K5-Pad2)" "Net-(K6-Pad2)"
+    "Net-(K7-Pad2)" "Net-(K8-Pad2)" "Net-(K9-Pad2)" "Net-(K10-Pad2)" "Net-(K11-Pad2)" "Net-(K12-Pad2)" "Net-(K13-Pad2)" "Net-(K14-Pad2)"
+    "Net-(K15-Pad2)" "Net-(K16-Pad2)" /SDA /SCL /RE1S /RX1 /TX1 "Net-(LED1-Pad2)"
+    "Net-(LED2-Pad2)" "Net-(R1-Pad1)" "Net-(R4-Pad1)" "Net-(S1-Pad1)" /T5 /T6 /T7 /T4
+    /T3 /T2 /T1
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class fat
+    GND +3V3
+    (clearance_class fat)
+    (via_rule fat)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

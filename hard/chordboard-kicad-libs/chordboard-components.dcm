@@ -59,6 +59,11 @@ D Connector, single row, 01x04, pin header
 K connector
 $ENDCMP
 #
+$CMP GROVE_SPI
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
 $CMP GROVE_UART
 D Connector, single row, 01x04, pin header
 K connector

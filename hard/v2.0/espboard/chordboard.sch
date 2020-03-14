@@ -1,0 +1,831 @@
+EESchema Schematic File Version 4
+LIBS:chordboard-cache
+EELAYER 26 0
+EELAYER END
+$Descr A0 46811 33110
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 28900 12300 0    50   ~ 0
+ESP_TX0
+Text Label 28900 12400 0    50   ~ 0
+ESP_RX0
+$Comp
+L Jumper:Jumper_2_Bridged JP12
+U 1 1 5CB271F6
+P 27150 11450
+F 0 "JP12" H 27150 11645 50  0000 C CNN
+F 1 "Jumper_2_Bridged" H 27150 11554 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 27150 11450 50  0001 C CNN
+F 3 "~" H 27150 11450 50  0001 C CNN
+	1    27150 11450
+	0    1    1    0   
+$EndComp
+$Comp
+L esp32-wrover:ESP32-WROVER U1
+U 1 1 774925CF
+P 28050 12650
+F 0 "U1" H 28025 13987 60  0000 C CNN
+F 1 "ESP32-WROVER" H 28025 13881 60  0000 C CNN
+F 2 "esp32-wrover:ESP32-WROVER" H 28500 12350 60  0001 C CNN
+F 3 "" H 28500 12350 60  0001 C CNN
+	1    28050 12650
+	1    0    0    -1  
+$EndComp
+Text Label 28900 13300 0    50   ~ 0
+ESP_D0
+Text Label 27150 12100 2    50   ~ 0
+ESP_RST
+Text Label 27150 12000 2    50   ~ 0
+ESP_3V3
+Text Label 27150 11900 2    50   ~ 0
+ESP_GND
+$Comp
+L Jumper:Jumper_2_Bridged JP11
+U 1 1 5CB271F8
+P 26400 12000
+F 0 "JP11" H 26400 12195 50  0000 C CNN
+F 1 "J_ESP_3V3" H 26400 12104 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 26400 12000 50  0001 C CNN
+F 3 "~" H 26400 12000 50  0001 C CNN
+	1    26400 12000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	26600 12000 27150 12000
+NoConn ~ 27150 13500
+NoConn ~ 27150 13600
+NoConn ~ 27150 13700
+NoConn ~ 28900 13800
+NoConn ~ 28900 13700
+NoConn ~ 28900 13600
+Text Label 28900 12500 0    50   ~ 0
+ESP_SDA
+Text Label 28900 12200 0    50   ~ 0
+ESP_SCL
+Text Label 28900 12000 0    50   ~ 0
+ESP_GND
+NoConn ~ 28900 11900
+Wire Wire Line
+	26100 12000 26200 12000
+Wire Wire Line
+	27150 12100 25650 12100
+$Comp
+L Device:R R27
+U 1 1 774925F3
+P 25650 11850
+F 0 "R27" V 25443 11850 50  0000 C CNN
+F 1 "10K" V 25534 11850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 25580 11850 50  0001 C CNN
+F 3 "~" H 25650 11850 50  0001 C CNN
+	1    25650 11850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R32
+U 1 1 5CB271FA
+P 29550 13300
+F 0 "R32" V 29343 13300 50  0000 C CNN
+F 1 "10K" V 29434 13300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 29480 13300 50  0001 C CNN
+F 3 "~" H 29550 13300 50  0001 C CNN
+	1    29550 13300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	28900 13300 29400 13300
+Text Label 25650 11700 2    50   ~ 0
+ESP_3V3
+Text Label 29800 13300 0    50   ~ 0
+ESP_3V3
+Wire Wire Line
+	25650 12000 25650 12100
+$Comp
+L Device:R R31
+U 1 1 5CB271FB
+P 29350 12500
+F 0 "R31" V 29300 12650 50  0000 C CNN
+F 1 "4.7K" V 29300 12250 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 29280 12500 50  0001 C CNN
+F 3 "~" H 29350 12500 50  0001 C CNN
+	1    29350 12500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	28900 12500 29200 12500
+Wire Wire Line
+	29500 12500 29550 12500
+Text Label 29550 12500 0    50   ~ 0
+ESP_3V3
+$Comp
+L Device:R R30
+U 1 1 5CB271FC
+P 29350 12200
+F 0 "R30" V 29300 12350 50  0000 C CNN
+F 1 "4.7K" V 29300 11950 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 29280 12200 50  0001 C CNN
+F 3 "~" H 29350 12200 50  0001 C CNN
+	1    29350 12200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	28900 12200 29200 12200
+Text Label 29500 12200 0    50   ~ 0
+ESP_3V3
+Text Label 27150 13300 2    50   ~ 0
+ESP_GND
+Text Label 27150 13200 2    50   ~ 0
+ESP_RX2
+Text Label 27150 13400 2    50   ~ 0
+ESP_TX2
+$Comp
+L Device:C C8
+U 1 1 5CB271FE
+P 26750 11750
+F 0 "C8" H 26865 11796 50  0000 L CNN
+F 1 "C" H 26865 11705 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 26788 11600 50  0001 C CNN
+F 3 "~" H 26750 11750 50  0001 C CNN
+	1    26750 11750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	27150 11900 26750 11900
+Text Label 26750 11600 0    50   ~ 0
+ESP_3V3
+$Comp
+L chordboard-components:FTDI_MCU J7
+U 1 1 5CB271FF
+P 28600 9850
+F 0 "J7" H 28950 9750 50  0000 L CNN
+F 1 "E_UART0" H 28950 9850 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 28600 9850 50  0001 C CNN
+F 3 "~" H 28600 9850 50  0001 C CNN
+	1    28600 9850
+	1    0    0    -1  
+$EndComp
+Text Label 28400 9650 2    50   ~ 0
+ESP_GND
+Text Label 28400 10050 2    50   ~ 0
+ESP_TX0
+Text Label 28400 9950 2    50   ~ 0
+ESP_RX0
+$Comp
+L Device:C C7
+U 1 1 5CB27201
+P 26550 11750
+F 0 "C7" H 26665 11796 50  0000 L CNN
+F 1 "C" H 26665 11705 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 26588 11600 50  0001 C CNN
+F 3 "~" H 26550 11750 50  0001 C CNN
+	1    26550 11750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	26750 11900 26550 11900
+Connection ~ 26750 11900
+Wire Wire Line
+	26550 11600 26750 11600
+Text Label 28900 12100 0    50   ~ 0
+ESP_MOSI
+Text Label 28900 12900 0    50   ~ 0
+ESP_CS
+Text Label 28900 12800 0    50   ~ 0
+ESP_SCK
+Text Label 28900 12700 0    50   ~ 0
+ESP_MISO
+Text Label 26100 12000 2    50   ~ 0
+T_3V3
+Text Label 27150 11250 2    50   ~ 0
+T_GND
+Text Label 30500 10450 2    50   ~ 0
+ESP_RST
+Text Label 30500 10550 2    50   ~ 0
+ESP_D0
+Text Label 31100 10450 0    50   ~ 0
+ESP_GND
+Text Label 31100 10550 0    50   ~ 0
+ESP_GND
+Wire Wire Line
+	27150 11650 27150 11900
+Connection ~ 27150 11900
+$Comp
+L chordboard-components:R R28
+U 1 1 774926C8
+P 26950 13100
+F 0 "R28" V 26754 13100 50  0000 C CNN
+F 1 "200" V 26845 13100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 26950 13100 50  0001 C CNN
+F 3 "" H 26950 13100 50  0001 C CNN
+	1    26950 13100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	26850 13100 26350 13100
+$Comp
+L Device:LED HLED1
+U 1 1 774926D0
+P 26200 13100
+F 0 "HLED1" H 26400 13050 50  0000 C CNN
+F 1 "E_HEARTBEAT" H 26350 13150 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" H 26200 13100 50  0001 C CNN
+F 3 "~" H 26200 13100 50  0001 C CNN
+	1    26200 13100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	26050 13100 25950 13100
+Wire Wire Line
+	27050 13100 27150 13100
+Text Label 25950 13100 2    50   ~ 0
+ESP_GND
+Wire Wire Line
+	29700 13300 29800 13300
+$Comp
+L Switch:SW_DIP_x02 DIPSW1
+U 1 1 5C552149
+P 30800 10550
+F 0 "DIPSW1" H 30800 10917 50  0000 C CNN
+F 1 "E_BOOTOPTS" H 30800 10826 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm" H 30800 10550 50  0001 C CNN
+F 3 "" H 30800 10550 50  0001 C CNN
+	1    30800 10550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP7
+U 1 1 5C561870
+P 25350 13200
+F 0 "JP7" H 25550 13250 50  0000 C CNN
+F 1 "J_ESP_RX2" H 25050 13250 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 25350 13200 50  0001 C CNN
+F 3 "~" H 25350 13200 50  0001 C CNN
+	1    25350 13200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:Jumper_2_Bridged JP8
+U 1 1 5C561EFF
+P 25350 13400
+F 0 "JP8" H 25550 13450 50  0000 C CNN
+F 1 "J_ESP_TX2" H 25050 13450 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 25350 13400 50  0001 C CNN
+F 3 "~" H 25350 13400 50  0001 C CNN
+	1    25350 13400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24800 13200 25150 13200
+Wire Wire Line
+	25550 13200 27150 13200
+Wire Wire Line
+	27150 13400 25550 13400
+Text Label 27200 9750 0    50   ~ 0
+ESP_SDA
+Text Label 27200 9650 0    50   ~ 0
+ESP_SCL
+Text Label 27200 9950 0    50   ~ 0
+ESP_GND
+Text Label 27200 9850 0    50   ~ 0
+ESP_3V3
+$Comp
+L chordboard-components:GROVE_I2C J6
+U 1 1 5CB27202
+P 27000 9800
+F 0 "J6" H 27327 9851 50  0000 L CNN
+F 1 "E_I2C0" H 27327 9760 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 27000 9800 50  0001 C CNN
+F 3 "" H 27000 9800 50  0001 C CNN
+	1    27000 9800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C10
+U 1 1 5C5037C7
+P 24050 9750
+F 0 "C10" H 24138 9796 50  0000 L CNN
+F 1 "100uF" H 24138 9705 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 24050 9750 50  0001 C CNN
+F 3 "~" H 24050 9750 50  0001 C CNN
+	1    24050 9750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C9
+U 1 1 5C503C81
+P 23350 9750
+F 0 "C9" H 23438 9796 50  0000 L CNN
+F 1 "10uF" H 23438 9705 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 23350 9750 50  0001 C CNN
+F 3 "~" H 23350 9750 50  0001 C CNN
+	1    23350 9750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23400 9300 23350 9300
+Wire Wire Line
+	23350 9300 23350 9650
+Wire Wire Line
+	24000 9300 24050 9300
+Wire Wire Line
+	24050 9300 24050 9650
+Wire Wire Line
+	23700 9600 23700 9950
+Wire Wire Line
+	23700 9950 23350 9950
+Wire Wire Line
+	23350 9950 23350 9850
+Wire Wire Line
+	23700 9950 24050 9950
+Wire Wire Line
+	24050 9950 24050 9850
+Connection ~ 23700 9950
+Wire Wire Line
+	23350 9300 23350 9150
+Connection ~ 23350 9300
+$Comp
+L power:+5V #PWR0101
+U 1 1 5C701095
+P 23350 9000
+F 0 "#PWR0101" H 23350 8850 50  0001 C CNN
+F 1 "+5V" H 23365 9173 50  0000 C CNN
+F 2 "" H 23350 9000 50  0001 C CNN
+F 3 "" H 23350 9000 50  0001 C CNN
+	1    23350 9000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24050 9300 24050 9150
+Connection ~ 24050 9300
+$Comp
+L power:+3.3V #PWR0102
+U 1 1 5C7688CC
+P 24050 9000
+F 0 "#PWR0102" H 24050 8850 50  0001 C CNN
+F 1 "+3.3V" H 24065 9173 50  0000 C CNN
+F 2 "" H 24050 9000 50  0001 C CNN
+F 3 "" H 24050 9000 50  0001 C CNN
+	1    24050 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J10
+U 1 1 5C768C43
+P 22450 9950
+F 0 "J10" H 22370 10167 50  0000 C CNN
+F 1 "++5V_IN" H 22370 10076 50  0000 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 22450 9950 50  0001 C CNN
+F 3 "~" H 22450 9950 50  0001 C CNN
+	1    22450 9950
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	23700 9950 23700 10050
+$Comp
+L power:GND #PWR0103
+U 1 1 5C7D124C
+P 23700 10100
+F 0 "#PWR0103" H 23700 9850 50  0001 C CNN
+F 1 "GND" H 23705 9927 50  0000 C CNN
+F 2 "" H 23700 10100 50  0001 C CNN
+F 3 "" H 23700 10100 50  0001 C CNN
+	1    23700 10100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	23700 10050 24450 10050
+Connection ~ 23700 10050
+Wire Wire Line
+	23700 10050 23700 10100
+$Comp
+L Jumper:Jumper_2_Bridged JP14
+U 1 1 5C90A2E1
+P 24650 10050
+F 0 "JP14" H 24650 10245 50  0000 C CNN
+F 1 "J_PWR_GND" H 24650 10154 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 24650 10050 50  0001 C CNN
+F 3 "~" H 24650 10050 50  0001 C CNN
+	1    24650 10050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24850 10050 25100 10050
+Wire Wire Line
+	22650 10050 23700 10050
+Text Label 25100 10050 0    50   ~ 0
+T_GND
+Wire Wire Line
+	22650 9950 22850 9950
+Wire Wire Line
+	22850 9950 22850 9150
+$Comp
+L Device:D D3
+U 1 1 5CA483E2
+P 23000 9150
+F 0 "D3" H 23000 8934 50  0000 C CNN
+F 1 "D" H 23000 9025 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" H 23000 9150 50  0001 C CNN
+F 3 "~" H 23000 9150 50  0001 C CNN
+	1    23000 9150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	23150 9150 23350 9150
+Connection ~ 23350 9150
+Wire Wire Line
+	23350 9150 23350 9050
+Connection ~ 24050 9150
+Wire Wire Line
+	24050 9150 24050 9000
+Text Label 25100 9150 0    50   ~ 0
+T_3V3
+$Comp
+L chordboard-components:GROVE_I2C J12
+U 1 1 5CC17C95
+P 25350 6950
+F 0 "J12" H 25677 7001 50  0000 L CNN
+F 1 "T_I2C0_3V" H 25677 6910 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 25350 6950 50  0001 C CNN
+F 3 "" H 25350 6950 50  0001 C CNN
+	1    25350 6950
+	1    0    0    -1  
+$EndComp
+Text Label 25150 7100 2    50   ~ 0
+T_GND
+Text Label 25150 7000 2    50   ~ 0
+T_3V3
+Text Label 25150 6800 2    50   ~ 0
+T_SCL
+Text Label 25150 6900 2    50   ~ 0
+T_SDA
+$Comp
+L chordboard-components:GROVE_I2C J1
+U 1 1 5E22B535
+P 24200 6950
+F 0 "J1" H 24527 7001 50  0000 L CNN
+F 1 "T_I2C0_3V" H 24527 6910 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 24200 6950 50  0001 C CNN
+F 3 "" H 24200 6950 50  0001 C CNN
+	1    24200 6950
+	1    0    0    -1  
+$EndComp
+Text Label 24000 7100 2    50   ~ 0
+T_GND
+Text Label 24000 7000 2    50   ~ 0
+T_3V3
+Text Label 24000 6800 2    50   ~ 0
+T_SCL
+Text Label 24000 6900 2    50   ~ 0
+T_SDA
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5D133AA3
+P 36400 8950
+F 0 "H4" H 36500 8996 50  0000 L CNN
+F 1 "MountingHole" H 36500 8905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36400 8950 50  0001 C CNN
+F 3 "~" H 36400 8950 50  0001 C CNN
+	1    36400 8950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5D133AAA
+P 36400 8750
+F 0 "H3" H 36500 8796 50  0000 L CNN
+F 1 "MountingHole" H 36500 8705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36400 8750 50  0001 C CNN
+F 3 "~" H 36400 8750 50  0001 C CNN
+	1    36400 8750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 68454DBF
+P 36300 7500
+F 0 "H8" H 36400 7546 50  0000 L CNN
+F 1 "MountingHole" H 36400 7455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7500 50  0001 C CNN
+F 3 "~" H 36300 7500 50  0001 C CNN
+	1    36300 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 68454DB9
+P 36300 7300
+F 0 "H7" H 36400 7346 50  0000 L CNN
+F 1 "MountingHole" H 36400 7255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 36300 7300 50  0001 C CNN
+F 3 "~" H 36300 7300 50  0001 C CNN
+	1    36300 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:GROVE_UART J15
+U 1 1 5CF31DCB
+P 30500 12250
+F 0 "J15" H 30827 12301 50  0000 L CNN
+F 1 "E_UART1" H 30827 12210 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 30500 12250 50  0001 C CNN
+F 3 "" H 30500 12250 50  0001 C CNN
+	1    30500 12250
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	28900 12400 30300 12400
+Wire Wire Line
+	30300 12300 28900 12300
+Text Label 30300 12100 2    50   ~ 0
+T_GND
+Text Label 30300 12200 2    50   ~ 0
+T_3V3
+$Comp
+L chordboard-components:GROVE_UART J4
+U 1 1 5D0A7484
+P 23400 13250
+F 0 "J4" H 23727 13301 50  0000 L CNN
+F 1 "E_UART2" H 23727 13210 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 23400 13250 50  0001 C CNN
+F 3 "" H 23400 13250 50  0001 C CNN
+	1    23400 13250
+	-1   0    0    1   
+$EndComp
+Text Label 23600 13100 0    50   ~ 0
+ESP_GND
+Text Label 23600 13200 0    50   ~ 0
+ESP_3V
+Wire Wire Line
+	23600 13400 25150 13400
+Wire Wire Line
+	24800 13300 24800 13200
+Wire Wire Line
+	23600 13300 24800 13300
+Text Label 24800 13400 2    50   ~ 0
+T_RX4
+Text Label 24800 13200 2    50   ~ 0
+T_TX4
+$Comp
+L chordboard-components:DMPCM5102 U3
+U 1 1 5D1B1E66
+P 21700 13150
+F 0 "U3" H 21775 12313 60  0000 C CNN
+F 1 "DMPCM5102" H 21775 12419 60  0000 C CNN
+F 2 "chordboard-footprints:DMPCM5102_BLACK" H 21700 13150 60  0001 C CNN
+F 3 "" H 21700 13150 60  0001 C CNN
+	1    21700 13150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	27150 12800 22250 12800
+Wire Wire Line
+	27150 12900 22250 12900
+Wire Wire Line
+	27150 13000 22250 13000
+Text Label 22550 9050 2    50   ~ 0
+T_5V
+Wire Wire Line
+	23350 9050 22550 9050
+Connection ~ 23350 9050
+Wire Wire Line
+	23350 9050 23350 9000
+Text Label 22250 13600 0    50   ~ 0
+T_5V
+$Comp
+L Connector_Generic:Conn_01x03 J3
+U 1 1 5D1D6E12
+P 20600 13450
+F 0 "J3" H 20520 13767 50  0000 C CNN
+F 1 "Conn_01x03" H 20520 13676 50  0000 C CNN
+F 2 "Connector_JST:JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical" H 20600 13450 50  0001 C CNN
+F 3 "~" H 20600 13450 50  0001 C CNN
+	1    20600 13450
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	20800 13350 21000 13350
+Wire Wire Line
+	21000 13450 20800 13450
+Wire Wire Line
+	20800 13550 21000 13550
+Text Label 22250 13400 0    50   ~ 0
+DAC_GND
+Wire Wire Line
+	22250 13400 22700 13400
+Wire Wire Line
+	22700 13400 22700 13900
+$Comp
+L Jumper:Jumper_2_Bridged JP1
+U 1 1 5D1EB879
+P 22700 14100
+F 0 "JP1" H 22700 14295 50  0000 C CNN
+F 1 "Jumper_2_Bridged" H 22700 14204 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 22700 14100 50  0001 C CNN
+F 3 "~" H 22700 14100 50  0001 C CNN
+	1    22700 14100
+	0    1    1    0   
+$EndComp
+Text Label 22700 14450 2    50   ~ 0
+T_GND
+Wire Wire Line
+	22700 14450 22700 14300
+Text Label 22250 13500 0    50   ~ 0
+DAC_3V3
+Text Label 22250 12600 0    50   ~ 0
+DAC_3V3
+Wire Wire Line
+	22250 12600 22650 12600
+$Comp
+L Jumper:Jumper_2_Open JP2
+U 1 1 5D1FD36D
+P 22850 12600
+F 0 "JP2" H 22850 12835 50  0000 C CNN
+F 1 "Jumper_2_Open" H 22850 12744 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 22850 12600 50  0001 C CNN
+F 3 "~" H 22850 12600 50  0001 C CNN
+	1    22850 12600
+	1    0    0    -1  
+$EndComp
+Text Label 23150 12600 0    50   ~ 0
+T_5V
+Wire Wire Line
+	23150 12600 23050 12600
+Wire Wire Line
+	22250 13300 22700 13300
+Wire Wire Line
+	22700 13300 22700 13400
+Connection ~ 22700 13400
+Wire Wire Line
+	22250 13200 22700 13200
+Wire Wire Line
+	22700 13200 22700 13300
+Connection ~ 22700 13300
+Wire Wire Line
+	22250 13100 22700 13100
+Wire Wire Line
+	22700 13100 22700 13200
+Connection ~ 22700 13200
+Wire Wire Line
+	22250 12700 22700 12700
+Wire Wire Line
+	22700 12700 22700 13100
+Connection ~ 22700 13100
+Wire Wire Line
+	24850 9150 25100 9150
+Wire Wire Line
+	24050 9150 24450 9150
+$Comp
+L Jumper:Jumper_2_Bridged JP13
+U 1 1 5CAB3550
+P 24650 9150
+F 0 "JP13" H 24650 9345 50  0000 C CNN
+F 1 "J_PWR_3V3" H 24650 9254 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm" H 24650 9150 50  0001 C CNN
+F 3 "~" H 24650 9150 50  0001 C CNN
+	1    24650 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:AZ1117-3.3 U2
+U 1 1 5C502FAF
+P 23700 9300
+F 0 "U2" H 23700 9542 50  0000 C CNN
+F 1 "AZ1117-3.3" H 23700 9451 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 23700 9550 50  0001 C CIN
+F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 23700 9300 50  0001 C CNN
+	1    23700 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L chordboard-components:SD_BREAKOUT U4
+U 1 1 5C9BF0A0
+P 32200 12900
+F 0 "U4" H 32528 12946 50  0000 L CNN
+F 1 "SD_BREAKOUT" H 32528 12855 50  0000 L CNN
+F 2 "chordboard-footprints:SD_BREAKOUT" H 32350 12950 50  0001 C CNN
+F 3 "" H 32350 12950 50  0001 C CNN
+	1    32200 12900
+	1    0    0    -1  
+$EndComp
+Text Label 31650 12800 2    50   ~ 0
+ESP_GND
+Text Label 31650 12900 2    50   ~ 0
+ESP_SCK
+Text Label 31650 13000 2    50   ~ 0
+ESP_3V3
+Text Label 31650 13100 2    50   ~ 0
+ESP_MOSI
+Text Label 31650 13200 2    50   ~ 0
+ESP_CS
+Text Label 31650 12700 2    50   ~ 0
+ESP_MISO
+Wire Wire Line
+	28900 12700 31650 12700
+Wire Wire Line
+	31650 12900 30700 12900
+Wire Wire Line
+	30700 12900 30700 12800
+Wire Wire Line
+	30700 12800 28900 12800
+Wire Wire Line
+	28900 12900 30500 12900
+Wire Wire Line
+	30500 12900 30500 13200
+Wire Wire Line
+	30500 13200 31650 13200
+Wire Wire Line
+	28900 12100 30000 12100
+Wire Wire Line
+	30000 12100 30000 11950
+Wire Wire Line
+	30000 11950 31150 11950
+Wire Wire Line
+	31150 11950 31150 13100
+Wire Wire Line
+	31150 13100 31650 13100
+$Comp
+L Relay:G5Q-1A RELAY1
+U 1 1 5CA67263
+P 36100 11350
+F 0 "RELAY1" H 36430 11396 50  0000 L CNN
+F 1 "HF46F" H 36430 11305 50  0000 L CNN
+F 2 "chordboard-footprints:Relay_HF46F" H 36450 11300 50  0001 L CNN
+F 3 "https://www.omron.com/ecb/products/pdf/en-g5q.pdf" H 37200 11050 50  0001 C CNN
+	1    36100 11350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Relay:G5Q-1A RELAY2
+U 1 1 5C9C5187
+P 36100 12100
+F 0 "RELAY2" H 36430 12146 50  0000 L CNN
+F 1 "HF46F" H 36430 12055 50  0000 L CNN
+F 2 "chordboard-footprints:Relay_HF46F" H 36450 12050 50  0001 L CNN
+F 3 "https://www.omron.com/ecb/products/pdf/en-g5q.pdf" H 37200 11800 50  0001 C CNN
+	1    36100 12100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Relay:G5Q-1A RELAY3
+U 1 1 5C9C5211
+P 36100 12850
+F 0 "RELAY3" H 36430 12896 50  0000 L CNN
+F 1 "HF46F" H 36430 12805 50  0000 L CNN
+F 2 "chordboard-footprints:Relay_HF46F" H 36450 12800 50  0001 L CNN
+F 3 "https://www.omron.com/ecb/products/pdf/en-g5q.pdf" H 37200 12550 50  0001 C CNN
+	1    36100 12850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Isolator:SFH617A-1 U5
+U 1 1 5C9CEBE0
+P 38350 11350
+F 0 "U5" H 38350 11675 50  0000 C CNN
+F 1 "SFH617A-1" H 38350 11584 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm" H 38150 11150 50  0001 L CIN
+F 3 "http://www.vishay.com/docs/83740/sfh617a.pdf" H 38350 11350 50  0001 L CNN
+	1    38350 11350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC337 Q3
+U 1 1 5C9D3717
+P 37350 11350
+F 0 "Q3" H 37541 11396 50  0000 L CNN
+F 1 "BC337" H 37541 11305 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 37550 11275 50  0001 L CIN
+F 3 "http://www.nxp.com/documents/data_sheet/BC817_BC817W_BC337.pdf" H 37350 11350 50  0001 L CNN
+	1    37350 11350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4002 D1
+U 1 1 5C9DDCE7
+P 35350 11350
+F 0 "D1" V 35304 11429 50  0000 L CNN
+F 1 "1N4002" V 35395 11429 50  0000 L CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 35350 11175 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 35350 11350 50  0001 C CNN
+	1    35350 11350
+	0    1    1    0   
+$EndComp
+$Comp
+L Converter_ACDC:HS-40003 PS?
+U 1 1 5CA0FDD0
+P 39550 9250
+F 0 "PS?" H 39550 9575 50  0000 C CNN
+F 1 "HS-40003" H 39550 9484 50  0000 C CNN
+F 2 "Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT" H 39550 8950 50  0001 C CNN
+F 3 "http://www.tme.eu/de/Document/d4b3c52125889c3435af182c9515c76b/HS40003.pdf" H 39550 8850 50  0001 C CNN
+	1    39550 9250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
